@@ -214,6 +214,11 @@ def get_event_type(title):
     return "other"
 
 
+def is_break(title):
+    t = title.lower()
+    return any(kw in t for kw in ("coffee", "lunch", "break", "reception", "dinner"))
+
+
 def get_language(title):
     if "keynote" in title.lower():
         return "en"
@@ -291,6 +296,9 @@ def extract_events(inner_soup):
                 parsed = parse_item_description(desc, item_div)
                 title = parsed["title"]
                 room = parsed["room"]
+
+                if "registration" in title.lower():
+                    continue
 
                 dedup_key = (day_date, start_time, title, room)
                 if dedup_key in seen:
@@ -382,6 +390,32 @@ def extract_events(inner_soup):
                     events.append(event)
                     event_id += 1
 
+    return events
+
+
+def inject_breaks_into_all_rooms(events):
+    """Duplicate break/lunch events across all rooms on the same day so they
+    appear in every room's timeline in the schedule app."""
+    by_day = defaultdict(list)
+    for ev in events:
+        by_day[ev["day_index"]].append(ev)
+
+    extra = []
+    for day_events in by_day.values():
+        rooms = {ev["room"] for ev in day_events if ev["room"]}
+        breaks = [ev for ev in day_events if is_break(ev["title"])]
+        for brk in breaks:
+            for room in rooms:
+                if room == brk["room"]:
+                    continue
+                slug = make_event_slug("se2026", 0, f"{brk['title']}-{room}")
+                copy = dict(brk)
+                copy["room"] = room
+                copy["slug"] = slug
+                copy["guid"] = make_guid(slug)
+                extra.append(copy)
+
+    events.extend(extra)
     return events
 
 
@@ -509,6 +543,10 @@ def main():
     print("Extracting events ...", file=sys.stderr)
     events = extract_events(inner_soup)
     print(f"  Found {len(events)} unique events", file=sys.stderr)
+
+    print("Injecting breaks into all rooms ...", file=sys.stderr)
+    events = inject_breaks_into_all_rooms(events)
+    print(f"  Total events after break injection: {len(events)}", file=sys.stderr)
 
     print("Building XML ...", file=sys.stderr)
     root = build_xml(events)

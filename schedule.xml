@@ -54,12 +54,12 @@
   </tracks>
   <day index="1" date="2026-02-23" start="2026-02-23T09:00:00+01:00" end="2026-02-24T08:59:00+01:00">
     <room name="4.61 Piazza" slug="461-piazza">
-      <event guid="a4225e53-bccb-5c45-aa8a-b8faec510243" id="7">
+      <event guid="42468b49-d7c1-593b-b1d4-3380616a1e62" id="5">
         <date>2026-02-23T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
         <room>4.61 Piazza</room>
-        <slug>se2026-7-coffee-break</slug>
+        <slug>se2026-5-coffee-break</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Coffee Break</title>
         <subtitle/>
@@ -72,12 +72,30 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="ebcedc7b-1f4f-5c4a-9d17-e031002331c7" id="3">
+      <event guid="08d204f2-6087-5f80-881f-3de5e37aa63c" id="7">
+        <date>2026-02-23T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>4.61 Piazza</room>
+        <slug>se2026-0-lunch-461-piazza</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="eaprog">EAPROG 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="b4bf22e1-6591-503d-8ffe-d222455e141e" id="2">
         <date>2026-02-23T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
         <room>4.61 Piazza</room>
-        <slug>se2026-3-coffee-break</slug>
+        <slug>se2026-2-coffee-break</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Coffee Break</title>
         <subtitle/>
@@ -92,12 +110,48 @@
       </event>
     </room>
     <room name="5.55 Raum L" slug="555-raum-l">
-      <event guid="f25c8bec-67fa-5b25-85f7-4a09d1d8bc79" id="14">
+      <event guid="d6aad721-2da2-554e-86a8-d32d01214317" id="5">
+        <date>2026-02-23T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>5.55 Raum L</room>
+        <slug>se2026-0-coffee-break-555-raum-l</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="eaprog">EAPROG 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="b2f6181e-6022-5488-8020-31a5c061fb7a" id="7">
+        <date>2026-02-23T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>5.55 Raum L</room>
+        <slug>se2026-0-lunch-555-raum-l</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="eaprog">EAPROG 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="1e6f140d-8d6b-55c2-8846-0e06669e9d15" id="12">
         <date>2026-02-23T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>01:30</duration>
         <room>5.55 Raum L</room>
-        <slug>se2026-14-rdmxse-2026</slug>
+        <slug>se2026-12-rdmxse-2026</slug>
         <url>https://se2026.inf.unibe.ch/en/workshops/rdmxse/</url>
         <title>RDMxSE 2026</title>
         <subtitle/>
@@ -115,12 +169,30 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5cf11540-923a-572a-b0ac-ccf155720b89" id="15">
+      <event guid="d6aad721-2da2-554e-86a8-d32d01214317" id="2">
+        <date>2026-02-23T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>5.55 Raum L</room>
+        <slug>se2026-0-coffee-break-555-raum-l</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="ase">ASE 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="7118116c-2890-5ae3-9b9b-319ac49dda77" id="13">
         <date>2026-02-23T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>01:30</duration>
         <room>5.55 Raum L</room>
-        <slug>se2026-15-rdmxse-2026</slug>
+        <slug>se2026-13-rdmxse-2026</slug>
         <url>https://se2026.inf.unibe.ch/en/workshops/rdmxse/</url>
         <title>RDMxSE 2026</title>
         <subtitle/>
@@ -140,10 +212,49 @@
       </event>
     </room>
     <room name="5.58 Raum L+" slug="558-raum-l">
-      <event guid="feb952db-bf0d-5f06-8c9e-07dd8554630e" id="6">
+      <event guid="f466812c-e07b-52d3-8d44-f85c9520bbf9" id="4">
         <date>2026-02-23T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>01:00</duration>
+        <room>5.58 Raum L+</room>
+        <slug>se2026-4-eaprog-2026</slug>
+        <url>https://se2026.inf.unibe.ch/en/workshops/eaprog/</url>
+        <title>EAPROG 2026</title>
+        <subtitle/>
+        <track slug="eaprog">EAPROG 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="1">Rony G. Flatscher (WU Vienna (AT))</person>
+          <person id="2">Till Winkler (Interdisciplinary Transformation University Austria (IT:U) (AT))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="5e865215-e031-500c-881e-d930983458d7" id="5">
+        <date>2026-02-23T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>5.58 Raum L+</room>
+        <slug>se2026-0-coffee-break-558-raum-l</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="eaprog">EAPROG 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="feb952db-bf0d-5f06-8c9e-07dd8554630e" id="6">
+        <date>2026-02-23T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>01:30</duration>
         <room>5.58 Raum L+</room>
         <slug>se2026-6-eaprog-2026</slug>
         <url>https://se2026.inf.unibe.ch/en/workshops/eaprog/</url>
@@ -161,33 +272,30 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5b4c98e4-dd52-5f50-971b-83fabe85bcd8" id="8">
-        <date>2026-02-23T10:30:00+01:00</date>
-        <start>10:30</start>
+      <event guid="980c4f7b-f54a-5517-b1e5-3adb86691d7f" id="7">
+        <date>2026-02-23T12:00:00+01:00</date>
+        <start>12:00</start>
         <duration>01:30</duration>
         <room>5.58 Raum L+</room>
-        <slug>se2026-8-eaprog-2026</slug>
-        <url>https://se2026.inf.unibe.ch/en/workshops/eaprog/</url>
-        <title>EAPROG 2026</title>
+        <slug>se2026-0-lunch-558-raum-l</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
         <subtitle/>
         <track slug="eaprog">EAPROG 2026</track>
         <type>other</type>
         <language>de</language>
         <abstract/>
         <description/>
-        <persons>
-          <person id="1">Rony G. Flatscher (WU Vienna (AT))</person>
-          <person id="2">Till Winkler (Interdisciplinary Transformation University Austria (IT:U) (AT))</person>
-        </persons>
+        <persons/>
         <attachments/>
         <links/>
       </event>
-      <event guid="1406e5fd-be52-5500-915e-dbf82a76d1a7" id="2">
+      <event guid="5b7f7abd-1f50-5f15-8e8f-134dc9109bf1" id="1">
         <date>2026-02-23T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>01:30</duration>
         <room>5.58 Raum L+</room>
-        <slug>se2026-2-ase-2026</slug>
+        <slug>se2026-1-ase-2026</slug>
         <url>https://se2026.inf.unibe.ch/en/workshops/ase/</url>
         <title>ASE 2026</title>
         <subtitle/>
@@ -203,12 +311,30 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="03cc4e37-4391-5b2c-a5d9-5eacabcb7246" id="4">
+      <event guid="5e865215-e031-500c-881e-d930983458d7" id="2">
+        <date>2026-02-23T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>5.58 Raum L+</room>
+        <slug>se2026-0-coffee-break-558-raum-l</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="ase">ASE 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="5fb992dc-6537-5800-ad0a-38761442c08b" id="3">
         <date>2026-02-23T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>01:30</duration>
         <room>5.58 Raum L+</room>
-        <slug>se2026-4-ase-2026</slug>
+        <slug>se2026-3-ase-2026</slug>
         <url>https://se2026.inf.unibe.ch/en/workshops/ase/</url>
         <title>ASE 2026</title>
         <subtitle/>
@@ -226,10 +352,94 @@
       </event>
     </room>
     <room name="6.61 Raum L+" slug="661-raum-l">
-      <event guid="1200da59-da7f-5972-9979-2f45be78e193" id="10">
+      <event guid="9798ecc8-db8c-536d-8f46-9c241d79f0bd" id="8">
         <date>2026-02-23T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>01:00</duration>
+        <room>6.61 Raum L+</room>
+        <slug>se2026-8-q-stav-2026</slug>
+        <url>https://se2026.inf.unibe.ch/en/workshops/q-stav/</url>
+        <title>Q-STAV 2026</title>
+        <subtitle/>
+        <track slug="q-stav">Q-STAV 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="1">Malte Lochau (University of Siegen (DE))</person>
+          <person id="2">Benedikt Fauseweh (TU Dortmund / German Aerospace Center (DLR) (DE))</person>
+          <person id="3">Anna Pappa (TU Berlin (DE))</person>
+          <person id="4">Benjamin Kaminski (Saarland University (DE))</person>
+          <person id="5">Ina Schaefer (Karlsruhe Institute of Technology (KIT) (DE))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="354fb82b-2791-5598-879b-d768df2ff130" id="5">
+        <date>2026-02-23T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>6.61 Raum L+</room>
+        <slug>se2026-0-coffee-break-661-raum-l</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="eaprog">EAPROG 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="efdd7fca-35fc-5de0-80bf-b08dc1bb7659" id="9">
+        <date>2026-02-23T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>01:30</duration>
+        <room>6.61 Raum L+</room>
+        <slug>se2026-9-q-stav-2026</slug>
+        <url>https://se2026.inf.unibe.ch/en/workshops/q-stav/</url>
+        <title>Q-STAV 2026</title>
+        <subtitle/>
+        <track slug="q-stav">Q-STAV 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="1">Malte Lochau (University of Siegen (DE))</person>
+          <person id="2">Benedikt Fauseweh (TU Dortmund / German Aerospace Center (DLR) (DE))</person>
+          <person id="3">Anna Pappa (TU Berlin (DE))</person>
+          <person id="4">Benjamin Kaminski (Saarland University (DE))</person>
+          <person id="5">Ina Schaefer (Karlsruhe Institute of Technology (KIT) (DE))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="af0ec4e9-5f1b-5391-b10a-d7a4fd5c4944" id="7">
+        <date>2026-02-23T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>6.61 Raum L+</room>
+        <slug>se2026-0-lunch-661-raum-l</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="eaprog">EAPROG 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="1200da59-da7f-5972-9979-2f45be78e193" id="10">
+        <date>2026-02-23T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>01:30</duration>
         <room>6.61 Raum L+</room>
         <slug>se2026-10-q-stav-2026</slug>
         <url>https://se2026.inf.unibe.ch/en/workshops/q-stav/</url>
@@ -250,10 +460,28 @@
         <attachments/>
         <links/>
       </event>
+      <event guid="354fb82b-2791-5598-879b-d768df2ff130" id="2">
+        <date>2026-02-23T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>6.61 Raum L+</room>
+        <slug>se2026-0-coffee-break-661-raum-l</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="ase">ASE 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
       <event guid="fbf45824-9a47-5e62-b27d-ce259e632b13" id="11">
-        <date>2026-02-23T10:30:00+01:00</date>
-        <start>10:30</start>
-        <duration>01:30</duration>
+        <date>2026-02-23T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>02:00</duration>
         <room>6.61 Raum L+</room>
         <slug>se2026-11-q-stav-2026</slug>
         <url>https://se2026.inf.unibe.ch/en/workshops/q-stav/</url>
@@ -274,64 +502,16 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="18923662-3bb5-5c25-99fe-e566f7cd9784" id="12">
-        <date>2026-02-23T13:30:00+01:00</date>
-        <start>13:30</start>
-        <duration>01:30</duration>
-        <room>6.61 Raum L+</room>
-        <slug>se2026-12-q-stav-2026</slug>
-        <url>https://se2026.inf.unibe.ch/en/workshops/q-stav/</url>
-        <title>Q-STAV 2026</title>
-        <subtitle/>
-        <track slug="q-stav">Q-STAV 2026</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="1">Malte Lochau (University of Siegen (DE))</person>
-          <person id="2">Benedikt Fauseweh (TU Dortmund / German Aerospace Center (DLR) (DE))</person>
-          <person id="3">Anna Pappa (TU Berlin (DE))</person>
-          <person id="4">Benjamin Kaminski (Saarland University (DE))</person>
-          <person id="5">Ina Schaefer (Karlsruhe Institute of Technology (KIT) (DE))</person>
-        </persons>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="a165ef01-d5cd-58f6-9457-25ff23cb916e" id="13">
-        <date>2026-02-23T15:30:00+01:00</date>
-        <start>15:30</start>
-        <duration>02:00</duration>
-        <room>6.61 Raum L+</room>
-        <slug>se2026-13-q-stav-2026</slug>
-        <url>https://se2026.inf.unibe.ch/en/workshops/q-stav/</url>
-        <title>Q-STAV 2026</title>
-        <subtitle/>
-        <track slug="q-stav">Q-STAV 2026</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="1">Malte Lochau (University of Siegen (DE))</person>
-          <person id="2">Benedikt Fauseweh (TU Dortmund / German Aerospace Center (DLR) (DE))</person>
-          <person id="3">Anna Pappa (TU Berlin (DE))</person>
-          <person id="4">Benjamin Kaminski (Saarland University (DE))</person>
-          <person id="5">Ina Schaefer (Karlsruhe Institute of Technology (KIT) (DE))</person>
-        </persons>
-        <attachments/>
-        <links/>
-      </event>
     </room>
-    <room name="Reception (3 rd Floor)" slug="reception-3-rd-floor">
-      <event guid="501d61b3-759a-543e-a15d-c756db22e5e2" id="5">
-        <date>2026-02-23T08:30:00+01:00</date>
-        <start>08:30</start>
+    <room name="UniS" slug="unis">
+      <event guid="06779459-8ef1-53d6-97d4-1cc64e0c4ca8" id="5">
+        <date>2026-02-23T10:00:00+01:00</date>
+        <start>10:00</start>
         <duration>00:30</duration>
-        <room>Reception (3 rd Floor)</room>
-        <slug>se2026-5-registration</slug>
+        <room>UniS</room>
+        <slug>se2026-0-coffee-break-unis</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Registration</title>
+        <title>Coffee Break</title>
         <subtitle/>
         <track slug="eaprog">EAPROG 2026</track>
         <type>other</type>
@@ -342,32 +522,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="c3b29af2-d2f5-5c3b-8a2e-20247515d3bd" id="1">
-        <date>2026-02-23T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>00:30</duration>
-        <room>Reception (3 rd Floor)</room>
-        <slug>se2026-1-registration</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Registration</title>
-        <subtitle/>
-        <track slug="ase">ASE 2026</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-    </room>
-    <room name="UniS" slug="unis">
-      <event guid="1e88160e-44cf-581a-b96b-db6e22f8bd1f" id="9">
+      <event guid="3f4f2aa4-932f-5ac7-8a53-47f0ee640b26" id="7">
         <date>2026-02-23T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
         <room>UniS</room>
-        <slug>se2026-9-lunch</slug>
+        <slug>se2026-7-lunch</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Lunch</title>
         <subtitle/>
@@ -380,16 +540,34 @@
         <attachments/>
         <links/>
       </event>
+      <event guid="06779459-8ef1-53d6-97d4-1cc64e0c4ca8" id="2">
+        <date>2026-02-23T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>UniS</room>
+        <slug>se2026-0-coffee-break-unis</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="ase">ASE 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
     </room>
   </day>
   <day index="2" date="2026-02-24" start="2026-02-24T09:00:00+01:00" end="2026-02-25T08:59:00+01:00">
     <room name="4.61 Piazza" slug="461-piazza">
-      <event guid="34e2b1cc-35b5-5682-a9f5-b6032c6e834b" id="18">
+      <event guid="741c1282-5337-5a06-8bcd-d23b562fc922" id="15">
         <date>2026-02-24T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
         <room>4.61 Piazza</room>
-        <slug>se2026-18-coffee-break</slug>
+        <slug>se2026-15-coffee-break</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Coffee Break</title>
         <subtitle/>
@@ -402,12 +580,30 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="c14ed28b-80fc-5159-9862-83bfaa1f031d" id="22">
+      <event guid="08d204f2-6087-5f80-881f-3de5e37aa63c" id="17">
+        <date>2026-02-24T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>4.61 Piazza</room>
+        <slug>se2026-0-lunch-461-piazza</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="aviose">AvioSE 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="0925ef71-f840-54af-ab3f-323cff56fd31" id="19">
         <date>2026-02-24T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
         <room>4.61 Piazza</room>
-        <slug>se2026-22-coffee-break</slug>
+        <slug>se2026-19-coffee-break</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Coffee Break</title>
         <subtitle/>
@@ -422,12 +618,12 @@
       </event>
     </room>
     <room name="5.20 Raum L" slug="520-raum-l">
-      <event guid="37b9c978-3985-551c-ad62-48f1fc4686ca" id="17">
+      <event guid="59c99e2c-7141-5e0c-93cd-2fb73ef623b5" id="14">
         <date>2026-02-24T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>01:00</duration>
         <room>5.20 Raum L</room>
-        <slug>se2026-17-aviose-2026</slug>
+        <slug>se2026-14-aviose-2026</slug>
         <url>https://se2026.inf.unibe.ch/en/workshops/aviose/</url>
         <title>AvioSE 2026</title>
         <subtitle/>
@@ -445,12 +641,30 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="78fe9a28-e286-5ef2-8307-f0db20d4cf9b" id="19">
+      <event guid="1cfc27b5-42fd-5196-bdd5-e1ce7a44fa14" id="15">
+        <date>2026-02-24T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>5.20 Raum L</room>
+        <slug>se2026-0-coffee-break-520-raum-l</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="aviose">AvioSE 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="5857d9b9-f3db-59e0-aec6-44bdd88e6497" id="16">
         <date>2026-02-24T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>01:30</duration>
         <room>5.20 Raum L</room>
-        <slug>se2026-19-aviose-2026</slug>
+        <slug>se2026-16-aviose-2026</slug>
         <url>https://se2026.inf.unibe.ch/en/workshops/aviose/</url>
         <title>AvioSE 2026</title>
         <subtitle/>
@@ -468,12 +682,30 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5ab1f537-a6e8-5cde-9938-692e4b8d18b0" id="21">
+      <event guid="1628d46b-bc0d-5b09-a367-6c6488b3f8bd" id="17">
+        <date>2026-02-24T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>5.20 Raum L</room>
+        <slug>se2026-0-lunch-520-raum-l</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="aviose">AvioSE 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="132695e1-4b61-5573-9ff6-b8fe118413ad" id="18">
         <date>2026-02-24T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>01:30</duration>
         <room>5.20 Raum L</room>
-        <slug>se2026-21-aviose-2026</slug>
+        <slug>se2026-18-aviose-2026</slug>
         <url>https://se2026.inf.unibe.ch/en/workshops/aviose/</url>
         <title>AvioSE 2026</title>
         <subtitle/>
@@ -491,12 +723,30 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="f58d1c73-0131-5065-b9cf-696952da2045" id="23">
+      <event guid="1cfc27b5-42fd-5196-bdd5-e1ce7a44fa14" id="19">
+        <date>2026-02-24T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>5.20 Raum L</room>
+        <slug>se2026-0-coffee-break-520-raum-l</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="aviose">AvioSE 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="addee960-d479-50eb-bb77-8b0230de0f3d" id="20">
         <date>2026-02-24T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>01:30</duration>
         <room>5.20 Raum L</room>
-        <slug>se2026-23-aviose-2026</slug>
+        <slug>se2026-20-aviose-2026</slug>
         <url>https://se2026.inf.unibe.ch/en/workshops/aviose/</url>
         <title>AvioSE 2026</title>
         <subtitle/>
@@ -516,12 +766,12 @@
       </event>
     </room>
     <room name="5.55 Raum L" slug="555-raum-l">
-      <event guid="45f17243-ad88-5bc6-8272-26962fd46a1c" id="27">
+      <event guid="a9b93dcf-ebee-58b4-bbbb-d95d7b345d95" id="23">
         <date>2026-02-24T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>01:00</duration>
         <room>5.55 Raum L</room>
-        <slug>se2026-27-rdmxse-2026</slug>
+        <slug>se2026-23-rdmxse-2026</slug>
         <url>https://se2026.inf.unibe.ch/en/workshops/rdmxse/</url>
         <title>RDMxSE 2026</title>
         <subtitle/>
@@ -539,127 +789,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="01cf7c32-c753-5b4e-95b8-9bb7ab71d8ce" id="28">
-        <date>2026-02-24T10:30:00+01:00</date>
-        <start>10:30</start>
-        <duration>01:30</duration>
-        <room>5.55 Raum L</room>
-        <slug>se2026-28-rdmxse-2026</slug>
-        <url>https://se2026.inf.unibe.ch/en/workshops/rdmxse/</url>
-        <title>RDMxSE 2026</title>
-        <subtitle/>
-        <track slug="rdmxse">RDMxSE 2026</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="1">Michael Goedicke (Universität Duisburg-Essen (DE))</person>
-          <person id="2">Martin Armbruster (Karlsruher Institut für Technologie (KIT) (DE))</person>
-          <person id="3">Safial Islam Ayon (Universität Potsdam (DE))</person>
-          <person id="4">Angelika Kaplan (Karlsruher Institut für Technologie (KIT) (DE))</person>
-        </persons>
-        <attachments/>
-        <links/>
-      </event>
-    </room>
-    <room name="5.58 Raum L+" slug="558-raum-l">
-      <event guid="e2d9ed05-a6a8-5ca2-81e0-29448fcf06bc" id="29">
-        <date>2026-02-24T09:00:00+01:00</date>
-        <start>09:00</start>
-        <duration>01:00</duration>
-        <room>5.58 Raum L+</room>
-        <slug>se2026-29-secpps-2026</slug>
-        <url>https://se2026.inf.unibe.ch/en/workshops/secpps/</url>
-        <title>SECPPS 2026</title>
-        <subtitle/>
-        <track slug="secpps">SECPPS 2026</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="1">Sandra Greiner (University of Southern Denmark (SDU) (DK))</person>
-          <person id="2">Stefan Klikovits (Johannes Kepler University Linz (JKU) (AT))</person>
-        </persons>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="16f90e36-ecb3-5520-bc6e-e0473e201230" id="30">
-        <date>2026-02-24T10:30:00+01:00</date>
-        <start>10:30</start>
-        <duration>01:30</duration>
-        <room>5.58 Raum L+</room>
-        <slug>se2026-30-secpps-2026</slug>
-        <url>https://se2026.inf.unibe.ch/en/workshops/secpps/</url>
-        <title>SECPPS 2026</title>
-        <subtitle/>
-        <track slug="secpps">SECPPS 2026</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="1">Sandra Greiner (University of Southern Denmark (SDU) (DK))</person>
-          <person id="2">Stefan Klikovits (Johannes Kepler University Linz (JKU) (AT))</person>
-        </persons>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="2f506319-c03f-58d7-ad7e-e0146b0b7151" id="25">
-        <date>2026-02-24T13:30:00+01:00</date>
-        <start>13:30</start>
-        <duration>01:30</duration>
-        <room>5.58 Raum L+</room>
-        <slug>se2026-25-gense-2026</slug>
-        <url>https://se2026.inf.unibe.ch/en/workshops/gense/</url>
-        <title>GenSE 2026</title>
-        <subtitle/>
-        <track slug="gense">GenSE 2026</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="1">Ruben Ruiz-Torrubiano (IMC Krems University of Applied Sciences (AT))</person>
-          <person id="2">Simon Steyskal (Siemens AG Austria (AT))</person>
-          <person id="3">Danilo Valerio (Siemens AG Austria (AT))</person>
-        </persons>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="d47505cf-3138-5883-8bc0-05c173b2386b" id="26">
-        <date>2026-02-24T15:30:00+01:00</date>
-        <start>15:30</start>
-        <duration>01:30</duration>
-        <room>5.58 Raum L+</room>
-        <slug>se2026-26-gense-2026</slug>
-        <url>https://se2026.inf.unibe.ch/en/workshops/gense/</url>
-        <title>GenSE 2026</title>
-        <subtitle/>
-        <track slug="gense">GenSE 2026</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="1">Ruben Ruiz-Torrubiano (IMC Krems University of Applied Sciences (AT))</person>
-          <person id="2">Simon Steyskal (Siemens AG Austria (AT))</person>
-          <person id="3">Danilo Valerio (Siemens AG Austria (AT))</person>
-        </persons>
-        <attachments/>
-        <links/>
-      </event>
-    </room>
-    <room name="Reception (3 rd Floor)" slug="reception-3-rd-floor">
-      <event guid="4f961b1f-c5d5-5d80-bd52-6dd75aad672c" id="16">
-        <date>2026-02-24T08:30:00+01:00</date>
-        <start>08:30</start>
+      <event guid="d6aad721-2da2-554e-86a8-d32d01214317" id="15">
+        <date>2026-02-24T10:00:00+01:00</date>
+        <start>10:00</start>
         <duration>00:30</duration>
-        <room>Reception (3 rd Floor)</room>
-        <slug>se2026-16-registration</slug>
+        <room>5.55 Raum L</room>
+        <slug>se2026-0-coffee-break-555-raum-l</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Registration</title>
+        <title>Coffee Break</title>
         <subtitle/>
         <track slug="aviose">AvioSE 2026</track>
         <type>other</type>
@@ -670,16 +807,57 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="7f660574-ebaa-5166-a292-ba7707b42d4b" id="24">
-        <date>2026-02-24T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>00:30</duration>
-        <room>Reception (3 rd Floor)</room>
-        <slug>se2026-24-registration</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Registration</title>
+      <event guid="758e8554-2871-5fd5-8373-95e775b2731f" id="24">
+        <date>2026-02-24T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>01:30</duration>
+        <room>5.55 Raum L</room>
+        <slug>se2026-24-rdmxse-2026</slug>
+        <url>https://se2026.inf.unibe.ch/en/workshops/rdmxse/</url>
+        <title>RDMxSE 2026</title>
         <subtitle/>
-        <track slug="gense">GenSE 2026</track>
+        <track slug="rdmxse">RDMxSE 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="1">Michael Goedicke (Universität Duisburg-Essen (DE))</person>
+          <person id="2">Martin Armbruster (Karlsruher Institut für Technologie (KIT) (DE))</person>
+          <person id="3">Safial Islam Ayon (Universität Potsdam (DE))</person>
+          <person id="4">Angelika Kaplan (Karlsruher Institut für Technologie (KIT) (DE))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="b2f6181e-6022-5488-8020-31a5c061fb7a" id="17">
+        <date>2026-02-24T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>5.55 Raum L</room>
+        <slug>se2026-0-lunch-555-raum-l</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="aviose">AvioSE 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="d6aad721-2da2-554e-86a8-d32d01214317" id="19">
+        <date>2026-02-24T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>5.55 Raum L</room>
+        <slug>se2026-0-coffee-break-555-raum-l</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="aviose">AvioSE 2026</track>
         <type>other</type>
         <language>de</language>
         <abstract/>
@@ -689,15 +867,193 @@
         <links/>
       </event>
     </room>
+    <room name="5.58 Raum L+" slug="558-raum-l">
+      <event guid="97bde574-f3c0-5b08-a602-e02c2e7ad412" id="25">
+        <date>2026-02-24T09:00:00+01:00</date>
+        <start>09:00</start>
+        <duration>01:00</duration>
+        <room>5.58 Raum L+</room>
+        <slug>se2026-25-secpps-2026</slug>
+        <url>https://se2026.inf.unibe.ch/en/workshops/secpps/</url>
+        <title>SECPPS 2026</title>
+        <subtitle/>
+        <track slug="secpps">SECPPS 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="1">Sandra Greiner (University of Southern Denmark (SDU) (DK))</person>
+          <person id="2">Stefan Klikovits (Johannes Kepler University Linz (JKU) (AT))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="5e865215-e031-500c-881e-d930983458d7" id="15">
+        <date>2026-02-24T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>5.58 Raum L+</room>
+        <slug>se2026-0-coffee-break-558-raum-l</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="aviose">AvioSE 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="cc6e38df-a729-5190-ba76-e3668500703b" id="26">
+        <date>2026-02-24T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>01:30</duration>
+        <room>5.58 Raum L+</room>
+        <slug>se2026-26-secpps-2026</slug>
+        <url>https://se2026.inf.unibe.ch/en/workshops/secpps/</url>
+        <title>SECPPS 2026</title>
+        <subtitle/>
+        <track slug="secpps">SECPPS 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="1">Sandra Greiner (University of Southern Denmark (SDU) (DK))</person>
+          <person id="2">Stefan Klikovits (Johannes Kepler University Linz (JKU) (AT))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="980c4f7b-f54a-5517-b1e5-3adb86691d7f" id="17">
+        <date>2026-02-24T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>5.58 Raum L+</room>
+        <slug>se2026-0-lunch-558-raum-l</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="aviose">AvioSE 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="0b366288-c051-54be-921c-da1b0427d410" id="21">
+        <date>2026-02-24T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>01:30</duration>
+        <room>5.58 Raum L+</room>
+        <slug>se2026-21-gense-2026</slug>
+        <url>https://se2026.inf.unibe.ch/en/workshops/gense/</url>
+        <title>GenSE 2026</title>
+        <subtitle/>
+        <track slug="gense">GenSE 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="1">Ruben Ruiz-Torrubiano (IMC Krems University of Applied Sciences (AT))</person>
+          <person id="2">Simon Steyskal (Siemens AG Austria (AT))</person>
+          <person id="3">Danilo Valerio (Siemens AG Austria (AT))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="5e865215-e031-500c-881e-d930983458d7" id="19">
+        <date>2026-02-24T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>5.58 Raum L+</room>
+        <slug>se2026-0-coffee-break-558-raum-l</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="aviose">AvioSE 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="0b0d7092-e7cc-5a2b-b48e-9a4616abdfdc" id="22">
+        <date>2026-02-24T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>01:30</duration>
+        <room>5.58 Raum L+</room>
+        <slug>se2026-22-gense-2026</slug>
+        <url>https://se2026.inf.unibe.ch/en/workshops/gense/</url>
+        <title>GenSE 2026</title>
+        <subtitle/>
+        <track slug="gense">GenSE 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="1">Ruben Ruiz-Torrubiano (IMC Krems University of Applied Sciences (AT))</person>
+          <person id="2">Simon Steyskal (Siemens AG Austria (AT))</person>
+          <person id="3">Danilo Valerio (Siemens AG Austria (AT))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+    </room>
     <room name="UniS" slug="unis">
-      <event guid="8630a5ff-f631-54b3-862d-94037c2b4e88" id="20">
+      <event guid="06779459-8ef1-53d6-97d4-1cc64e0c4ca8" id="15">
+        <date>2026-02-24T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>UniS</room>
+        <slug>se2026-0-coffee-break-unis</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="aviose">AvioSE 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="9d7189f9-9fcb-533f-8104-dde7450f34f1" id="17">
         <date>2026-02-24T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
         <room>UniS</room>
-        <slug>se2026-20-lunch</slug>
+        <slug>se2026-17-lunch</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Lunch</title>
+        <subtitle/>
+        <track slug="aviose">AvioSE 2026</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="06779459-8ef1-53d6-97d4-1cc64e0c4ca8" id="19">
+        <date>2026-02-24T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>UniS</room>
+        <slug>se2026-0-coffee-break-unis</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
         <subtitle/>
         <track slug="aviose">AvioSE 2026</track>
         <type>other</type>
@@ -712,30 +1068,12 @@
   </day>
   <day index="3" date="2026-02-25" start="2026-02-25T09:00:00+01:00" end="2026-02-26T08:59:00+01:00">
     <room name="Champions Lounge" slug="champions-lounge">
-      <event guid="eafe14d4-03dc-5a15-aa73-9bce03f8d0a3" id="31">
-        <date>2026-02-25T08:30:00+01:00</date>
-        <start>08:30</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge</room>
-        <slug>se2026-31-registration</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Registration</title>
-        <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="f5b94960-86c2-59b7-a3f6-f8c8d53b6353" id="32">
+      <event guid="f5d64251-6f06-581c-95f5-a8abf96b42a4" id="27">
         <date>2026-02-25T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>00:05</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-32-opening</slug>
+        <slug>se2026-27-opening</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>Opening</title>
         <subtitle/>
@@ -750,12 +1088,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="4e54083d-5d91-5762-b636-5d2088f3af39" id="33">
+      <event guid="3ccaa447-af4f-5b73-912e-4be25997d465" id="28">
         <date>2026-02-25T09:05:00+01:00</date>
         <start>09:05</start>
         <duration>00:55</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-33-scientific-keynote-maria-christakis</slug>
+        <slug>se2026-28-scientific-keynote-maria-christakis</slug>
         <url>https://se2026.inf.unibe.ch/en/program/keynotes/maria-christakis/</url>
         <title>Scientific Keynote: Maria Christakis</title>
         <subtitle/>
@@ -771,12 +1109,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="11d29360-aba0-5ba1-84cf-e3e97970cf61" id="34">
+      <event guid="ca2ea948-354f-55c5-bfad-297f8ba4408e" id="29">
         <date>2026-02-25T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-34-coffee-break</slug>
+        <slug>se2026-29-coffee-break</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Coffee Break</title>
         <subtitle/>
@@ -789,12 +1127,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="f1d2b9d4-d9d4-5d9e-b436-7a7f8d6d3b4f" id="39">
+      <event guid="351049c2-f97c-57b8-a57d-8864c9e91505" id="34">
         <date>2026-02-25T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-39-from-prompts-to-templates-a-systematic-prompt-template-analy</slug>
+        <slug>se2026-34-from-prompts-to-templates-a-systematic-prompt-template-analy</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"From Prompts to Templates: A Systematic Prompt Template Analysis for Real-world LLMapps"</title>
         <subtitle/>
@@ -809,12 +1147,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="7650db3d-4509-572f-9ba9-85cb485c3631" id="40">
+      <event guid="fec93265-cd61-5ef2-a9e2-e0c09e054f5e" id="35">
         <date>2026-02-25T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-40-how-toxic-can-you-get-search-based-toxicity-testing-for-larg</slug>
+        <slug>se2026-35-how-toxic-can-you-get-search-based-toxicity-testing-for-larg</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"How Toxic Can You Get? Search-based Toxicity Testing for Large Language Models"</title>
         <subtitle/>
@@ -834,12 +1172,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="7cf371ac-95ba-5305-b438-c9e9c04a76bc" id="41">
+      <event guid="d7e2e106-9dd3-5e22-bc59-261e9c9f056a" id="36">
         <date>2026-02-25T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-41-mmdfast-efficient-understanding-of-machine-learning-model-mi</slug>
+        <slug>se2026-36-mmdfast-efficient-understanding-of-machine-learning-model-mi</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"MMDFast: Efficient Understanding of Machine Learning Model Mispredictions"</title>
         <subtitle/>
@@ -856,12 +1194,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="a59e6097-d97a-5f71-bb85-bfd00db750e3" id="42">
+      <event guid="c8cf136e-f43d-5bc7-bb22-f048acb0ace0" id="37">
         <date>2026-02-25T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-42-taefuzz-automatic-fuzzing-for-image-based-deep-learning-syst</slug>
+        <slug>se2026-37-taefuzz-automatic-fuzzing-for-image-based-deep-learning-syst</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"TAEFuzz: Automatic Fuzzing for Image-based Deep Learning Systems via Transferable Adversarial Examples"</title>
         <subtitle/>
@@ -882,12 +1220,33 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b5ec276a-54f3-5cdf-9c32-2d4f112a4a62" id="47">
+      <event guid="1e83d0c7-9dc7-5378-b7ad-9fba42ea12ea" id="73">
+        <date>2026-02-25T11:40:00+01:00</date>
+        <start>11:40</start>
+        <duration>00:25</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-0-breaking-dnns-mutation-testing-for-deep-neural-networks-cham</slug>
+        <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
+        <title>"Breaking DNNs: Mutation Testing for Deep Neural Networks"</title>
+        <subtitle/>
+        <track slug="choose-forum-sustainability-and-reliability-of-ai-driven-sof">CHOOSE Forum: Sustainability and Reliability of AI-Driven Software</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 7-8 minutes questions</description>
+        <persons>
+          <person id="1">Nargiz Humbatova (Università della Svizzera italiana (CH))</person>
+          <person id="2">Jinhan Kim (Università della Svizzera italiana (CH))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="84c3208d-0c94-51d5-afb2-bc985da71438" id="42">
         <date>2026-02-25T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-47-lunch</slug>
+        <slug>se2026-42-lunch</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Lunch</title>
         <subtitle/>
@@ -900,12 +1259,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="78c9fa56-2718-5bbe-a49c-18764ab526b2" id="52">
+      <event guid="90757fb1-7add-5333-ab59-e603e14abf2f" id="47">
         <date>2026-02-25T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-52-do-large-language-models-contain-software-architectural-know</slug>
+        <slug>se2026-47-do-large-language-models-contain-software-architectural-know</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Do Large Language Models Contain Software Architectural Knowledge? An Exploratory Case Study with GPT"</title>
         <subtitle/>
@@ -921,12 +1280,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="f9e5178f-bcd0-5adc-8242-c59ef3416dc4" id="53">
+      <event guid="96b8e698-8084-5c7d-9774-73ed3eb3dbff" id="48">
         <date>2026-02-25T13:52:00+01:00</date>
         <start>13:52</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-53-linking-software-system-artifacts-toward-generic-traceabilit</slug>
+        <slug>se2026-48-linking-software-system-artifacts-toward-generic-traceabilit</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Linking Software System Artifacts: Toward Generic Traceability Link Recovery through Retrieval-Augmented Generation"</title>
         <subtitle/>
@@ -947,12 +1306,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="1719521d-a4eb-520d-9ec1-d355c63882e4" id="54">
+      <event guid="f5f13b85-376e-56d3-8ee6-0fc2a33473ad" id="49">
         <date>2026-02-25T14:14:00+01:00</date>
         <start>14:14</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-54-exarch-enabling-architecture-traceability-by-llm-based-archi</slug>
+        <slug>se2026-49-exarch-enabling-architecture-traceability-by-llm-based-archi</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"ExArch: Enabling Architecture Traceability by LLM-based Architecture Component Name Extraction"</title>
         <subtitle/>
@@ -971,12 +1330,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="8dc7fb2c-b511-5051-a3ae-9a8eac4b9861" id="55">
+      <event guid="d739e90f-bf71-5779-9651-c72bf522c2cf" id="50">
         <date>2026-02-25T14:36:00+01:00</date>
         <start>14:36</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-55-machine-learning-based-mitigation-of-confidentiality-violati</slug>
+        <slug>se2026-50-machine-learning-based-mitigation-of-confidentiality-violati</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Machine Learning-Based Mitigation of Confidentiality Violations in Software Architectures"</title>
         <subtitle/>
@@ -993,12 +1352,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="aa3809dc-e84d-5996-9787-6abeaa6ca4df" id="60">
+      <event guid="82288f8f-992c-5f7f-bbde-51c0444f01b4" id="55">
         <date>2026-02-25T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-60-coffee-break</slug>
+        <slug>se2026-55-coffee-break</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Coffee Break</title>
         <subtitle/>
@@ -1011,30 +1370,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="4044b212-cd4a-53c8-adc2-6e415412b77e" id="85">
-        <date>2026-02-25T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge</room>
-        <slug>se2026-85-registration</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Registration</title>
-        <subtitle/>
-        <track slug="gi">GI/SWT/AI4SA</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="051cb0dd-8f7e-5540-a389-53f0756a0171" id="65">
+      <event guid="24bc0b31-f037-5dec-a1bc-963f2ed804b6" id="60">
         <date>2026-02-25T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-65-establishing-technical-debt-management-a-five-step-workshop</slug>
+        <slug>se2026-60-establishing-technical-debt-management-a-five-step-workshop</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Establishing Technical Debt Management – A Five-Step Workshop Approach and an Action Research Study"</title>
         <subtitle/>
@@ -1053,12 +1394,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="7f812b4d-8a53-5656-b991-cfea9ba98ce4" id="66">
+      <event guid="07e91c3a-6531-5b74-a6e4-dd45db07b9a7" id="61">
         <date>2026-02-25T15:52:00+01:00</date>
         <start>15:52</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-66-learning-program-behavioral-models-from-synthesized-input-ou</slug>
+        <slug>se2026-61-learning-program-behavioral-models-from-synthesized-input-ou</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Learning Program Behavioral Models from Synthesized Input-Output Pairs"</title>
         <subtitle/>
@@ -1076,12 +1417,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5f6f1c6c-f172-520e-b3e9-3daa75f83805" id="67">
+      <event guid="66eca9fe-8f99-5970-8a45-93c184bd8a79" id="62">
         <date>2026-02-25T16:14:00+01:00</date>
         <start>16:14</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-67-measuring-the-fidelity-of-a-physical-and-a-digital-twin-usin</slug>
+        <slug>se2026-62-measuring-the-fidelity-of-a-physical-and-a-digital-twin-usin</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Measuring the Fidelity of a Physical and a Digital Twin Using Trace Alignments"</title>
         <subtitle/>
@@ -1099,12 +1440,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="2f141738-4227-5304-bd98-dbedea9df9e5" id="68">
+      <event guid="6dac3f2f-7d50-51bc-b92e-933e81f8c705" id="63">
         <date>2026-02-25T16:36:00+01:00</date>
         <start>16:36</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-68-predicting-failures-in-smart-human-centric-ecosystems</slug>
+        <slug>se2026-63-predicting-failures-in-smart-human-centric-ecosystems</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Predicting Failures in Smart Human-Centric Ecosystems"</title>
         <subtitle/>
@@ -1123,14 +1464,68 @@
         <attachments/>
         <links/>
       </event>
+      <event guid="1e274b8d-d769-505f-8370-c13be32599ac" id="64">
+        <date>2026-02-25T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:20</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-0-begin-reception-champions-lounge</slug>
+        <url>https://se2026.inf.unibe.ch/en/social-events/</url>
+        <title>Begin Reception</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="18a970ce-506f-599a-acc5-77a4841b793c" id="66">
+        <date>2026-02-25T20:40:00+01:00</date>
+        <start>20:40</start>
+        <duration>01:20</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-0-continuation-reception-champions-lounge</slug>
+        <url>https://se2026.inf.unibe.ch/en/social-events/</url>
+        <title>Continuation Reception</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
     </room>
     <room name="Sky Lounge 1" slug="sky-lounge-1">
-      <event guid="42a0ac33-fad2-5245-bc9a-9d30f21c1b82" id="35">
+      <event guid="bdadecf0-1bd4-5ff0-b81e-ee41237d8ec1" id="29">
+        <date>2026-02-25T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-0-coffee-break-sky-lounge-1</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="46cf0ccb-9005-5ce8-b77d-4ba569a244f3" id="30">
         <date>2026-02-25T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-35-continuous-integration-of-architectural-performance-models-w</slug>
+        <slug>se2026-30-continuous-integration-of-architectural-performance-models-w</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Continuous Integration of Architectural Performance Models with Parametric Dependencies – The CIPM Approach"</title>
         <subtitle/>
@@ -1149,12 +1544,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="94b8f545-b96c-5263-b993-fed483009151" id="36">
+      <event guid="007f684e-5a54-571f-b923-a0a45697c874" id="31">
         <date>2026-02-25T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-36-evolution-patterns-of-software-architecture-smells</slug>
+        <slug>se2026-31-evolution-patterns-of-software-architecture-smells</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Evolution Patterns of Software-Architecture Smells"</title>
         <subtitle/>
@@ -1171,12 +1566,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="6ce53641-0bf1-515a-b86c-fa206261aaae" id="37">
+      <event guid="7b26a621-86f7-5192-8e6a-fbafe2f47e3f" id="32">
         <date>2026-02-25T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-37-model-based-proactive-self-adaptation-for-cloud-systems</slug>
+        <slug>se2026-32-model-based-proactive-self-adaptation-for-cloud-systems</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Model-based Proactive Self-Adaptation for Cloud Systems"</title>
         <subtitle/>
@@ -1194,12 +1589,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="60b1c3b7-290b-54b1-97e6-2732cd28215f" id="38">
+      <event guid="468f0a4b-68c1-530a-afd1-33392db40bcb" id="33">
         <date>2026-02-25T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-38-refactoring-with-confidence-an-assistant-for-repair-integrat</slug>
+        <slug>se2026-33-refactoring-with-confidence-an-assistant-for-repair-integrat</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Refactoring with Confidence: An Assistant for Repair- Integrated Refactoring in Block-based Industrial Models (Summary)"</title>
         <subtitle/>
@@ -1216,12 +1611,51 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="09dbfe7b-5f36-5f85-8ade-021e8c0e5401" id="48">
+      <event guid="994f5e2b-6bbc-56cf-9669-91e4e0e3002d" id="73">
+        <date>2026-02-25T11:40:00+01:00</date>
+        <start>11:40</start>
+        <duration>00:25</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-0-breaking-dnns-mutation-testing-for-deep-neural-networks-sky</slug>
+        <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
+        <title>"Breaking DNNs: Mutation Testing for Deep Neural Networks"</title>
+        <subtitle/>
+        <track slug="choose-forum-sustainability-and-reliability-of-ai-driven-sof">CHOOSE Forum: Sustainability and Reliability of AI-Driven Software</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 7-8 minutes questions</description>
+        <persons>
+          <person id="1">Nargiz Humbatova (Università della Svizzera italiana (CH))</person>
+          <person id="2">Jinhan Kim (Università della Svizzera italiana (CH))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="5da8df4e-5163-500e-b33a-78172eefac5f" id="42">
+        <date>2026-02-25T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-0-lunch-sky-lounge-1</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="8b1cf88f-fb0c-5049-811c-e580f687ae0e" id="43">
         <date>2026-02-25T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-48-decades-of-gnu-patch-and-git-cherry-pick-can-we-do-better-su</slug>
+        <slug>se2026-43-decades-of-gnu-patch-and-git-cherry-pick-can-we-do-better-su</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Decades of GNU Patch and Git Cherry-Pick: Can We Do Better? – Summary"</title>
         <subtitle/>
@@ -1241,12 +1675,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="73415529-1d8e-56e7-8b23-e3274c9d9dad" id="49">
+      <event guid="603ef4cc-14ab-5111-b8e5-7e2d4ee6224b" id="44">
         <date>2026-02-25T13:52:00+01:00</date>
         <start>13:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-49-how-configurable-is-the-linux-kernel-analyzing-two-decades-o</slug>
+        <slug>se2026-44-how-configurable-is-the-linux-kernel-analyzing-two-decades-o</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"How Configurable is the Linux Kernel? Analyzing Two Decades of Feature-Model History – Summary"</title>
         <subtitle/>
@@ -1266,12 +1700,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b9da0a0e-83c6-5d4b-9e02-97a923edd16a" id="50">
+      <event guid="ff510064-82ca-59a4-b8eb-b9f8efc609b6" id="45">
         <date>2026-02-25T14:14:00+01:00</date>
         <start>14:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-50-statically-analyzing-the-dataflow-of-r-programs</slug>
+        <slug>se2026-45-statically-analyzing-the-dataflow-of-r-programs</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Statically Analyzing the Dataflow of R Programs"</title>
         <subtitle/>
@@ -1287,12 +1721,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="473a58b5-dc73-59c6-8dc4-20eae6a4c73a" id="51">
+      <event guid="b6d8de78-f9f3-5243-a272-ce3c88bae35b" id="46">
         <date>2026-02-25T14:36:00+01:00</date>
         <start>14:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-51-too-many-issues-automatically-prioritizing-analyzer-findings</slug>
+        <slug>se2026-46-too-many-issues-automatically-prioritizing-analyzer-findings</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Too Many Issues: Automatically Prioritizing Analyzer Findings by Tracing Security Importance (Summary)"</title>
         <subtitle/>
@@ -1313,12 +1747,30 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="31d51ec6-644c-5cbb-99cd-722730b2bb8e" id="86">
+      <event guid="bdadecf0-1bd4-5ff0-b81e-ee41237d8ec1" id="55">
+        <date>2026-02-25T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-0-coffee-break-sky-lounge-1</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="6942eb8f-85f0-5239-b5c1-f12af94583a7" id="80">
         <date>2026-02-25T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:45</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-86-meeting-lenkungskreis-fachtagung-software-engineering</slug>
+        <slug>se2026-80-meeting-lenkungskreis-fachtagung-software-engineering</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Meeting Lenkungskreis Fachtagung Software Engineering</title>
         <subtitle/>
@@ -1331,12 +1783,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="80212260-20d2-58b4-be32-93b7101a2ce0" id="87">
+      <event guid="e45185e4-e3f7-56f3-a495-9c60beaaef32" id="81">
         <date>2026-02-25T16:15:00+01:00</date>
         <start>16:15</start>
         <duration>00:45</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-87-meeting-gi-fachbereich-softwaretechnik</slug>
+        <slug>se2026-81-meeting-gi-fachbereich-softwaretechnik</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Meeting GI Fachbereich Softwaretechnik</title>
         <subtitle/>
@@ -1349,14 +1801,68 @@
         <attachments/>
         <links/>
       </event>
+      <event guid="ec1cdc6a-8db7-5fa0-848a-7cb58cefe6f8" id="64">
+        <date>2026-02-25T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:20</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-0-begin-reception-sky-lounge-1</slug>
+        <url>https://se2026.inf.unibe.ch/en/social-events/</url>
+        <title>Begin Reception</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="6ed3a181-8361-563c-ac10-585f99db8331" id="66">
+        <date>2026-02-25T20:40:00+01:00</date>
+        <start>20:40</start>
+        <duration>01:20</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-0-continuation-reception-sky-lounge-1</slug>
+        <url>https://se2026.inf.unibe.ch/en/social-events/</url>
+        <title>Continuation Reception</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
     </room>
     <room name="Sky Lounge 2" slug="sky-lounge-2">
-      <event guid="58ecd9e5-f1b7-5145-a08e-953e3f2903aa" id="43">
+      <event guid="2096d8c4-5ebb-5462-af43-e42652a5d6df" id="29">
+        <date>2026-02-25T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-0-coffee-break-sky-lounge-2</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="19551902-8e22-5d53-a3be-817f165154a6" id="38">
         <date>2026-02-25T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-43-exploring-development-methods-for-reactive-synthesis-specifi</slug>
+        <slug>se2026-38-exploring-development-methods-for-reactive-synthesis-specifi</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Exploring Development Methods for Reactive Synthesis Specifications"</title>
         <subtitle/>
@@ -1373,12 +1879,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="79058a61-24fe-549e-9f29-346fe80dcd65" id="44">
+      <event guid="3173ecbc-67af-5000-9507-e5dff4bb4550" id="39">
         <date>2026-02-25T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-44-off-the-shelf-cooperative-software-verification-by-splitting</slug>
+        <slug>se2026-39-off-the-shelf-cooperative-software-verification-by-splitting</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Off-the-Shelf Cooperative Software Verification by Splitting Programs Dynamically"</title>
         <subtitle/>
@@ -1396,12 +1902,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="fb0fb6d8-487a-5604-bf73-7678663e542d" id="45">
+      <event guid="648e0fad-1109-5ac3-82ac-78d1124c3ff2" id="40">
         <date>2026-02-25T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-45-on-the-expressive-power-of-languages-for-static-variability</slug>
+        <slug>se2026-40-on-the-expressive-power-of-languages-for-static-variability</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"On the Expressive Power of Languages for Static Variability – Summary"</title>
         <subtitle/>
@@ -1423,12 +1929,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="7669b9d6-21ec-546b-ae91-63e8136cebf8" id="46">
+      <event guid="5aa06ef9-0430-5e4d-be1d-8f5786b9756c" id="41">
         <date>2026-02-25T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-46-safe-mixed-consistency-local-first-software-with-invariants</slug>
+        <slug>se2026-41-safe-mixed-consistency-local-first-software-with-invariants</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Safe Mixed-Consistency Local-First Software with Invariants"</title>
         <subtitle/>
@@ -1446,12 +1952,51 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="1191dd65-68b4-53fc-b4d6-21edbc7747af" id="56">
+      <event guid="994f5e2b-6bbc-56cf-9669-91e4e0e3002d" id="73">
+        <date>2026-02-25T11:40:00+01:00</date>
+        <start>11:40</start>
+        <duration>00:25</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-0-breaking-dnns-mutation-testing-for-deep-neural-networks-sky</slug>
+        <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
+        <title>"Breaking DNNs: Mutation Testing for Deep Neural Networks"</title>
+        <subtitle/>
+        <track slug="choose-forum-sustainability-and-reliability-of-ai-driven-sof">CHOOSE Forum: Sustainability and Reliability of AI-Driven Software</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 7-8 minutes questions</description>
+        <persons>
+          <person id="1">Nargiz Humbatova (Università della Svizzera italiana (CH))</person>
+          <person id="2">Jinhan Kim (Università della Svizzera italiana (CH))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="023e53ad-b900-53d1-a7e0-83e59c5684d0" id="42">
+        <date>2026-02-25T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-0-lunch-sky-lounge-2</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="a2693981-c77c-585c-9457-968c25ac6f4d" id="51">
         <date>2026-02-25T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-56-enhancing-motivation-in-software-engineering-education-throu</slug>
+        <slug>se2026-51-enhancing-motivation-in-software-engineering-education-throu</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Enhancing Motivation in Software Engineering Education through Gamified Agile Project-based Learning"</title>
         <subtitle/>
@@ -1469,12 +2014,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="1a764fcb-d28b-590f-bd9b-a2564333a815" id="57">
+      <event guid="4d9ce5fe-f1a8-5183-a0f3-54d804ff485f" id="52">
         <date>2026-02-25T13:52:00+01:00</date>
         <start>13:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-57-how-do-programming-students-use-generative-ai</slug>
+        <slug>se2026-52-how-do-programming-students-use-generative-ai</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"How Do Programming Students Use Generative AI?"</title>
         <subtitle/>
@@ -1490,12 +2035,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="842d432b-d1ef-5721-b2a4-4e4796d3987e" id="58">
+      <event guid="19b4caa6-b1f5-5aec-8f64-6fcf462807e8" id="53">
         <date>2026-02-25T14:14:00+01:00</date>
         <start>14:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-58-interruptibility-of-software-developers-and-its-prediction-u</slug>
+        <slug>se2026-53-interruptibility-of-software-developers-and-its-prediction-u</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Interruptibility of Software Developers and Its Prediction Using Psycho-Physiological Sensors: A Replication"</title>
         <subtitle/>
@@ -1511,12 +2056,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="62cd897e-b614-56a2-b284-e1d99b4489c3" id="59">
+      <event guid="bc70f49d-7d90-53dd-abf9-e4651eb3d967" id="54">
         <date>2026-02-25T14:36:00+01:00</date>
         <start>14:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-59-toward-a-theory-on-programmers-block-inspired-by-writers-blo</slug>
+        <slug>se2026-54-toward-a-theory-on-programmers-block-inspired-by-writers-blo</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Toward a Theory on Programmer’s Block inspired by Writer’s Block (Kurzfassung)"</title>
         <subtitle/>
@@ -1533,12 +2078,30 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="86024006-6133-5c89-9f74-9500216681d5" id="61">
+      <event guid="2096d8c4-5ebb-5462-af43-e42652a5d6df" id="55">
+        <date>2026-02-25T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-0-coffee-break-sky-lounge-2</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="643f04ad-ef7d-5f23-b02a-2f7d0ff73ff0" id="56">
         <date>2026-02-25T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-61-coverage-metrics-for-t-wise-feature-interactions-summary</slug>
+        <slug>se2026-56-coverage-metrics-for-t-wise-feature-interactions-summary</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Coverage Metrics for T-Wise Feature Interactions – Summary"</title>
         <subtitle/>
@@ -1558,12 +2121,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b593f319-7770-5d47-96cb-afc70032a310" id="62">
+      <event guid="e3175091-b9d4-5fe1-b1a4-6c351535e68e" id="57">
         <date>2026-02-25T15:52:00+01:00</date>
         <start>15:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-62-give-an-inch-and-take-a-mile-effects-of-adding-reliable-know</slug>
+        <slug>se2026-57-give-an-inch-and-take-a-mile-effects-of-adding-reliable-know</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Give an Inch and Take a Mile? Effects of Adding Reliable Knowledge to Heuristic Feature Tracing – Summary"</title>
         <subtitle/>
@@ -1582,12 +2145,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="40baab8e-514c-5f9f-942e-13453fe355d9" id="63">
+      <event guid="c84e7d25-4744-5681-a478-cb01f914270b" id="58">
         <date>2026-02-25T16:14:00+01:00</date>
         <start>16:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-63-how-low-can-we-go-minimizing-interaction-samples-for-configu</slug>
+        <slug>se2026-58-how-low-can-we-go-minimizing-interaction-samples-for-configu</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"How Low Can We Go? Minimizing Interaction Samples for Configurable Systems – Summary"</title>
         <subtitle/>
@@ -1609,12 +2172,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="0209b3a8-962c-5e5c-84fb-1395776e4c88" id="64">
+      <event guid="1e8ef94b-af64-5bdd-861b-a7cc1aaec72e" id="59">
         <date>2026-02-25T16:36:00+01:00</date>
         <start>16:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-64-reusing-d-dnnfs-for-efficient-feature-model-counting-summary</slug>
+        <slug>se2026-59-reusing-d-dnnfs-for-efficient-feature-model-counting-summary</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Reusing d-DNNFs for Efficient Feature-Model Counting – Summary"</title>
         <subtitle/>
@@ -1633,12 +2196,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5cb43ebf-2df5-5019-9611-7f7859760d02" id="88">
+      <event guid="9271320a-eb4d-5404-ab4a-b930533ee9b9" id="82">
         <date>2026-02-25T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>01:00</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-88-meeting-gi-arbeitskreis-artificial-intelligence-for-software</slug>
+        <slug>se2026-82-meeting-gi-arbeitskreis-artificial-intelligence-for-software</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Meeting GI Arbeitskreis ‘Artificial Intelligence for Software Architecture (AI4SA)’ of the Fachgruppe ‘Architekturen’</title>
         <subtitle/>
@@ -1651,14 +2214,50 @@
         <attachments/>
         <links/>
       </event>
+      <event guid="6ea02b7f-d0a0-5e2f-bb69-89b0e45cd245" id="64">
+        <date>2026-02-25T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:20</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-0-begin-reception-sky-lounge-2</slug>
+        <url>https://se2026.inf.unibe.ch/en/social-events/</url>
+        <title>Begin Reception</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="96183d4f-3a00-5c34-8667-95505fdea537" id="66">
+        <date>2026-02-25T20:40:00+01:00</date>
+        <start>20:40</start>
+        <duration>01:20</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-0-continuation-reception-sky-lounge-2</slug>
+        <url>https://se2026.inf.unibe.ch/en/social-events/</url>
+        <title>Continuation Reception</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
     </room>
     <room name="Sky Lounge 3" slug="sky-lounge-3">
-      <event guid="95ac7704-f869-53bf-b928-6e792bb7e469" id="72">
+      <event guid="a13fb0fb-04f2-5ccd-b75f-37d7d0747abf" id="67">
         <date>2026-02-25T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>00:15</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-72-opening</slug>
+        <slug>se2026-67-opening</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Opening</title>
         <subtitle/>
@@ -1673,12 +2272,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d223c569-9594-5a48-86b7-20e8ca2f2ee7" id="73">
+      <event guid="cb65ed8a-851b-55d1-8bd1-96306c3e2f84" id="68">
         <date>2026-02-25T09:15:00+01:00</date>
         <start>09:15</start>
         <duration>00:25</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-73-simulation-based-regression-testing-for-autonomous-vehicles</slug>
+        <slug>se2026-68-simulation-based-regression-testing-for-autonomous-vehicles</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>"Simulation-based regression testing for Autonomous Vehicles &amp; Overview of Sim2Cloud"</title>
         <subtitle/>
@@ -1693,12 +2292,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="3195086f-6ee4-5afd-ada5-ab48daf980aa" id="74">
+      <event guid="d215eb03-ab03-5818-addd-665e117d74e4" id="69">
         <date>2026-02-25T09:40:00+01:00</date>
         <start>09:40</start>
         <duration>00:25</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-74-simulating-the-real-world-an-introduction-to-the-beamng-plat</slug>
+        <slug>se2026-69-simulating-the-real-world-an-introduction-to-the-beamng-plat</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>"Simulating the Real World: An Introduction to the BeamNG Platform &amp; Generation of 3D Generative models"</title>
         <subtitle/>
@@ -1714,12 +2313,30 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="6b74a3e7-3d55-5daa-8cec-6e12ded813bb" id="75">
+      <event guid="199d2fd0-1875-54f9-8dcf-e4ce94917725" id="29">
+        <date>2026-02-25T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-0-coffee-break-sky-lounge-3</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="0cf999c9-4804-5501-8e86-f6f53fa66ae9" id="70">
         <date>2026-02-25T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:25</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-75-from-code-to-corner-the-software-behind-loxo-urban-vehicles</slug>
+        <slug>se2026-70-from-code-to-corner-the-software-behind-loxo-urban-vehicles</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>"From code to corner: The software behind LOXO urban vehicles"</title>
         <subtitle/>
@@ -1734,12 +2351,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d039443d-2d63-5362-a486-5812822b6fc6" id="76">
+      <event guid="b99ac8d2-71d9-56c1-a331-4f2db4a2cb83" id="71">
         <date>2026-02-25T10:55:00+01:00</date>
         <start>10:55</start>
         <duration>00:25</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-76-a-journey-in-ai-based-code-generation</slug>
+        <slug>se2026-71-a-journey-in-ai-based-code-generation</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>"A journey in AI-based code generation"</title>
         <subtitle/>
@@ -1754,12 +2371,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b97863e8-7695-5014-9a75-f2a3048199fa" id="77">
+      <event guid="c74d9676-90d0-5186-bb87-356d6f14805d" id="72">
         <date>2026-02-25T11:15:00+01:00</date>
         <start>11:15</start>
         <duration>00:25</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-77-from-perception-to-action-can-ui-interventions-foster-sustai</slug>
+        <slug>se2026-72-from-perception-to-action-can-ui-interventions-foster-sustai</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>"From Perception to Action: Can UI Interventions Foster Sustainable LLM Chatbot"</title>
         <subtitle/>
@@ -1774,12 +2391,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="2a85be81-5256-5b0c-afa7-d264e4ce83cc" id="78">
+      <event guid="1518c149-3a00-56f5-814a-8b7aef59bd1c" id="73">
         <date>2026-02-25T11:40:00+01:00</date>
         <start>11:40</start>
         <duration>00:25</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-78-breaking-dnns-mutation-testing-for-deep-neural-networks</slug>
+        <slug>se2026-73-breaking-dnns-mutation-testing-for-deep-neural-networks</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>"Breaking DNNs: Mutation Testing for Deep Neural Networks"</title>
         <subtitle/>
@@ -1795,12 +2412,30 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="7db8e537-d257-5dfb-9ad4-76a171cbbcd7" id="79">
+      <event guid="d9d1c1cc-4073-5548-bb37-2b043dd2e987" id="42">
+        <date>2026-02-25T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-0-lunch-sky-lounge-3</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="819d2a66-e789-5688-9ac4-9422ccf768fc" id="74">
         <date>2026-02-25T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:25</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-79-legacy-application-modernization-with-ai-agents</slug>
+        <slug>se2026-74-legacy-application-modernization-with-ai-agents</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>"Legacy Application Modernization with AI Agents"</title>
         <subtitle/>
@@ -1815,12 +2450,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="006191dd-58fb-566d-ae9a-e1389366aadb" id="80">
+      <event guid="4fe43ca7-a9f3-5de8-99c0-53197d3d8342" id="75">
         <date>2026-02-25T13:55:00+01:00</date>
         <start>13:55</start>
         <duration>00:25</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-80-trustworthy-distributed-certification-of-program-execution</slug>
+        <slug>se2026-75-trustworthy-distributed-certification-of-program-execution</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>"Trustworthy Distributed Certification of Program Execution"</title>
         <subtitle/>
@@ -1835,12 +2470,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="9cddfbd0-c15c-56d4-bedc-1ea93e188ad5" id="81">
+      <event guid="013254fa-56b7-5d65-8212-1e1c572a8023" id="76">
         <date>2026-02-25T14:15:00+01:00</date>
         <start>14:15</start>
         <duration>00:25</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-81-integrating-physiology-and-machine-learning-to-predict-oxyha</slug>
+        <slug>se2026-76-integrating-physiology-and-machine-learning-to-predict-oxyha</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>"Integrating Physiology and Machine Learning to Predict Oxyhaemoglobin Dissociation Curve Shift in Preterm Infants"</title>
         <subtitle/>
@@ -1855,12 +2490,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="ab522a5e-11c9-5037-b1c8-1aed29923dd1" id="82">
+      <event guid="404425c9-e156-56ab-a04b-f3f65731318d" id="77">
         <date>2026-02-25T14:40:00+01:00</date>
         <start>14:40</start>
         <duration>00:25</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-82-bridging-research-and-practice-in-simulation-based-testing-o</slug>
+        <slug>se2026-77-bridging-research-and-practice-in-simulation-based-testing-o</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>"Bridging Research and Practice in Simulation-based Testing of Industrial Robot Navigation Systems"</title>
         <subtitle/>
@@ -1875,12 +2510,30 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="0155f455-62eb-52f2-8d2e-2ef979a70ae8" id="83">
+      <event guid="199d2fd0-1875-54f9-8dcf-e4ce94917725" id="55">
+        <date>2026-02-25T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-0-coffee-break-sky-lounge-3</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="0dd30f62-8d9a-5228-a291-b99d2d8317c3" id="78">
         <date>2026-02-25T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>01:15</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-83-panel-on-ai-software-engineering-reproducibility-and-science</slug>
+        <slug>se2026-78-panel-on-ai-software-engineering-reproducibility-and-science</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>Panel on ‘AI, Software Engineering &amp; Reproducibility and Science Challenges’</title>
         <subtitle/>
@@ -1893,12 +2546,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="56707056-f6ae-56b3-8c29-f1ab95ad2187" id="84">
+      <event guid="94f8ad85-628d-51c6-9523-a04c6640201a" id="79">
         <date>2026-02-25T16:45:00+01:00</date>
         <start>16:45</start>
         <duration>00:05</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-84-closing</slug>
+        <slug>se2026-79-closing</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Closing</title>
         <subtitle/>
@@ -1913,14 +2566,12 @@
         <attachments/>
         <links/>
       </event>
-    </room>
-    <room name="University of Bern" slug="university-of-bern">
-      <event guid="f1ae6673-3770-5542-b471-9e157bed3920" id="69">
+      <event guid="976369a9-1fb7-5b7d-be62-3d25e53e1169" id="64">
         <date>2026-02-25T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>01:20</duration>
-        <room>University of Bern</room>
-        <slug>se2026-69-begin-reception</slug>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-0-begin-reception-sky-lounge-3</slug>
         <url>https://se2026.inf.unibe.ch/en/social-events/</url>
         <title>Begin Reception</title>
         <subtitle/>
@@ -1933,12 +2584,125 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b446dcb0-3945-5875-a6f5-02798185be07" id="70">
+      <event guid="8259dc13-5402-56f9-9de6-eb1798c8291d" id="66">
+        <date>2026-02-25T20:40:00+01:00</date>
+        <start>20:40</start>
+        <duration>01:20</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-0-continuation-reception-sky-lounge-3</slug>
+        <url>https://se2026.inf.unibe.ch/en/social-events/</url>
+        <title>Continuation Reception</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+    </room>
+    <room name="University of Bern" slug="university-of-bern">
+      <event guid="6df75332-df05-55f0-a144-f035a9c523f9" id="29">
+        <date>2026-02-25T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>University of Bern</room>
+        <slug>se2026-0-coffee-break-university-of-bern</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="be92b5d0-0540-5dc9-ab94-de52d3f7c6cb" id="73">
+        <date>2026-02-25T11:40:00+01:00</date>
+        <start>11:40</start>
+        <duration>00:25</duration>
+        <room>University of Bern</room>
+        <slug>se2026-0-breaking-dnns-mutation-testing-for-deep-neural-networks-univ</slug>
+        <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
+        <title>"Breaking DNNs: Mutation Testing for Deep Neural Networks"</title>
+        <subtitle/>
+        <track slug="choose-forum-sustainability-and-reliability-of-ai-driven-sof">CHOOSE Forum: Sustainability and Reliability of AI-Driven Software</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 7-8 minutes questions</description>
+        <persons>
+          <person id="1">Nargiz Humbatova (Università della Svizzera italiana (CH))</person>
+          <person id="2">Jinhan Kim (Università della Svizzera italiana (CH))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="208c9ae5-6f2c-5c18-87f9-961b80f6aa04" id="42">
+        <date>2026-02-25T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>University of Bern</room>
+        <slug>se2026-0-lunch-university-of-bern</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="6df75332-df05-55f0-a144-f035a9c523f9" id="55">
+        <date>2026-02-25T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>University of Bern</room>
+        <slug>se2026-0-coffee-break-university-of-bern</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="db2e17ab-13b9-5f08-b707-d288a3c4c318" id="64">
+        <date>2026-02-25T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:20</duration>
+        <room>University of Bern</room>
+        <slug>se2026-64-begin-reception</slug>
+        <url>https://se2026.inf.unibe.ch/en/social-events/</url>
+        <title>Begin Reception</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="865d6933-46a6-593f-89c2-971a2749f542" id="65">
         <date>2026-02-25T19:20:00+01:00</date>
         <start>19:20</start>
         <duration>01:20</duration>
         <room>University of Bern</room>
-        <slug>se2026-70-welcome-speech</slug>
+        <slug>se2026-65-welcome-speech</slug>
         <url>https://se2026.inf.unibe.ch/en/social-events/</url>
         <title>Welcome Speech</title>
         <subtitle/>
@@ -1955,12 +2719,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="8e8ec275-2a81-5cff-9756-de386024ed29" id="71">
+      <event guid="968e1c38-5c27-5ae0-b4f0-fc47bbd5f4c4" id="66">
         <date>2026-02-25T20:40:00+01:00</date>
         <start>20:40</start>
         <duration>01:20</duration>
         <room>University of Bern</room>
-        <slug>se2026-71-continuation-reception</slug>
+        <slug>se2026-66-continuation-reception</slug>
         <url>https://se2026.inf.unibe.ch/en/social-events/</url>
         <title>Continuation Reception</title>
         <subtitle/>
@@ -1977,30 +2741,12 @@
   </day>
   <day index="4" date="2026-02-26" start="2026-02-26T09:00:00+01:00" end="2026-02-27T08:59:00+01:00">
     <room name="Champions Lounge" slug="champions-lounge">
-      <event guid="b907e319-4d98-53b4-8fe8-13d88e47deaf" id="89">
-        <date>2026-02-26T08:30:00+01:00</date>
-        <start>08:30</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge</room>
-        <slug>se2026-89-registration</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Registration</title>
-        <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="4e6ad855-e56a-5814-bb08-71e6d1150bba" id="90">
+      <event guid="9350f7ae-22b5-5afd-a567-abde9ed9e27e" id="83">
         <date>2026-02-26T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>00:05</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-90-opening</slug>
+        <slug>se2026-83-opening</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
         <title>Opening</title>
         <subtitle/>
@@ -2015,12 +2761,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="4157a42d-4bd0-5583-a2cc-35847bc279f8" id="91">
+      <event guid="54b69e68-5e31-5e88-9395-b6989b674234" id="84">
         <date>2026-02-26T09:05:00+01:00</date>
         <start>09:05</start>
         <duration>00:55</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-91-industry-keynote-achieving-digital-sovereignty-in-europe-key</slug>
+        <slug>se2026-84-industry-keynote-achieving-digital-sovereignty-in-europe-key</slug>
         <url>https://se2026.inf.unibe.ch/en/program/keynotes/amandine-le-pape/</url>
         <title>Industry Keynote: “Achieving Digital Sovereignty in Europe: Key Considerations for Success”</title>
         <subtitle/>
@@ -2036,12 +2782,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="8dc6bbbc-2cf9-5c90-8634-956bcf2a73a1" id="92">
+      <event guid="b4b12ddf-7033-5843-8397-f25f5f8e6b70" id="85">
         <date>2026-02-26T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-92-coffee-break</slug>
+        <slug>se2026-85-coffee-break</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Coffee Break</title>
         <subtitle/>
@@ -2054,30 +2800,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="3ecf77b5-c66f-5dda-95b8-3d31f89ceed9" id="126">
-        <date>2026-02-26T10:00:00+01:00</date>
-        <start>10:00</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge</room>
-        <slug>se2026-126-registration</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Registration</title>
-        <subtitle/>
-        <track slug="student-research-competition">Student Research Competition</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="ce92a48c-ccab-55be-beb5-a6013513bb68" id="116">
+      <event guid="74ba6db3-105b-59c3-97f7-de9aacb58d6a" id="109">
         <date>2026-02-26T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-116-nextcloud-as-a-secure-collaboration-and-communication-platfo</slug>
+        <slug>se2026-109-nextcloud-as-a-secure-collaboration-and-communication-platfo</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
         <title>"Nextcloud as a secure collaboration and communication platform"</title>
         <subtitle/>
@@ -2090,12 +2818,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b8465332-a05c-5511-93d7-0498f0efea0d" id="117">
+      <event guid="9df627b3-af97-5df3-9b16-6ae8af9b5794" id="110">
         <date>2026-02-26T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-117-cloud-sovereignty-technical-reality-and-practical-implementa</slug>
+        <slug>se2026-110-cloud-sovereignty-technical-reality-and-practical-implementa</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
         <title>"Cloud Sovereignty: Technical Reality and Practical Implementation"</title>
         <subtitle/>
@@ -2108,12 +2836,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="3578eede-726e-56d5-a74d-830424d415de" id="118">
+      <event guid="6e84b909-9f4a-5c50-b441-30b2acc3c392" id="111">
         <date>2026-02-26T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-118-panel-discussion-on-digital-sovereignty</slug>
+        <slug>se2026-111-panel-discussion-on-digital-sovereignty</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
         <title>"Panel Discussion on Digital Sovereignty"</title>
         <subtitle/>
@@ -2126,12 +2854,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="fbed434c-da8d-5250-8832-2dfd9d3850a3" id="101">
+      <event guid="b19efe80-49e8-5a6d-8e95-65dd60ac233e" id="94">
         <date>2026-02-26T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-101-lunch</slug>
+        <slug>se2026-94-lunch</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Lunch</title>
         <subtitle/>
@@ -2144,12 +2872,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="80d1f85b-f2eb-5f41-9cce-b3e48f41a766" id="137">
+      <event guid="18000f9c-288a-5317-a2ee-7e22938ad015" id="129">
         <date>2026-02-26T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-137-poster-session-at-the-end-of-the-lunch-break</slug>
+        <slug>se2026-129-poster-session-at-the-end-of-the-lunch-break</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Poster Session (At the End of the Lunch Break)</title>
         <subtitle/>
@@ -2162,30 +2890,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="dca2dd1c-7a7e-548a-bcc0-d8e972608a71" id="147">
-        <date>2026-02-26T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge</room>
-        <slug>se2026-147-registration</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Registration</title>
-        <subtitle/>
-        <track slug="seuh">SEUH</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="4ec2516c-17ef-5536-81e6-7e96c9e118c4" id="119">
+      <event guid="6e7eb2af-133a-51e5-80fb-01fc21645569" id="112">
         <date>2026-02-26T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-119-a-sovereign-ai-platform-for-the-new-agentic-software-enginee</slug>
+        <slug>se2026-112-a-sovereign-ai-platform-for-the-new-agentic-software-enginee</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
         <title>"A sovereign AI platform for the new agentic software engineering"</title>
         <subtitle/>
@@ -2198,12 +2908,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="eb65efd3-3e06-5d49-8612-b1bd24a1c5bb" id="120">
+      <event guid="d4c5b577-bea3-50ca-96d0-f8e149f9d97d" id="113">
         <date>2026-02-26T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-120-control-your-data-control-your-future-why-sovereign-cloud-an</slug>
+        <slug>se2026-113-control-your-data-control-your-future-why-sovereign-cloud-an</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
         <title>"Control Your Data. Control Your Future. — Why sovereign cloud and AI matter for Switzerland’s digital autonomy"</title>
         <subtitle/>
@@ -2216,12 +2926,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b0832815-9c39-53bb-b994-25a3f6e6280e" id="121">
+      <event guid="44c36967-0738-5ee8-a6ce-b53d0cb191b3" id="114">
         <date>2026-02-26T14:30:00+01:00</date>
         <start>14:30</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-121-the-synthetic-data-playbook-generating-trillions-of-the-fine</slug>
+        <slug>se2026-114-the-synthetic-data-playbook-generating-trillions-of-the-fine</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
         <title>"The Synthetic Data Playbook: Generating Trillions of the Finest Tokens"</title>
         <subtitle/>
@@ -2234,12 +2944,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="dd65883a-6390-51b5-a833-93540765c8b4" id="110">
+      <event guid="87ba9bde-2641-59e7-afee-d1dd8bd9f188" id="103">
         <date>2026-02-26T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-110-coffee-break</slug>
+        <slug>se2026-103-coffee-break</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Coffee Break</title>
         <subtitle/>
@@ -2252,12 +2962,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d24499f7-1c88-5f44-9413-daba18f92c75" id="138">
+      <event guid="c802d3ac-e903-5401-b4b5-94d2ff3336b5" id="130">
         <date>2026-02-26T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-138-poster-session-during-the-coffee-break</slug>
+        <slug>se2026-130-poster-session-during-the-coffee-break</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Poster Session (During the Coffee Break)</title>
         <subtitle/>
@@ -2270,30 +2980,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="1957ffc8-60e9-53d6-a730-8f535ebe52c1" id="139">
-        <date>2026-02-26T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge</room>
-        <slug>se2026-139-registration</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Registration</title>
-        <subtitle/>
-        <track slug="dissertationspreis">Dissertationspreis</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="26ecc018-ed7d-50b4-bd09-949989b71529" id="122">
+      <event guid="25ea87fc-bee3-5e65-be0f-4a2d876c4214" id="115">
         <date>2026-02-26T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-122-adaptive-internal-developer-platforms-als-enabler-digitaler</slug>
+        <slug>se2026-115-adaptive-internal-developer-platforms-als-enabler-digitaler</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
         <title>"Adaptive Internal Developer Platforms als Enabler digitaler Souveränität"</title>
         <subtitle/>
@@ -2306,12 +2998,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="ba14a9b2-7f20-52e4-a1a7-e621cced1b5e" id="123">
+      <event guid="36bdcee6-c1bf-5f94-b9eb-e257c5bbb6e9" id="116">
         <date>2026-02-26T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-123-mehr-souveränität-in-der-test-automatisierung-effektive-migr</slug>
+        <slug>se2026-116-mehr-souveränität-in-der-test-automatisierung-effektive-migr</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
         <title>"Mehr Souveränität in der Test-Automatisierung? Effektive Migration von Test-Suites weg von proprietären Tools"</title>
         <subtitle/>
@@ -2324,12 +3016,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="56f19129-52c9-5db4-9a7d-cc6c69ce3077" id="124">
+      <event guid="02b0c065-12f6-555f-8542-e8ae65dd64e0" id="117">
         <date>2026-02-26T16:30:00+01:00</date>
         <start>16:30</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-124-dimensions-of-digital-sovereignty</slug>
+        <slug>se2026-117-dimensions-of-digital-sovereignty</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
         <title>"Dimensions of Digital Sovereignty"</title>
         <subtitle/>
@@ -2342,12 +3034,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b0a1d270-d79f-5721-b1f7-ec0f145e1bc2" id="125">
+      <event guid="28f7f5c6-c350-5537-98ea-8dab53d23851" id="118">
         <date>2026-02-26T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-125-architecting-digital-sovereignty-business-value-over-complex</slug>
+        <slug>se2026-118-architecting-digital-sovereignty-business-value-over-complex</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
         <title>"Architecting Digital Sovereignty: Business Value over Complexity"</title>
         <subtitle/>
@@ -2360,14 +3052,122 @@
         <attachments/>
         <links/>
       </event>
+      <event guid="1a286600-48d6-5f14-a007-0216ecff8a42" id="108">
+        <date>2026-02-26T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>03:00</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-0-conference-dinner-champions-lounge</slug>
+        <url>https://se2026.inf.unibe.ch/en/social-events/</url>
+        <title>Conference Dinner</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
     </room>
     <room name="Gurten Pavillon" slug="gurten-pavillon">
-      <event guid="4484fc4c-5fb2-5f6b-b33c-bc61ea46362e" id="115">
+      <event guid="63d4f100-d8df-530d-bfb5-6a8407ae3790" id="85">
+        <date>2026-02-26T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Gurten Pavillon</room>
+        <slug>se2026-0-coffee-break-gurten-pavillon</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="67007e76-667b-57fb-a194-3b03e022f882" id="94">
+        <date>2026-02-26T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>Gurten Pavillon</room>
+        <slug>se2026-0-lunch-gurten-pavillon</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="2c2fb646-95ec-58e9-b9fd-96a41f7a825a" id="129">
+        <date>2026-02-26T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>Gurten Pavillon</room>
+        <slug>se2026-0-poster-session-at-the-end-of-the-lunch-break-gurten-pavillon</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Poster Session (At the End of the Lunch Break)</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="63d4f100-d8df-530d-bfb5-6a8407ae3790" id="103">
+        <date>2026-02-26T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Gurten Pavillon</room>
+        <slug>se2026-0-coffee-break-gurten-pavillon</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="0702f82d-e0b3-5df0-8302-6b1409a08bcd" id="130">
+        <date>2026-02-26T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Gurten Pavillon</room>
+        <slug>se2026-0-poster-session-during-the-coffee-break-gurten-pavillon</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Poster Session (During the Coffee Break)</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="3decadd8-605f-5e75-8cb2-6cc9163ce29e" id="108">
         <date>2026-02-26T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>03:00</duration>
         <room>Gurten Pavillon</room>
-        <slug>se2026-115-conference-dinner</slug>
+        <slug>se2026-108-conference-dinner</slug>
         <url>https://se2026.inf.unibe.ch/en/social-events/</url>
         <title>Conference Dinner</title>
         <subtitle/>
@@ -2382,12 +3182,30 @@
       </event>
     </room>
     <room name="Sky Lounge 1" slug="sky-lounge-1">
-      <event guid="ecdff43a-007f-5595-a1d8-8c50a13c0604" id="97">
+      <event guid="bdadecf0-1bd4-5ff0-b81e-ee41237d8ec1" id="85">
+        <date>2026-02-26T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-0-coffee-break-sky-lounge-1</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="c885e5f1-1bc0-58be-9be8-1ef8832c9284" id="90">
         <date>2026-02-26T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-97-automating-requirements-elicitation-interviews-with-llms</slug>
+        <slug>se2026-90-automating-requirements-elicitation-interviews-with-llms</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Automating Requirements Elicitation Interviews with LLMs"</title>
         <subtitle/>
@@ -2404,12 +3222,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="efeb2f3c-3011-5b78-be94-97497d82dbe1" id="98">
+      <event guid="4002da6e-a598-5f50-b539-e9c5bd9dcf06" id="91">
         <date>2026-02-26T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-98-how-do-practitioners-incorporate-requirements-and-design-dec</slug>
+        <slug>se2026-91-how-do-practitioners-incorporate-requirements-and-design-dec</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"How do practitioners incorporate requirements and design decisions in LLM-assisted code generation?"</title>
         <subtitle/>
@@ -2426,12 +3244,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="a68f4903-48e1-536d-9e22-d95584adefc9" id="99">
+      <event guid="d575e6d6-7b01-56eb-9074-95e119dc4a45" id="92">
         <date>2026-02-26T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-99-the-good-the-bad-and-the-uncanny-investigating-diversity-asp</slug>
+        <slug>se2026-92-the-good-the-bad-and-the-uncanny-investigating-diversity-asp</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"The Good, the Bad, and the Uncanny: Investigating Diversity Aspects of LLM-Generated Personas for Requirements Engineering – Summary"</title>
         <subtitle/>
@@ -2453,12 +3271,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="04295873-f2db-5544-91d2-db5a7de938af" id="100">
+      <event guid="29cfdb59-c589-52e7-b21a-ee7e1958bb0a" id="93">
         <date>2026-02-26T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-100-does-the-tool-matter-exploring-some-causes-of-threats-to-val</slug>
+        <slug>se2026-93-does-the-tool-matter-exploring-some-causes-of-threats-to-val</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Does the Tool Matter? Exploring Some Causes of Threats to Validity in Mining Software Repositories"</title>
         <subtitle/>
@@ -2476,12 +3294,48 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="6ad2fcda-02a0-50f7-aabd-1ff61864d6b1" id="148">
+      <event guid="5da8df4e-5163-500e-b33a-78172eefac5f" id="94">
+        <date>2026-02-26T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-0-lunch-sky-lounge-1</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="774b0564-44d3-574b-92bb-87ca15aaa152" id="129">
+        <date>2026-02-26T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-0-poster-session-at-the-end-of-the-lunch-break-sky-lounge-1</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Poster Session (At the End of the Lunch Break)</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="c3f36e33-9849-55f9-b995-3107df28c000" id="138">
         <date>2026-02-26T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>01:30</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-148-seuh</slug>
+        <slug>se2026-138-seuh</slug>
         <url>https://se2026.inf.unibe.ch/en/seuh/</url>
         <title>SEUH</title>
         <subtitle/>
@@ -2496,12 +3350,48 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b9985f2f-f78c-5187-981e-6ae9df7757af" id="149">
+      <event guid="bdadecf0-1bd4-5ff0-b81e-ee41237d8ec1" id="103">
+        <date>2026-02-26T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-0-coffee-break-sky-lounge-1</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="5a90d8e0-5c09-5ff5-b7ef-35d042f562ee" id="130">
+        <date>2026-02-26T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-0-poster-session-during-the-coffee-break-sky-lounge-1</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Poster Session (During the Coffee Break)</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="8b0e7914-4b0f-5e37-9650-12d092cdf07f" id="139">
         <date>2026-02-26T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>01:30</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-149-seuh</slug>
+        <slug>se2026-139-seuh</slug>
         <url>https://se2026.inf.unibe.ch/en/seuh/</url>
         <title>SEUH</title>
         <subtitle/>
@@ -2513,17 +3403,53 @@
         <persons>
           <person id="1">TBA</person>
         </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="4ad63cf0-21f5-5351-828c-571d63ed16f5" id="108">
+        <date>2026-02-26T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>03:00</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-0-conference-dinner-sky-lounge-1</slug>
+        <url>https://se2026.inf.unibe.ch/en/social-events/</url>
+        <title>Conference Dinner</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
         <attachments/>
         <links/>
       </event>
     </room>
     <room name="Sky Lounge 2" slug="sky-lounge-2">
-      <event guid="329db375-dd50-5876-83f8-61a37be6ad95" id="93">
+      <event guid="2096d8c4-5ebb-5462-af43-e42652a5d6df" id="85">
+        <date>2026-02-26T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-0-coffee-break-sky-lounge-2</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="c66b924f-84da-527b-8ff9-fc29e67c1657" id="86">
         <date>2026-02-26T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-93-automated-generation-of-issue-reproducing-tests-by-combining</slug>
+        <slug>se2026-86-automated-generation-of-issue-reproducing-tests-by-combining</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing"</title>
         <subtitle/>
@@ -2540,12 +3466,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="550bef81-5719-5648-94d3-3cca4910cddd" id="94">
+      <event guid="ddc80c1d-8209-50c2-86d1-27138ec5fcb2" id="87">
         <date>2026-02-26T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-94-does-genai-make-usability-testing-obsolete</slug>
+        <slug>se2026-87-does-genai-make-usability-testing-obsolete</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Does GenAI Make Usability Testing Obsolete?"</title>
         <subtitle/>
@@ -2561,12 +3487,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="43d080a9-c17b-5b31-ae8c-26cbd97d69aa" id="95">
+      <event guid="0056a872-9bf1-50e2-a552-8430dd140625" id="88">
         <date>2026-02-26T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-95-efficient-domain-augmentation-for-autonomous-driving-testing</slug>
+        <slug>se2026-88-efficient-domain-augmentation-for-autonomous-driving-testing</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Efficient Domain Augmentation for Autonomous Driving Testing Using Diffusion Models"</title>
         <subtitle/>
@@ -2584,12 +3510,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d546e784-2329-515d-bb25-00f2e8964358" id="96">
+      <event guid="f81c2e07-889d-5ab7-ab6c-0e8583c8eb41" id="89">
         <date>2026-02-26T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-96-fandango-evolving-language-based-testing</slug>
+        <slug>se2026-89-fandango-evolving-language-based-testing</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"FANDANGO: Evolving Language-Based Testing"</title>
         <subtitle/>
@@ -2606,12 +3532,48 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="612cb198-a738-5e39-9993-1266ed3556b9" id="106">
+      <event guid="023e53ad-b900-53d1-a7e0-83e59c5684d0" id="94">
+        <date>2026-02-26T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-0-lunch-sky-lounge-2</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="80d17e86-2e00-502b-9876-4dd50516901e" id="129">
+        <date>2026-02-26T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-0-poster-session-at-the-end-of-the-lunch-break-sky-lounge-2</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Poster Session (At the End of the Lunch Break)</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="4de9883f-d38e-5252-a32b-9c4569bedb71" id="99">
         <date>2026-02-26T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-106-adaptive-test-generation-with-q-grams</slug>
+        <slug>se2026-99-adaptive-test-generation-with-q-grams</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Adaptive Test Generation with Q-grams"</title>
         <subtitle/>
@@ -2628,12 +3590,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="14a1eb8a-c77a-5500-938a-0035b4d45861" id="107">
+      <event guid="c6dabdd3-68ea-5008-9cd6-6debb7221923" id="100">
         <date>2026-02-26T13:52:00+01:00</date>
         <start>13:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-107-e-test-ever-improving-test-suites</slug>
+        <slug>se2026-100-e-test-ever-improving-test-suites</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"E-Test: Ever-Improving Test Suites"</title>
         <subtitle/>
@@ -2651,12 +3613,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="66063df8-5d7d-50dd-b240-9bb1d04014ac" id="108">
+      <event guid="5769fb6a-b921-5dbc-bf3e-0763a2277bc0" id="101">
         <date>2026-02-26T14:14:00+01:00</date>
         <start>14:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-108-metamorphic-testing-for-optimisation-a-case-study-on-pid-con</slug>
+        <slug>se2026-101-metamorphic-testing-for-optimisation-a-case-study-on-pid-con</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Metamorphic Testing for Optimisation: A Case Study on PID Controller Tuning"</title>
         <subtitle/>
@@ -2675,12 +3637,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="14c6e3d9-0c0e-512c-bbb6-48477b0e6f1c" id="109">
+      <event guid="a07802e6-0950-5dd9-9e95-ace5a0b52c0d" id="102">
         <date>2026-02-26T14:36:00+01:00</date>
         <start>14:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-109-optimization-of-automated-and-manual-software-tests-in-indus</slug>
+        <slug>se2026-102-optimization-of-automated-and-manual-software-tests-in-indus</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Optimization of Automated and Manual Software Tests in Industrial Practice: A Survey and Historical Analysis"</title>
         <subtitle/>
@@ -2698,12 +3660,48 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="e18977b9-4e09-548e-ac28-90115b8136bf" id="111">
+      <event guid="2096d8c4-5ebb-5462-af43-e42652a5d6df" id="103">
+        <date>2026-02-26T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-0-coffee-break-sky-lounge-2</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="5d267c22-d79a-5720-84c3-845bb8e4aa48" id="130">
+        <date>2026-02-26T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-0-poster-session-during-the-coffee-break-sky-lounge-2</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Poster Session (During the Coffee Break)</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="8ca358f8-904a-58d7-9fed-5b944093c5aa" id="104">
         <date>2026-02-26T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-111-do-llms-generate-useful-test-oracles-an-empirical-study-with</slug>
+        <slug>se2026-104-do-llms-generate-useful-test-oracles-an-empirical-study-with</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Do LLMs Generate Useful Test Oracles? An Empirical Study with an Unbiased Dataset"</title>
         <subtitle/>
@@ -2722,12 +3720,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="a8ad29b1-7677-5281-8ada-cc1303cf2af1" id="112">
+      <event guid="92f779fa-8610-5dae-91f9-f388092823d9" id="105">
         <date>2026-02-26T15:52:00+01:00</date>
         <start>15:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-112-gamifying-testing-in-intellij-a-replicability-study</slug>
+        <slug>se2026-105-gamifying-testing-in-intellij-a-replicability-study</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Gamifying Testing in IntelliJ: A Replicability Study"</title>
         <subtitle/>
@@ -2746,12 +3744,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="613a36b3-32ad-5dc7-b40f-581e9cdafac5" id="113">
+      <event guid="6e52783a-48b2-5d76-bc74-3ce9023d1ecf" id="106">
         <date>2026-02-26T16:14:00+01:00</date>
         <start>16:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-113-mutation-based-integration-testing-of-knowledge-graph-applic</slug>
+        <slug>se2026-106-mutation-based-integration-testing-of-knowledge-graph-applic</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Mutation-Based Integration Testing of Knowledge Graph Applications (Summary)"</title>
         <subtitle/>
@@ -2768,12 +3766,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="eb0da745-2bd4-528a-8df2-6713be27bace" id="114">
+      <event guid="d9a5eef7-df04-5320-bce2-53255a4b631a" id="107">
         <date>2026-02-26T16:36:00+01:00</date>
         <start>16:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-114-the-testing-gaps-in-infrastructure-as-code-programs</slug>
+        <slug>se2026-107-the-testing-gaps-in-infrastructure-as-code-programs</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"The Testing Gaps in Infrastructure as Code Programs"</title>
         <subtitle/>
@@ -2790,14 +3788,50 @@
         <attachments/>
         <links/>
       </event>
+      <event guid="620e3545-e5bc-5238-9368-8f3316bdf7ee" id="108">
+        <date>2026-02-26T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>03:00</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-0-conference-dinner-sky-lounge-2</slug>
+        <url>https://se2026.inf.unibe.ch/en/social-events/</url>
+        <title>Conference Dinner</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
     </room>
     <room name="Sky Lounge 3" slug="sky-lounge-3">
-      <event guid="bb7bc6aa-6686-521d-bff1-78611f6069f0" id="127">
+      <event guid="199d2fd0-1875-54f9-8dcf-e4ce94917725" id="85">
+        <date>2026-02-26T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-0-coffee-break-sky-lounge-3</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="6240840f-25be-5a78-8ea9-5af2f702447e" id="119">
         <date>2026-02-26T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:09</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-127-extracting-knowledge-graphs-from-user-stories-using-langchai</slug>
+        <slug>se2026-119-extracting-knowledge-graphs-from-user-stories-using-langchai</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
         <title>"Extracting Knowledge Graphs from User Stories Using LangChain (Master’s Thesis)"</title>
         <subtitle/>
@@ -2812,12 +3846,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="3944db5e-5b46-5191-910e-729a0557255f" id="128">
+      <event guid="ad16c4b3-bf7e-56c8-b4e4-8d42cb845558" id="120">
         <date>2026-02-26T10:39:00+01:00</date>
         <start>10:39</start>
         <duration>00:09</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-128-requirely-a-tool-for-detecting-and-correcting-requirements-s</slug>
+        <slug>se2026-120-requirely-a-tool-for-detecting-and-correcting-requirements-s</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
         <title>"Requirely: A Tool for Detecting and Correcting Requirements Smells (Master’s Thesis)"</title>
         <subtitle/>
@@ -2832,12 +3866,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="8a049014-2378-5806-9b65-05c0727ae2be" id="129">
+      <event guid="57354590-ca58-5756-a8da-5df6f888287a" id="121">
         <date>2026-02-26T10:48:00+01:00</date>
         <start>10:48</start>
         <duration>00:09</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-129-engineering-and-selecting-machine-learning-features-for-feat</slug>
+        <slug>se2026-121-engineering-and-selecting-machine-learning-features-for-feat</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
         <title>"Engineering and Selecting Machine Learning Features for Feature Models (Master’s Thesis)"</title>
         <subtitle/>
@@ -2852,12 +3886,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5ed4852c-055d-590b-aba2-f64b0a43e86f" id="130">
+      <event guid="0bddef46-59ec-541d-98e2-6f49054c1a4f" id="122">
         <date>2026-02-26T10:57:00+01:00</date>
         <start>10:57</start>
         <duration>00:09</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-130-creation-and-evaluation-of-a-tool-for-visualizing-reachabili</slug>
+        <slug>se2026-122-creation-and-evaluation-of-a-tool-for-visualizing-reachabili</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
         <title>"Creation and Evaluation of a Tool for Visualizing Reachability Analyses in Software Libraries (Master’s Thesis)"</title>
         <subtitle/>
@@ -2872,12 +3906,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="46c80c6d-8897-5335-b514-73a020eb3ce6" id="131">
+      <event guid="6d7b01a5-6133-5fce-8473-1512a48ac1c7" id="123">
         <date>2026-02-26T11:06:00+01:00</date>
         <start>11:06</start>
         <duration>00:09</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-131-designing-and-validating-code-comprehension-tests-an-empiric</slug>
+        <slug>se2026-123-designing-and-validating-code-comprehension-tests-an-empiric</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
         <title>"Designing and Validating Code Comprehension Tests: An Empirical Study on Task Design (Master’s Thesis)"</title>
         <subtitle/>
@@ -2892,12 +3926,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="67322031-083a-5180-b8c5-2a5d9b9210c2" id="132">
+      <event guid="e98a3efe-021f-5f79-b42c-011f0f8dd656" id="124">
         <date>2026-02-26T11:15:00+01:00</date>
         <start>11:15</start>
         <duration>00:09</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-132-mining-bugs-in-linux-to-assess-the-effectiveness-of-automate</slug>
+        <slug>se2026-124-mining-bugs-in-linux-to-assess-the-effectiveness-of-automate</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
         <title>"Mining Bugs in Linux to Assess the Effectiveness of Automated Variability Testing (Master’s Thesis)"</title>
         <subtitle/>
@@ -2912,12 +3946,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5e749bda-ad6e-57f8-a8ec-37ec361d9ef3" id="133">
+      <event guid="c1355399-2acd-53e7-ab08-82e4fafde816" id="125">
         <date>2026-02-26T11:24:00+01:00</date>
         <start>11:24</start>
         <duration>00:09</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-133-trunk-based-development-in-open-source-software-projects-a-d</slug>
+        <slug>se2026-125-trunk-based-development-in-open-source-software-projects-a-d</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
         <title>"Trunk-Based Development in Open Source Software Projects: A Data Driven Approach (Bachelor’s Thesis)"</title>
         <subtitle/>
@@ -2932,12 +3966,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="2de326c9-a608-507d-bc8a-a6a25f7be229" id="134">
+      <event guid="af95950f-d312-5c2f-9593-45411af8246e" id="126">
         <date>2026-02-26T11:33:00+01:00</date>
         <start>11:33</start>
         <duration>00:09</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-134-t-wise-sampling-operations-on-binary-decision-diagrams-bache</slug>
+        <slug>se2026-126-t-wise-sampling-operations-on-binary-decision-diagrams-bache</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
         <title>"T-Wise Sampling Operations on Binary Decision Diagrams (Bachelor’s Thesis)"</title>
         <subtitle/>
@@ -2952,12 +3986,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="088b1ded-788a-566c-a229-4f803d293e42" id="135">
+      <event guid="5b797534-b674-5006-ba71-8ca553c9df06" id="127">
         <date>2026-02-26T11:42:00+01:00</date>
         <start>11:42</start>
         <duration>00:09</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-135-analyzing-the-impact-of-typosquatting-attacks-in-maven-bache</slug>
+        <slug>se2026-127-analyzing-the-impact-of-typosquatting-attacks-in-maven-bache</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
         <title>"Analyzing the Impact of Typosquatting Attacks in Maven (Bachelor’s Thesis)"</title>
         <subtitle/>
@@ -2972,12 +4006,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="e8842be9-7b53-530c-8662-ba2b1b4e3ca3" id="136">
+      <event guid="59d3b709-44d3-52d5-9b23-ad71d7e13a4d" id="128">
         <date>2026-02-26T11:51:00+01:00</date>
         <start>11:51</start>
         <duration>00:09</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-136-towards-large-scale-variability-investigations-in-nostr-semi</slug>
+        <slug>se2026-128-towards-large-scale-variability-investigations-in-nostr-semi</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
         <title>"Towards Large-Scale Variability Investigations in Nostr (Seminar Work)"</title>
         <subtitle/>
@@ -2992,12 +4026,48 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="befe204c-8e40-552d-bb25-0a36925a33c1" id="102">
+      <event guid="d9d1c1cc-4073-5548-bb37-2b043dd2e987" id="94">
+        <date>2026-02-26T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-0-lunch-sky-lounge-3</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="00756915-3795-5ee9-a3a2-48b4805f111e" id="129">
+        <date>2026-02-26T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-0-poster-session-at-the-end-of-the-lunch-break-sky-lounge-3</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Poster Session (At the End of the Lunch Break)</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="0659b6da-4583-556c-9735-45b392a7e7c5" id="95">
         <date>2026-02-26T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-102-how-ml-practitioners-perceive-explainability-an-interview-st</slug>
+        <slug>se2026-95-how-ml-practitioners-perceive-explainability-an-interview-st</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"How ML Practitioners Perceive Explainability: An Interview Study of Practices and Challenges"</title>
         <subtitle/>
@@ -3016,12 +4086,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="139361d4-344a-5815-bd22-ca7ba606970a" id="103">
+      <event guid="3bb8d53b-a6f3-5ad5-9701-60a17268410c" id="96">
         <date>2026-02-26T13:52:00+01:00</date>
         <start>13:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-103-investigating-the-readability-of-test-code-combining-scienti</slug>
+        <slug>se2026-96-investigating-the-readability-of-test-code-combining-scienti</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Investigating the Readability of Test Code: Combining Scientific and Practical View"</title>
         <subtitle/>
@@ -3038,12 +4108,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="7cdb2c28-7b31-50e8-a607-0194df094a0d" id="104">
+      <event guid="581de92e-ea24-5484-b06b-36bbfd39dedd" id="97">
         <date>2026-02-26T14:14:00+01:00</date>
         <start>14:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-104-providing-information-about-implemented-algorithms-improves</slug>
+        <slug>se2026-97-providing-information-about-implemented-algorithms-improves</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Providing Information About Implemented Algorithms Improves Program Comprehension: A Controlled Experiment"</title>
         <subtitle/>
@@ -3060,12 +4130,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="328feb02-6a99-5808-b96f-79f41a505470" id="105">
+      <event guid="5de1aeab-36e3-5d1f-838b-7544ed7a0927" id="98">
         <date>2026-02-26T14:36:00+01:00</date>
         <start>14:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-105-semantic-zoom-and-mini-maps-for-software-cities</slug>
+        <slug>se2026-98-semantic-zoom-and-mini-maps-for-software-cities</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Semantic Zoom and Mini-Maps for Software Cities"</title>
         <subtitle/>
@@ -3083,12 +4153,48 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="e2aa9419-2c66-5b82-8f84-f0c0fa64025d" id="140">
+      <event guid="199d2fd0-1875-54f9-8dcf-e4ce94917725" id="103">
+        <date>2026-02-26T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-0-coffee-break-sky-lounge-3</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="d03c5ec1-95a8-50a4-8703-f5cc90792cdb" id="130">
+        <date>2026-02-26T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-0-poster-session-during-the-coffee-break-sky-lounge-3</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Poster Session (During the Coffee Break)</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="6d752b9c-5b34-59e4-af00-14db91cb3087" id="131">
         <date>2026-02-26T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:20</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-140-towards-managed-clone-and-own-automating-matching-and-patchi</slug>
+        <slug>se2026-131-towards-managed-clone-and-own-automating-matching-and-patchi</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
         <title>"Towards Managed Clone-and-Own: Automating Matching and Patching"</title>
         <subtitle/>
@@ -3103,12 +4209,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="9841264a-dc1f-5c2b-8b6d-6dd5a594909e" id="141">
+      <event guid="34eeea4a-32a3-587a-aacd-e24fc25e1318" id="132">
         <date>2026-02-26T15:50:00+01:00</date>
         <start>15:50</start>
         <duration>00:20</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-141-neural-bug-detection</slug>
+        <slug>se2026-132-neural-bug-detection</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
         <title>"Neural Bug Detection"</title>
         <subtitle/>
@@ -3123,12 +4229,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b8dc2d1e-6c1f-5922-aa77-ea28f71f2a61" id="142">
+      <event guid="baf218d6-038f-57d8-9d26-c9bf32e57e22" id="133">
         <date>2026-02-26T16:10:00+01:00</date>
         <start>16:10</start>
         <duration>00:20</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-142-unleashing-the-potential-of-configuration-counting-for-produ</slug>
+        <slug>se2026-133-unleashing-the-potential-of-configuration-counting-for-produ</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
         <title>"Unleashing the Potential of Configuration Counting for Product-Line Analyses"</title>
         <subtitle/>
@@ -3143,12 +4249,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="aad555ba-cc32-58a8-bfc6-38abdb0a22a4" id="143">
+      <event guid="83824566-00ae-5569-98d8-09094b77cd8f" id="134">
         <date>2026-02-26T16:30:00+01:00</date>
         <start>16:30</start>
         <duration>00:20</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-143-functional-modeling-of-cyber-physical-systems</slug>
+        <slug>se2026-134-functional-modeling-of-cyber-physical-systems</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
         <title>"Functional Modeling of Cyber-Physical Systems"</title>
         <subtitle/>
@@ -3163,12 +4269,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="c0157d11-e313-5051-87fe-74dc1020af02" id="144">
+      <event guid="89607367-95dc-5581-b90b-6b4836d6aad2" id="135">
         <date>2026-02-26T16:50:00+01:00</date>
         <start>16:50</start>
         <duration>00:20</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-144-t-reqs-a-conceptual-model-framework-for-template-based-requi</slug>
+        <slug>se2026-135-t-reqs-a-conceptual-model-framework-for-template-based-requi</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
         <title>"T-Reqs: A Conceptual Model &amp; Framework for Template-Based Requirements Quality Improvement in Space Engineering"</title>
         <subtitle/>
@@ -3183,12 +4289,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="ecbad9e1-c219-5e4e-adb4-5d1456ddc3ea" id="145">
+      <event guid="bddc092b-8dbb-5b10-be5a-ae9da8154363" id="136">
         <date>2026-02-26T17:10:00+01:00</date>
         <start>17:10</start>
         <duration>00:20</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-145-automatic-performance-modeling-and-analysis-of-configurable</slug>
+        <slug>se2026-136-automatic-performance-modeling-and-analysis-of-configurable</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
         <title>"Automatic Performance Modeling and Analysis of Configurable Scientific Software and Workflows"</title>
         <subtitle/>
@@ -3203,12 +4309,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="f50bfe7b-9b61-5df4-868b-033414067022" id="146">
+      <event guid="5150f14a-6c7a-525b-aca3-b1617eada6ee" id="137">
         <date>2026-02-26T17:30:00+01:00</date>
         <start>17:30</start>
         <duration>00:30</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-146-jury-session-closed</slug>
+        <slug>se2026-137-jury-session-closed</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
         <title>Jury Session (Closed)</title>
         <subtitle/>
@@ -3223,18 +4329,14 @@
         <attachments/>
         <links/>
       </event>
-    </room>
-  </day>
-  <day index="5" date="2026-02-27" start="2026-02-27T09:00:00+01:00" end="2026-02-28T08:59:00+01:00">
-    <room name="Champions Lounge" slug="champions-lounge">
-      <event guid="bd58fdcc-e805-58fa-a4aa-6d4efe24f3ee" id="150">
-        <date>2026-02-27T08:30:00+01:00</date>
-        <start>08:30</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge</room>
-        <slug>se2026-150-registration</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Registration</title>
+      <event guid="5b5c5a30-0b91-5b08-af1c-1cc37659bbda" id="108">
+        <date>2026-02-26T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>03:00</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-0-conference-dinner-sky-lounge-3</slug>
+        <url>https://se2026.inf.unibe.ch/en/social-events/</url>
+        <title>Conference Dinner</title>
         <subtitle/>
         <track slug="scientific-program">Scientific Program (SE)</track>
         <type>other</type>
@@ -3245,12 +4347,16 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="303b35b7-c1d4-51cc-9778-d82ba148a648" id="151">
+    </room>
+  </day>
+  <day index="5" date="2026-02-27" start="2026-02-27T09:00:00+01:00" end="2026-02-28T08:59:00+01:00">
+    <room name="Champions Lounge" slug="champions-lounge">
+      <event guid="cfe6511c-9d07-53b3-9d60-7b4655ebd80f" id="140">
         <date>2026-02-27T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>01:00</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-151-scientific-keynote-chunyang-chen</slug>
+        <slug>se2026-140-scientific-keynote-chunyang-chen</slug>
         <url>https://se2026.inf.unibe.ch/en/program/keynotes/chunyang-chen/</url>
         <title>Scientific Keynote: Chunyang Chen</title>
         <subtitle/>
@@ -3266,12 +4372,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="ef53c200-819d-59f8-952a-6442cf825d41" id="152">
+      <event guid="477db204-3810-54d4-8256-3ee0d00d0839" id="141">
         <date>2026-02-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-152-coffee-break</slug>
+        <slug>se2026-141-coffee-break</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Coffee Break</title>
         <subtitle/>
@@ -3284,30 +4390,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="63190b9c-906d-508b-81b9-7682ebfb4abb" id="167">
-        <date>2026-02-27T10:00:00+01:00</date>
-        <start>10:00</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge</room>
-        <slug>se2026-167-registration</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Registration</title>
-        <subtitle/>
-        <track slug="seuh">SEUH</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="54a3123c-a15f-5672-83b9-b7197dfb84d1" id="157">
+      <event guid="60915599-e569-5e64-93bd-8fe89b487f44" id="146">
         <date>2026-02-27T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-157-can-developers-prompt-a-controlled-experiment-for-code-docum</slug>
+        <slug>se2026-146-can-developers-prompt-a-controlled-experiment-for-code-docum</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Can Developers Prompt? A Controlled Experiment for Code Documentation Generation"</title>
         <subtitle/>
@@ -3324,12 +4412,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="109d13e5-3ccd-5e6f-9c69-96ba95edc71c" id="158">
+      <event guid="fccdf62d-6292-5795-9d9b-5a18d8ade75b" id="147">
         <date>2026-02-27T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-158-dont-settle-for-the-first-how-many-github-copilot-solutions</slug>
+        <slug>se2026-147-dont-settle-for-the-first-how-many-github-copilot-solutions</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Don’t Settle for the First! How Many GitHub Copilot Solutions Should You Check?"</title>
         <subtitle/>
@@ -3346,12 +4434,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="dac87dfc-12b3-53e5-8e72-2c141d5639a5" id="159">
+      <event guid="151fb3ed-19ac-5dc0-bfe0-926d42d7f152" id="148">
         <date>2026-02-27T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-159-explaining-github-actions-failures-with-large-language-model</slug>
+        <slug>se2026-148-explaining-github-actions-failures-with-large-language-model</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Explaining GitHub Actions Failures with Large Language Models: Challenges, Insights, and Limitations – Summary"</title>
         <subtitle/>
@@ -3372,12 +4460,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5bfe5732-1912-589d-b407-aaded810e7f3" id="160">
+      <event guid="a9d54d35-7477-5561-8616-e81b9667ed37" id="149">
         <date>2026-02-27T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-160-model-cards-revisited-bridging-the-gap-between-theory-and-pr</slug>
+        <slug>se2026-149-model-cards-revisited-bridging-the-gap-between-theory-and-pr</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Model Cards Revisited: Bridging the Gap Between Theory and Practice for Ethical AI Requirements"</title>
         <subtitle/>
@@ -3394,12 +4482,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="0d1af4fc-795b-5a61-995b-919c9cda78f0" id="165">
+      <event guid="20607f38-07f9-557d-b9b1-9b6addc0e529" id="154">
         <date>2026-02-27T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>00:15</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-165-closing</slug>
+        <slug>se2026-154-closing</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Closing</title>
         <subtitle/>
@@ -3414,12 +4502,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5924d3d3-1873-5d4e-890f-35e60c1c51f7" id="169">
+      <event guid="c34a9386-0637-5b36-8a16-bd14529613b3" id="157">
         <date>2026-02-27T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-169-lunch</slug>
+        <slug>se2026-157-lunch</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Lunch</title>
         <subtitle/>
@@ -3432,12 +4520,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="8959a277-0882-507b-aaa3-85c5d2563547" id="166">
+      <event guid="864c15e4-87da-5f93-b848-3ad0fb2c9519" id="155">
         <date>2026-02-27T12:15:00+01:00</date>
         <start>12:15</start>
         <duration>01:15</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-166-lunch</slug>
+        <slug>se2026-155-lunch</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Lunch</title>
         <subtitle/>
@@ -3452,12 +4540,30 @@
       </event>
     </room>
     <room name="Sky Lounge 1" slug="sky-lounge-1">
-      <event guid="c6324f61-cce3-5a25-bb27-faf17ba8aa53" id="168">
+      <event guid="bdadecf0-1bd4-5ff0-b81e-ee41237d8ec1" id="141">
+        <date>2026-02-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-0-coffee-break-sky-lounge-1</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="48dc93c9-2943-5fa1-8d7c-44301be574e0" id="156">
         <date>2026-02-27T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>01:30</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-168-seuh</slug>
+        <slug>se2026-156-seuh</slug>
         <url>https://se2026.inf.unibe.ch/en/seuh/</url>
         <title>SEUH</title>
         <subtitle/>
@@ -3472,14 +4578,68 @@
         <attachments/>
         <links/>
       </event>
+      <event guid="5da8df4e-5163-500e-b33a-78172eefac5f" id="157">
+        <date>2026-02-27T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-0-lunch-sky-lounge-1</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="seuh">SEUH</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="5da8df4e-5163-500e-b33a-78172eefac5f" id="155">
+        <date>2026-02-27T12:15:00+01:00</date>
+        <start>12:15</start>
+        <duration>01:15</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-0-lunch-sky-lounge-1</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
     </room>
     <room name="Sky Lounge 2" slug="sky-lounge-2">
-      <event guid="d9b7eb3b-ea21-5be9-a91a-ab44f960fdf3" id="153">
+      <event guid="2096d8c4-5ebb-5462-af43-e42652a5d6df" id="141">
+        <date>2026-02-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-0-coffee-break-sky-lounge-2</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="6fac2348-7b5a-50b1-9155-e04264aed723" id="142">
         <date>2026-02-27T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-153-automated-soap-opera-testing-directed-by-llms-and-scenario-k</slug>
+        <slug>se2026-142-automated-soap-opera-testing-directed-by-llms-and-scenario-k</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Automated Soap Opera Testing Directed by LLMs and Scenario Knowledge"</title>
         <subtitle/>
@@ -3494,12 +4654,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="79a6daa1-1076-51aa-8cb0-dbbbb5176918" id="154">
+      <event guid="3a3fad72-cfb9-5f1d-a6e2-76f443a03742" id="143">
         <date>2026-02-27T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-154-guing-a-mobile-gui-search-engine-using-a-vision-language-mod</slug>
+        <slug>se2026-143-guing-a-mobile-gui-search-engine-using-a-vision-language-mod</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"GUing: A Mobile GUI Search Engine using a Vision-Language Model"</title>
         <subtitle/>
@@ -3520,12 +4680,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="7d8208b9-4839-5f46-a267-334562faee13" id="155">
+      <event guid="446a37d0-b820-595c-bdc3-dbf6b13b6ef5" id="144">
         <date>2026-02-27T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-155-seeing-is-fixing-cross-modal-reasoning-with-multimodal-llms</slug>
+        <slug>se2026-144-seeing-is-fixing-cross-modal-reasoning-with-multimodal-llms</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Repair"</title>
         <subtitle/>
@@ -3540,12 +4700,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b970e081-6501-51a9-be76-89abeba87a6a" id="156">
+      <event guid="f0f0c31e-3e0d-5dd2-a192-1ca08d4a6a9f" id="145">
         <date>2026-02-27T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-156-parametric-falsification-of-many-probabilistic-requirements</slug>
+        <slug>se2026-145-parametric-falsification-of-many-probabilistic-requirements</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Parametric Falsification of Many Probabilistic Requirements under Flakiness"</title>
         <subtitle/>
@@ -3561,14 +4721,68 @@
         <attachments/>
         <links/>
       </event>
+      <event guid="023e53ad-b900-53d1-a7e0-83e59c5684d0" id="157">
+        <date>2026-02-27T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-0-lunch-sky-lounge-2</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="seuh">SEUH</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="023e53ad-b900-53d1-a7e0-83e59c5684d0" id="155">
+        <date>2026-02-27T12:15:00+01:00</date>
+        <start>12:15</start>
+        <duration>01:15</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-0-lunch-sky-lounge-2</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
     </room>
     <room name="Sky Lounge 3" slug="sky-lounge-3">
-      <event guid="7695fe57-253f-5c8c-9e0a-3833d7660182" id="161">
+      <event guid="199d2fd0-1875-54f9-8dcf-e4ce94917725" id="141">
+        <date>2026-02-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-0-coffee-break-sky-lounge-3</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="fceb9596-142a-5caf-85d1-d5bd1f07e0ba" id="150">
         <date>2026-02-27T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-161-contextual-privacy-policies-for-mobile-applications-and-an-a</slug>
+        <slug>se2026-150-contextual-privacy-policies-for-mobile-applications-and-an-a</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Contextual Privacy Policies for Mobile Applications and An Approach Toward Automated Generation"</title>
         <subtitle/>
@@ -3584,12 +4798,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d4748641-cf70-592c-b2e4-a1506f2263a8" id="162">
+      <event guid="d53d12b7-e7cb-5672-8aa1-a5af3e0cc2dd" id="151">
         <date>2026-02-27T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-162-seccityvr-visualization-and-collaborative-exploration-of-sof</slug>
+        <slug>se2026-151-seccityvr-visualization-and-collaborative-exploration-of-sof</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"SecCityVR: Visualization and Collaborative Exploration of Software Vulnerabilities in Virtual Reality"</title>
         <subtitle/>
@@ -3605,12 +4819,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="818236f2-3ad4-57d5-9fac-0de7d7d8cacd" id="163">
+      <event guid="4ad8eca5-6767-5d38-aac7-ee6890cf7b6c" id="152">
         <date>2026-02-27T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-163-summary-of-large-language-models-for-in-file-vulnerability-l</slug>
+        <slug>se2026-152-summary-of-large-language-models-for-in-file-vulnerability-l</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Summary of Large Language Models for In-File Vulnerability Localization Can Be “Lost in the End” (FSE2025)"</title>
         <subtitle/>
@@ -3626,12 +4840,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="13fa6da2-5ff1-5bf5-8a94-eed6e69728ac" id="164">
+      <event guid="5731cf42-aacc-5da4-b62d-9126824440b8" id="153">
         <date>2026-02-27T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-164-using-analysis-coupling-to-detect-information-flow-security</slug>
+        <slug>se2026-153-using-analysis-coupling-to-detect-information-flow-security</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Using Analysis Coupling to Detect Information Flow Security Vulnerabilities"</title>
         <subtitle/>
@@ -3645,6 +4859,42 @@
           <person id="2">Ralf Reussner</person>
           <person id="3">Robert Heinrich</person>
         </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="d9d1c1cc-4073-5548-bb37-2b043dd2e987" id="157">
+        <date>2026-02-27T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-0-lunch-sky-lounge-3</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="seuh">SEUH</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="d9d1c1cc-4073-5548-bb37-2b043dd2e987" id="155">
+        <date>2026-02-27T12:15:00+01:00</date>
+        <start>12:15</start>
+        <duration>01:15</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-0-lunch-sky-lounge-3</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
         <attachments/>
         <links/>
       </event>
