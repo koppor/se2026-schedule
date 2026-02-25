@@ -79,6 +79,18 @@ def clean_text(text):
     return re.sub(r"\s+", " ", text).strip()
 
 
+ROOM_ALIASES = {
+    re.compile(r"^Champions Lounge\b.*"): "Champions Lounge",
+}
+
+
+def normalize_room(name):
+    for pattern, canonical in ROOM_ALIASES.items():
+        if pattern.match(name):
+            return canonical
+    return name
+
+
 def parse_format_minutes(format_text):
     """Parse a format string like '17 minutes talk + 5 minutes questions' into total minutes."""
     total = 0
@@ -152,10 +164,10 @@ def parse_item_description(desc, item_div=None):
                 value = full_text[len(label):].strip()
 
                 if label == "Room:":
-                    result["room"] = value
+                    result["room"] = normalize_room(value)
                 elif label == "Location:":
                     if not result["room"]:
-                        result["room"] = value
+                        result["room"] = normalize_room(value)
                 elif label == "Link:":
                     a = child.find("a")
                     if a:

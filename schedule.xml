@@ -712,6 +712,24 @@
   </day>
   <day index="3" date="2026-02-25" start="2026-02-25T09:00:00+01:00" end="2026-02-26T08:59:00+01:00">
     <room name="Champions Lounge" slug="champions-lounge">
+      <event guid="eafe14d4-03dc-5a15-aa73-9bce03f8d0a3" id="31">
+        <date>2026-02-25T08:30:00+01:00</date>
+        <start>08:30</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-31-registration</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Registration</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
       <event guid="f5b94960-86c2-59b7-a3f6-f8c8d53b6353" id="32">
         <date>2026-02-25T09:00:00+01:00</date>
         <start>09:00</start>
@@ -750,6 +768,24 @@
           <person id="1">Maria Christakis (TU Vienna (AT))</person>
           <person id="2">Leen Lambers (BTU Cottbus-Senftenberg (DE))</person>
         </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="11d29360-aba0-5ba1-84cf-e3e97970cf61" id="34">
+        <date>2026-02-25T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-34-coffee-break</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
         <attachments/>
         <links/>
       </event>
@@ -846,6 +882,24 @@
         <attachments/>
         <links/>
       </event>
+      <event guid="b5ec276a-54f3-5cdf-9c32-2d4f112a4a62" id="47">
+        <date>2026-02-25T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-47-lunch</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
       <event guid="78c9fa56-2718-5bbe-a49c-18764ab526b2" id="52">
         <date>2026-02-25T13:30:00+01:00</date>
         <start>13:30</start>
@@ -936,6 +990,42 @@
           <person id="2">Sebastian Hahner</person>
           <person id="3">Robert Heinrich</person>
         </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="aa3809dc-e84d-5996-9787-6abeaa6ca4df" id="60">
+        <date>2026-02-25T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-60-coffee-break</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="4044b212-cd4a-53c8-adc2-6e415412b77e" id="85">
+        <date>2026-02-25T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-85-registration</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Registration</title>
+        <subtitle/>
+        <track slug="gi">GI/SWT/AI4SA</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
         <attachments/>
         <links/>
       </event>
@@ -1030,100 +1120,6 @@
           <person id="4">Matteo Ciniselli</person>
           <person id="5">Mauro Pezzè</person>
         </persons>
-        <attachments/>
-        <links/>
-      </event>
-    </room>
-    <room name="Champions Lounge (Catering Area)" slug="champions-lounge-catering-area">
-      <event guid="11d29360-aba0-5ba1-84cf-e3e97970cf61" id="34">
-        <date>2026-02-25T10:00:00+01:00</date>
-        <start>10:00</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge (Catering Area)</room>
-        <slug>se2026-34-coffee-break</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Coffee Break</title>
-        <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="b5ec276a-54f3-5cdf-9c32-2d4f112a4a62" id="47">
-        <date>2026-02-25T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>01:30</duration>
-        <room>Champions Lounge (Catering Area)</room>
-        <slug>se2026-47-lunch</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Lunch</title>
-        <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="aa3809dc-e84d-5996-9787-6abeaa6ca4df" id="60">
-        <date>2026-02-25T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge (Catering Area)</room>
-        <slug>se2026-60-coffee-break</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Coffee Break</title>
-        <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-    </room>
-    <room name="Champions Lounge (Reception Area) (3 rd Floor)" slug="champions-lounge-reception-area-3-rd-floor">
-      <event guid="eafe14d4-03dc-5a15-aa73-9bce03f8d0a3" id="31">
-        <date>2026-02-25T08:30:00+01:00</date>
-        <start>08:30</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge (Reception Area) (3 rd Floor)</room>
-        <slug>se2026-31-registration</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Registration</title>
-        <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="4044b212-cd4a-53c8-adc2-6e415412b77e" id="85">
-        <date>2026-02-25T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge (Reception Area) (3 rd Floor)</room>
-        <slug>se2026-85-registration</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Registration</title>
-        <subtitle/>
-        <track slug="gi">GI/SWT/AI4SA</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
         <attachments/>
         <links/>
       </event>
@@ -1981,6 +1977,24 @@
   </day>
   <day index="4" date="2026-02-26" start="2026-02-26T09:00:00+01:00" end="2026-02-27T08:59:00+01:00">
     <room name="Champions Lounge" slug="champions-lounge">
+      <event guid="b907e319-4d98-53b4-8fe8-13d88e47deaf" id="89">
+        <date>2026-02-26T08:30:00+01:00</date>
+        <start>08:30</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-89-registration</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Registration</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
       <event guid="4e6ad855-e56a-5814-bb08-71e6d1150bba" id="90">
         <date>2026-02-26T09:00:00+01:00</date>
         <start>09:00</start>
@@ -2019,6 +2033,42 @@
           <person id="1">Amandine Le Pape (Head of Section – Business &amp; Impact at the Open Source Academy , COO and Co-Founder of Element )</person>
           <person id="2">Matthias Stürmer (Professor at the Bern University of Applied Sciences (CH), Institute ‘Public Sector Transformation’)</person>
         </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="8dc6bbbc-2cf9-5c90-8634-956bcf2a73a1" id="92">
+        <date>2026-02-26T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-92-coffee-break</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="3ecf77b5-c66f-5dda-95b8-3d31f89ceed9" id="126">
+        <date>2026-02-26T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-126-registration</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Registration</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
         <attachments/>
         <links/>
       </event>
@@ -2076,6 +2126,60 @@
         <attachments/>
         <links/>
       </event>
+      <event guid="fbed434c-da8d-5250-8832-2dfd9d3850a3" id="101">
+        <date>2026-02-26T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-101-lunch</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Lunch</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="80d1f85b-f2eb-5f41-9cce-b3e48f41a766" id="137">
+        <date>2026-02-26T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-137-poster-session-at-the-end-of-the-lunch-break</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Poster Session (At the End of the Lunch Break)</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="dca2dd1c-7a7e-548a-bcc0-d8e972608a71" id="147">
+        <date>2026-02-26T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-147-registration</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Registration</title>
+        <subtitle/>
+        <track slug="seuh">SEUH</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
       <event guid="4ec2516c-17ef-5536-81e6-7e96c9e118c4" id="119">
         <date>2026-02-26T13:30:00+01:00</date>
         <start>13:30</start>
@@ -2126,6 +2230,60 @@
         <language>de</language>
         <abstract/>
         <description>30 minutes talk</description>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="dd65883a-6390-51b5-a833-93540765c8b4" id="110">
+        <date>2026-02-26T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-110-coffee-break</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="d24499f7-1c88-5f44-9413-daba18f92c75" id="138">
+        <date>2026-02-26T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-138-poster-session-during-the-coffee-break</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Poster Session (During the Coffee Break)</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="1957ffc8-60e9-53d6-a730-8f535ebe52c1" id="139">
+        <date>2026-02-26T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-139-registration</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Registration</title>
+        <subtitle/>
+        <track slug="dissertationspreis">Dissertationspreis</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
         <persons/>
         <attachments/>
         <links/>
@@ -2198,172 +2356,6 @@
         <language>de</language>
         <abstract/>
         <description>30 minutes talk</description>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-    </room>
-    <room name="Champions Lounge (Catering Area)" slug="champions-lounge-catering-area">
-      <event guid="8dc6bbbc-2cf9-5c90-8634-956bcf2a73a1" id="92">
-        <date>2026-02-26T10:00:00+01:00</date>
-        <start>10:00</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge (Catering Area)</room>
-        <slug>se2026-92-coffee-break</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Coffee Break</title>
-        <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="fbed434c-da8d-5250-8832-2dfd9d3850a3" id="101">
-        <date>2026-02-26T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>01:30</duration>
-        <room>Champions Lounge (Catering Area)</room>
-        <slug>se2026-101-lunch</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Lunch</title>
-        <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="80d1f85b-f2eb-5f41-9cce-b3e48f41a766" id="137">
-        <date>2026-02-26T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge (Catering Area)</room>
-        <slug>se2026-137-poster-session-at-the-end-of-the-lunch-break</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Poster Session (At the End of the Lunch Break)</title>
-        <subtitle/>
-        <track slug="student-research-competition">Student Research Competition</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="dd65883a-6390-51b5-a833-93540765c8b4" id="110">
-        <date>2026-02-26T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge (Catering Area)</room>
-        <slug>se2026-110-coffee-break</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Coffee Break</title>
-        <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="d24499f7-1c88-5f44-9413-daba18f92c75" id="138">
-        <date>2026-02-26T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge (Catering Area)</room>
-        <slug>se2026-138-poster-session-during-the-coffee-break</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Poster Session (During the Coffee Break)</title>
-        <subtitle/>
-        <track slug="student-research-competition">Student Research Competition</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-    </room>
-    <room name="Champions Lounge (Reception Area) (3 rd Floor)" slug="champions-lounge-reception-area-3-rd-floor">
-      <event guid="b907e319-4d98-53b4-8fe8-13d88e47deaf" id="89">
-        <date>2026-02-26T08:30:00+01:00</date>
-        <start>08:30</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge (Reception Area) (3 rd Floor)</room>
-        <slug>se2026-89-registration</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Registration</title>
-        <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="3ecf77b5-c66f-5dda-95b8-3d31f89ceed9" id="126">
-        <date>2026-02-26T10:00:00+01:00</date>
-        <start>10:00</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge (Reception Area) (3 rd Floor)</room>
-        <slug>se2026-126-registration</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Registration</title>
-        <subtitle/>
-        <track slug="student-research-competition">Student Research Competition</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="dca2dd1c-7a7e-548a-bcc0-d8e972608a71" id="147">
-        <date>2026-02-26T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge (Reception Area) (3 rd Floor)</room>
-        <slug>se2026-147-registration</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Registration</title>
-        <subtitle/>
-        <track slug="seuh">SEUH</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="1957ffc8-60e9-53d6-a730-8f535ebe52c1" id="139">
-        <date>2026-02-26T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge (Reception Area) (3 rd Floor)</room>
-        <slug>se2026-139-registration</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Registration</title>
-        <subtitle/>
-        <track slug="dissertationspreis">Dissertationspreis</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
         <persons/>
         <attachments/>
         <links/>
@@ -3235,6 +3227,24 @@
   </day>
   <day index="5" date="2026-02-27" start="2026-02-27T09:00:00+01:00" end="2026-02-28T08:59:00+01:00">
     <room name="Champions Lounge" slug="champions-lounge">
+      <event guid="bd58fdcc-e805-58fa-a4aa-6d4efe24f3ee" id="150">
+        <date>2026-02-27T08:30:00+01:00</date>
+        <start>08:30</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-150-registration</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Registration</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
       <event guid="303b35b7-c1d4-51cc-9778-d82ba148a648" id="151">
         <date>2026-02-27T09:00:00+01:00</date>
         <start>09:00</start>
@@ -3253,6 +3263,42 @@
           <person id="1">Chunyang Chen (TU Munich (DE))</person>
           <person id="2">Michael Pradel (University of Stuttgart (DE))</person>
         </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="ef53c200-819d-59f8-952a-6442cf825d41" id="152">
+        <date>2026-02-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-152-coffee-break</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Coffee Break</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="63190b9c-906d-508b-81b9-7682ebfb4abb" id="167">
+        <date>2026-02-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-167-registration</slug>
+        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
+        <title>Registration</title>
+        <subtitle/>
+        <track slug="seuh">SEUH</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
         <attachments/>
         <links/>
       </event>
@@ -3368,31 +3414,11 @@
         <attachments/>
         <links/>
       </event>
-    </room>
-    <room name="Champions Lounge (Catering Area)" slug="champions-lounge-catering-area">
-      <event guid="ef53c200-819d-59f8-952a-6442cf825d41" id="152">
-        <date>2026-02-27T10:00:00+01:00</date>
-        <start>10:00</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge (Catering Area)</room>
-        <slug>se2026-152-coffee-break</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Coffee Break</title>
-        <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
       <event guid="5924d3d3-1873-5d4e-890f-35e60c1c51f7" id="169">
         <date>2026-02-27T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
-        <room>Champions Lounge (Catering Area)</room>
+        <room>Champions Lounge</room>
         <slug>se2026-169-lunch</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Lunch</title>
@@ -3410,50 +3436,12 @@
         <date>2026-02-27T12:15:00+01:00</date>
         <start>12:15</start>
         <duration>01:15</duration>
-        <room>Champions Lounge (Catering Area)</room>
+        <room>Champions Lounge</room>
         <slug>se2026-166-lunch</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Lunch</title>
         <subtitle/>
         <track slug="scientific-program">Scientific Program (SE)</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-    </room>
-    <room name="Champions Lounge (Reception Area) (3 rd Floor)" slug="champions-lounge-reception-area-3-rd-floor">
-      <event guid="bd58fdcc-e805-58fa-a4aa-6d4efe24f3ee" id="150">
-        <date>2026-02-27T08:30:00+01:00</date>
-        <start>08:30</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge (Reception Area) (3 rd Floor)</room>
-        <slug>se2026-150-registration</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Registration</title>
-        <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
-        <type>other</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="63190b9c-906d-508b-81b9-7682ebfb4abb" id="167">
-        <date>2026-02-27T10:00:00+01:00</date>
-        <start>10:00</start>
-        <duration>00:30</duration>
-        <room>Champions Lounge (Reception Area) (3 rd Floor)</room>
-        <slug>se2026-167-registration</slug>
-        <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
-        <title>Registration</title>
-        <subtitle/>
-        <track slug="seuh">SEUH</track>
         <type>other</type>
         <language>de</language>
         <abstract/>
