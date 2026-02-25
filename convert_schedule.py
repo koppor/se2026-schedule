@@ -285,6 +285,13 @@ def extract_events(inner_soup):
                     continue
                 seen.add(dedup_key)
 
+                effective_track_slug = track_slug
+                effective_track_name = track_name
+                if title.lower().startswith("session:"):
+                    session_label = title[len("session:"):].strip()
+                    effective_track_slug = slugify(track_slug + "-" + session_label)
+                    effective_track_name = f"{track_name}: {session_label}"
+
                 duration = compute_duration(start_time, end_time)
                 slug = make_event_slug("se2026", event_id, title)
                 guid = make_guid(slug)
@@ -307,8 +314,8 @@ def extract_events(inner_soup):
                     "duration": duration,
                     "title": title,
                     "room": room,
-                    "track_slug": track_slug,
-                    "track_name": track_name,
+                    "track_slug": effective_track_slug,
+                    "track_name": effective_track_name,
                     "type": event_type,
                     "language": language,
                     "persons": parsed["persons"],
@@ -348,8 +355,8 @@ def extract_events(inner_soup):
                                 "duration": sub_duration,
                                 "title": si["title"],
                                 "room": room,
-                                "track_slug": track_slug,
-                                "track_name": track_name,
+                                "track_slug": effective_track_slug,
+                                "track_name": effective_track_name,
                                 "type": event_type,
                                 "language": language,
                                 "persons": si["persons"],

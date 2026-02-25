@@ -24,12 +24,33 @@
     <track slug="gense">GenSE 2026</track>
     <track slug="secpps">SECPPS 2026</track>
     <track slug="scientific-program">Scientific Program (SE)</track>
+    <track slug="scientific-program-architecture-modeling">Scientific Program (SE): Architecture &amp; Modeling</track>
+    <track slug="scientific-program-se4ai">Scientific Program (SE): SE4AI</track>
+    <track slug="scientific-program-verification">Scientific Program (SE): Verification</track>
+    <track slug="scientific-program-analysis-repair">Scientific Program (SE): Analysis &amp; Repair</track>
+    <track slug="scientific-program-architecture-learning">Scientific Program (SE): Architecture &amp; Learning</track>
+    <track slug="scientific-program-human-aspects-education">Scientific Program (SE): Human Aspects &amp; Education</track>
+    <track slug="scientific-program-features-traceability">Scientific Program (SE): Features &amp; Traceability</track>
+    <track slug="scientific-program-reasoning-about-software">Scientific Program (SE): Reasoning about Software</track>
     <track slug="choose-forum">CHOOSE Forum</track>
+    <track slug="choose-forum-simulation-testing-for-autonomous-and-cyber-phy">CHOOSE Forum: Simulation &amp; Testing for Autonomous and Cyber-Physical Systems</track>
+    <track slug="choose-forum-engineering-intelligent-systems-from-autonomous">CHOOSE Forum: Engineering Intelligent Systems: From Autonomous Vehicles to AI Code Generation</track>
+    <track slug="choose-forum-sustainability-and-reliability-of-ai-driven-sof">CHOOSE Forum: Sustainability and Reliability of AI-Driven Software</track>
+    <track slug="choose-forum-trust-modernization-and-certification-in-ai-ena">CHOOSE Forum: Trust, Modernization, and Certification in AI-Enabled Software Systems</track>
+    <track slug="choose-forum-interdisciplinary-perspectives-ai-biology-and-b">CHOOSE Forum: Interdisciplinary Perspectives: AI, Biology, and Bioinformatics</track>
     <track slug="gi">GI/SWT/AI4SA</track>
+    <track slug="scientific-program-automated-test-generation">Scientific Program (SE): Automated Test Generation</track>
+    <track slug="scientific-program-requirements-mining">Scientific Program (SE): Requirements &amp; Mining</track>
+    <track slug="scientific-program-software-comprehension">Scientific Program (SE): Software Comprehension</track>
+    <track slug="scientific-program-testing-optimisation">Scientific Program (SE): Testing &amp; Optimisation</track>
+    <track slug="scientific-program-test-evaluation">Scientific Program (SE): Test Evaluation</track>
     <track slug="industry-day">Industry Day</track>
     <track slug="student-research-competition">Student Research Competition</track>
     <track slug="dissertationspreis">Dissertationspreis</track>
     <track slug="seuh">SEUH</track>
+    <track slug="scientific-program-gui-level-analysis-requirements">Scientific Program (SE): GUI-level Analysis &amp; Requirements</track>
+    <track slug="scientific-program-llms-ai">Scientific Program (SE): LLMs &amp; AI</track>
+    <track slug="scientific-program-security-privacy">Scientific Program (SE): Security &amp; Privacy</track>
   </tracks>
   <day index="1" date="2026-02-23" start="2026-02-23T09:00:00+01:00" end="2026-02-24T08:59:00+01:00">
     <room name="4.61 Piazza" slug="461-piazza">
@@ -741,7 +762,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"From Prompts to Templates: A Systematic Prompt Template Analysis for Real-world LLMapps"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-se4ai">Scientific Program (SE): SE4AI</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -761,7 +782,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"How Toxic Can You Get? Search-based Toxicity Testing for Large Language Models"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-se4ai">Scientific Program (SE): SE4AI</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -786,7 +807,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"MMDFast: Efficient Understanding of Machine Learning Model Mispredictions"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-se4ai">Scientific Program (SE): SE4AI</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -808,7 +829,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"TAEFuzz: Automatic Fuzzing for Image-based Deep Learning Systems via Transferable Adversarial Examples"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-se4ai">Scientific Program (SE): SE4AI</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -834,7 +855,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Do Large Language Models Contain Software Architectural Knowledge? An Exploratory Case Study with GPT"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-architecture-learning">Scientific Program (SE): Architecture &amp; Learning</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -855,7 +876,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Linking Software System Artifacts: Toward Generic Traceability Link Recovery through Retrieval-Augmented Generation"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-architecture-learning">Scientific Program (SE): Architecture &amp; Learning</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -881,7 +902,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"ExArch: Enabling Architecture Traceability by LLM-based Architecture Component Name Extraction"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-architecture-learning">Scientific Program (SE): Architecture &amp; Learning</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -905,7 +926,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Machine Learning-Based Mitigation of Confidentiality Violations in Software Architectures"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-architecture-learning">Scientific Program (SE): Architecture &amp; Learning</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -927,7 +948,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Establishing Technical Debt Management – A Five-Step Workshop Approach and an Action Research Study"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-reasoning-about-software">Scientific Program (SE): Reasoning about Software</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -951,7 +972,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Learning Program Behavioral Models from Synthesized Input-Output Pairs"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-reasoning-about-software">Scientific Program (SE): Reasoning about Software</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -974,7 +995,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Measuring the Fidelity of a Physical and a Digital Twin Using Trace Alignments"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-reasoning-about-software">Scientific Program (SE): Reasoning about Software</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -997,7 +1018,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Predicting Failures in Smart Human-Centric Ecosystems"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-reasoning-about-software">Scientific Program (SE): Reasoning about Software</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1117,7 +1138,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Continuous Integration of Architectural Performance Models with Parametric Dependencies – The CIPM Approach"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-architecture-modeling">Scientific Program (SE): Architecture &amp; Modeling</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1141,7 +1162,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Evolution Patterns of Software-Architecture Smells"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-architecture-modeling">Scientific Program (SE): Architecture &amp; Modeling</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1163,7 +1184,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Model-based Proactive Self-Adaptation for Cloud Systems"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-architecture-modeling">Scientific Program (SE): Architecture &amp; Modeling</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1186,7 +1207,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Refactoring with Confidence: An Assistant for Repair- Integrated Refactoring in Block-based Industrial Models (Summary)"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-architecture-modeling">Scientific Program (SE): Architecture &amp; Modeling</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1208,7 +1229,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Decades of GNU Patch and Git Cherry-Pick: Can We Do Better? – Summary"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-analysis-repair">Scientific Program (SE): Analysis &amp; Repair</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1233,7 +1254,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"How Configurable is the Linux Kernel? Analyzing Two Decades of Feature-Model History – Summary"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-analysis-repair">Scientific Program (SE): Analysis &amp; Repair</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1258,7 +1279,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Statically Analyzing the Dataflow of R Programs"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-analysis-repair">Scientific Program (SE): Analysis &amp; Repair</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1279,7 +1300,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Too Many Issues: Automatically Prioritizing Analyzer Findings by Tracing Security Importance (Summary)"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-analysis-repair">Scientific Program (SE): Analysis &amp; Repair</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1343,7 +1364,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Exploring Development Methods for Reactive Synthesis Specifications"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-verification">Scientific Program (SE): Verification</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1365,7 +1386,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Off-the-Shelf Cooperative Software Verification by Splitting Programs Dynamically"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-verification">Scientific Program (SE): Verification</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1388,7 +1409,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"On the Expressive Power of Languages for Static Variability – Summary"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-verification">Scientific Program (SE): Verification</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1415,7 +1436,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Safe Mixed-Consistency Local-First Software with Invariants"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-verification">Scientific Program (SE): Verification</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1438,7 +1459,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Enhancing Motivation in Software Engineering Education through Gamified Agile Project-based Learning"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-human-aspects-education">Scientific Program (SE): Human Aspects &amp; Education</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1461,7 +1482,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"How Do Programming Students Use Generative AI?"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-human-aspects-education">Scientific Program (SE): Human Aspects &amp; Education</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1482,7 +1503,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Interruptibility of Software Developers and Its Prediction Using Psycho-Physiological Sensors: A Replication"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-human-aspects-education">Scientific Program (SE): Human Aspects &amp; Education</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1503,7 +1524,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Toward a Theory on Programmer’s Block inspired by Writer’s Block (Kurzfassung)"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-human-aspects-education">Scientific Program (SE): Human Aspects &amp; Education</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1525,7 +1546,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Coverage Metrics for T-Wise Feature Interactions – Summary"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-features-traceability">Scientific Program (SE): Features &amp; Traceability</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1550,7 +1571,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Give an Inch and Take a Mile? Effects of Adding Reliable Knowledge to Heuristic Feature Tracing – Summary"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-features-traceability">Scientific Program (SE): Features &amp; Traceability</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1574,7 +1595,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"How Low Can We Go? Minimizing Interaction Samples for Configurable Systems – Summary"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-features-traceability">Scientific Program (SE): Features &amp; Traceability</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1601,7 +1622,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Reusing d-DNNFs for Efficient Feature-Model Counting – Summary"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-features-traceability">Scientific Program (SE): Features &amp; Traceability</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1665,7 +1686,7 @@
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>"Simulation-based regression testing for Autonomous Vehicles &amp; Overview of Sim2Cloud"</title>
         <subtitle/>
-        <track slug="choose-forum">CHOOSE Forum</track>
+        <track slug="choose-forum-simulation-testing-for-autonomous-and-cyber-phy">CHOOSE Forum: Simulation &amp; Testing for Autonomous and Cyber-Physical Systems</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1685,7 +1706,7 @@
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>"Simulating the Real World: An Introduction to the BeamNG Platform &amp; Generation of 3D Generative models"</title>
         <subtitle/>
-        <track slug="choose-forum">CHOOSE Forum</track>
+        <track slug="choose-forum-simulation-testing-for-autonomous-and-cyber-phy">CHOOSE Forum: Simulation &amp; Testing for Autonomous and Cyber-Physical Systems</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1706,7 +1727,7 @@
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>"From code to corner: The software behind LOXO urban vehicles"</title>
         <subtitle/>
-        <track slug="choose-forum">CHOOSE Forum</track>
+        <track slug="choose-forum-engineering-intelligent-systems-from-autonomous">CHOOSE Forum: Engineering Intelligent Systems: From Autonomous Vehicles to AI Code Generation</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1726,7 +1747,7 @@
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>"A journey in AI-based code generation"</title>
         <subtitle/>
-        <track slug="choose-forum">CHOOSE Forum</track>
+        <track slug="choose-forum-engineering-intelligent-systems-from-autonomous">CHOOSE Forum: Engineering Intelligent Systems: From Autonomous Vehicles to AI Code Generation</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1746,7 +1767,7 @@
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>"From Perception to Action: Can UI Interventions Foster Sustainable LLM Chatbot"</title>
         <subtitle/>
-        <track slug="choose-forum">CHOOSE Forum</track>
+        <track slug="choose-forum-sustainability-and-reliability-of-ai-driven-sof">CHOOSE Forum: Sustainability and Reliability of AI-Driven Software</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1766,7 +1787,7 @@
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>"Breaking DNNs: Mutation Testing for Deep Neural Networks"</title>
         <subtitle/>
-        <track slug="choose-forum">CHOOSE Forum</track>
+        <track slug="choose-forum-sustainability-and-reliability-of-ai-driven-sof">CHOOSE Forum: Sustainability and Reliability of AI-Driven Software</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1787,7 +1808,7 @@
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>"Legacy Application Modernization with AI Agents"</title>
         <subtitle/>
-        <track slug="choose-forum">CHOOSE Forum</track>
+        <track slug="choose-forum-trust-modernization-and-certification-in-ai-ena">CHOOSE Forum: Trust, Modernization, and Certification in AI-Enabled Software Systems</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1807,7 +1828,7 @@
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>"Trustworthy Distributed Certification of Program Execution"</title>
         <subtitle/>
-        <track slug="choose-forum">CHOOSE Forum</track>
+        <track slug="choose-forum-trust-modernization-and-certification-in-ai-ena">CHOOSE Forum: Trust, Modernization, and Certification in AI-Enabled Software Systems</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1827,7 +1848,7 @@
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>"Integrating Physiology and Machine Learning to Predict Oxyhaemoglobin Dissociation Curve Shift in Preterm Infants"</title>
         <subtitle/>
-        <track slug="choose-forum">CHOOSE Forum</track>
+        <track slug="choose-forum-interdisciplinary-perspectives-ai-biology-and-b">CHOOSE Forum: Interdisciplinary Perspectives: AI, Biology, and Bioinformatics</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -1847,7 +1868,7 @@
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>"Bridging Research and Practice in Simulation-based Testing of Industrial Robot Navigation Systems"</title>
         <subtitle/>
-        <track slug="choose-forum">CHOOSE Forum</track>
+        <track slug="choose-forum-interdisciplinary-perspectives-ai-biology-and-b">CHOOSE Forum: Interdisciplinary Perspectives: AI, Biology, and Bioinformatics</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -2378,7 +2399,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Automating Requirements Elicitation Interviews with LLMs"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-requirements-mining">Scientific Program (SE): Requirements &amp; Mining</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -2400,7 +2421,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"How do practitioners incorporate requirements and design decisions in LLM-assisted code generation?"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-requirements-mining">Scientific Program (SE): Requirements &amp; Mining</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -2422,7 +2443,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"The Good, the Bad, and the Uncanny: Investigating Diversity Aspects of LLM-Generated Personas for Requirements Engineering – Summary"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-requirements-mining">Scientific Program (SE): Requirements &amp; Mining</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -2449,7 +2470,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Does the Tool Matter? Exploring Some Causes of Threats to Validity in Mining Software Repositories"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-requirements-mining">Scientific Program (SE): Requirements &amp; Mining</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -2514,7 +2535,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-automated-test-generation">Scientific Program (SE): Automated Test Generation</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -2536,7 +2557,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Does GenAI Make Usability Testing Obsolete?"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-automated-test-generation">Scientific Program (SE): Automated Test Generation</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -2557,7 +2578,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Efficient Domain Augmentation for Autonomous Driving Testing Using Diffusion Models"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-automated-test-generation">Scientific Program (SE): Automated Test Generation</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -2580,7 +2601,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"FANDANGO: Evolving Language-Based Testing"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-automated-test-generation">Scientific Program (SE): Automated Test Generation</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -2602,7 +2623,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Adaptive Test Generation with Q-grams"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-testing-optimisation">Scientific Program (SE): Testing &amp; Optimisation</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -2624,7 +2645,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"E-Test: Ever-Improving Test Suites"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-testing-optimisation">Scientific Program (SE): Testing &amp; Optimisation</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -2647,7 +2668,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Metamorphic Testing for Optimisation: A Case Study on PID Controller Tuning"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-testing-optimisation">Scientific Program (SE): Testing &amp; Optimisation</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -2671,7 +2692,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Optimization of Automated and Manual Software Tests in Industrial Practice: A Survey and Historical Analysis"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-testing-optimisation">Scientific Program (SE): Testing &amp; Optimisation</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -2694,7 +2715,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Do LLMs Generate Useful Test Oracles? An Empirical Study with an Unbiased Dataset"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-test-evaluation">Scientific Program (SE): Test Evaluation</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -2718,7 +2739,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Gamifying Testing in IntelliJ: A Replicability Study"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-test-evaluation">Scientific Program (SE): Test Evaluation</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -2742,7 +2763,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Mutation-Based Integration Testing of Knowledge Graph Applications (Summary)"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-test-evaluation">Scientific Program (SE): Test Evaluation</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -2764,7 +2785,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"The Testing Gaps in Infrastructure as Code Programs"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-test-evaluation">Scientific Program (SE): Test Evaluation</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -2988,7 +3009,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"How ML Practitioners Perceive Explainability: An Interview Study of Practices and Challenges"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-software-comprehension">Scientific Program (SE): Software Comprehension</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -3012,7 +3033,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Investigating the Readability of Test Code: Combining Scientific and Practical View"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-software-comprehension">Scientific Program (SE): Software Comprehension</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -3034,7 +3055,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Providing Information About Implemented Algorithms Improves Program Comprehension: A Controlled Experiment"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-software-comprehension">Scientific Program (SE): Software Comprehension</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -3056,7 +3077,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Semantic Zoom and Mini-Maps for Software Cities"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-software-comprehension">Scientific Program (SE): Software Comprehension</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -3244,7 +3265,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Can Developers Prompt? A Controlled Experiment for Code Documentation Generation"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-llms-ai">Scientific Program (SE): LLMs &amp; AI</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -3266,7 +3287,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Don’t Settle for the First! How Many GitHub Copilot Solutions Should You Check?"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-llms-ai">Scientific Program (SE): LLMs &amp; AI</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -3288,7 +3309,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Explaining GitHub Actions Failures with Large Language Models: Challenges, Insights, and Limitations – Summary"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-llms-ai">Scientific Program (SE): LLMs &amp; AI</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -3314,7 +3335,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Model Cards Revisited: Bridging the Gap Between Theory and Practice for Ethical AI Requirements"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-llms-ai">Scientific Program (SE): LLMs &amp; AI</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -3474,7 +3495,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Automated Soap Opera Testing Directed by LLMs and Scenario Knowledge"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-gui-level-analysis-requirements">Scientific Program (SE): GUI-level Analysis &amp; Requirements</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -3494,7 +3515,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"GUing: A Mobile GUI Search Engine using a Vision-Language Model"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-gui-level-analysis-requirements">Scientific Program (SE): GUI-level Analysis &amp; Requirements</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -3520,7 +3541,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Repair"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-gui-level-analysis-requirements">Scientific Program (SE): GUI-level Analysis &amp; Requirements</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -3540,7 +3561,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Parametric Falsification of Many Probabilistic Requirements under Flakiness"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-gui-level-analysis-requirements">Scientific Program (SE): GUI-level Analysis &amp; Requirements</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -3563,7 +3584,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Contextual Privacy Policies for Mobile Applications and An Approach Toward Automated Generation"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-security-privacy">Scientific Program (SE): Security &amp; Privacy</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -3584,7 +3605,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"SecCityVR: Visualization and Collaborative Exploration of Software Vulnerabilities in Virtual Reality"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-security-privacy">Scientific Program (SE): Security &amp; Privacy</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -3605,7 +3626,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Summary of Large Language Models for In-File Vulnerability Localization Can Be “Lost in the End” (FSE2025)"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-security-privacy">Scientific Program (SE): Security &amp; Privacy</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
@@ -3626,7 +3647,7 @@
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>"Using Analysis Coupling to Detect Information Flow Security Vulnerabilities"</title>
         <subtitle/>
-        <track slug="scientific-program">Scientific Program (SE)</track>
+        <track slug="scientific-program-security-privacy">Scientific Program (SE): Security &amp; Privacy</track>
         <type>talk</type>
         <language>de</language>
         <abstract/>
