@@ -315,51 +315,53 @@ def extract_events(inner_soup):
                     "abstract": "",
                     "description": parsed["description"],
                 }
-                events.append(event)
-                event_id += 1
-
                 items_container = item_div.find("div", class_="schedule__group-item-items")
+                sub_items = []
                 if items_container:
                     sub_items = parse_sub_items(items_container)
-                    if sub_items:
-                        session_total_minutes = parse_time_minutes(end_time) - parse_time_minutes(start_time)
-                        total_known = sum(si["duration_minutes"] for si in sub_items)
-                        if total_known == 0:
-                            even_minutes = session_total_minutes // len(sub_items)
-                            for si in sub_items:
-                                si["duration_minutes"] = even_minutes
 
-                        sub_start = start_time
+                if sub_items:
+                    session_total_minutes = parse_time_minutes(end_time) - parse_time_minutes(start_time)
+                    total_known = sum(si["duration_minutes"] for si in sub_items)
+                    if total_known == 0:
+                        even_minutes = session_total_minutes // len(sub_items)
                         for si in sub_items:
-                            sub_dur_min = si["duration_minutes"]
-                            sub_duration = minutes_to_duration(sub_dur_min)
-                            sub_slug = make_event_slug("se2026", event_id, si["title"])
-                            sub_guid = make_guid(sub_slug)
-                            sub_dedup = (day_date, sub_start, si["title"], room)
-                            if sub_dedup not in seen:
-                                seen.add(sub_dedup)
-                                sub_event = {
-                                    "id": event_id,
-                                    "guid": sub_guid,
-                                    "slug": sub_slug,
-                                    "url": event_url,
-                                    "day_date": day_date,
-                                    "day_index": DAY_INFO[day_key]["index"],
-                                    "start": sub_start,
-                                    "duration": sub_duration,
-                                    "title": si["title"],
-                                    "room": room,
-                                    "track_slug": track_slug,
-                                    "track_name": track_name,
-                                    "type": event_type,
-                                    "language": language,
-                                    "persons": si["persons"],
-                                    "abstract": "",
-                                    "description": si["format_text"],
-                                }
-                                events.append(sub_event)
-                                event_id += 1
-                            sub_start = add_minutes_to_time(sub_start, sub_dur_min)
+                            si["duration_minutes"] = even_minutes
+
+                    sub_start = start_time
+                    for si in sub_items:
+                        sub_dur_min = si["duration_minutes"]
+                        sub_duration = minutes_to_duration(sub_dur_min)
+                        sub_slug = make_event_slug("se2026", event_id, si["title"])
+                        sub_guid = make_guid(sub_slug)
+                        sub_dedup = (day_date, sub_start, si["title"], room)
+                        if sub_dedup not in seen:
+                            seen.add(sub_dedup)
+                            sub_event = {
+                                "id": event_id,
+                                "guid": sub_guid,
+                                "slug": sub_slug,
+                                "url": event_url,
+                                "day_date": day_date,
+                                "day_index": DAY_INFO[day_key]["index"],
+                                "start": sub_start,
+                                "duration": sub_duration,
+                                "title": si["title"],
+                                "room": room,
+                                "track_slug": track_slug,
+                                "track_name": track_name,
+                                "type": event_type,
+                                "language": language,
+                                "persons": si["persons"],
+                                "abstract": "",
+                                "description": si["format_text"],
+                            }
+                            events.append(sub_event)
+                            event_id += 1
+                        sub_start = add_minutes_to_time(sub_start, sub_dur_min)
+                else:
+                    events.append(event)
+                    event_id += 1
 
     return events
 
