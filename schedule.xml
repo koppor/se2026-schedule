@@ -1127,14 +1127,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="78e53368-26f2-5ef1-84c6-fdcd7172307b" id="34">
+      <event guid="021a1891-f662-566f-a511-d7a7cc319d1e" id="34">
         <date>2026-02-25T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
         <slug>se2026-34-from-prompts-to-templates-a-systematic-prompt-template-analy</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"From Prompts to Templates: A Systematic Prompt Template Analysis for Real-world LLMapps"</title>
+        <title>From Prompts to Templates: A Systematic Prompt Template Analysis for Real-world LLMapps</title>
         <subtitle/>
         <track slug="scientific-program-se4ai">Scientific Program (SE): SE4AI</track>
         <type>talk</type>
@@ -1147,14 +1147,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="1add2d39-3e0a-5e39-8b0e-2d5aed0651c9" id="35">
+      <event guid="410e9cf2-a3d7-5a9d-b7bc-92354089afd4" id="35">
         <date>2026-02-25T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
         <slug>se2026-35-how-toxic-can-you-get-search-based-toxicity-testing-for-larg</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"How Toxic Can You Get? Search-based Toxicity Testing for Large Language Models"</title>
+        <title>How Toxic Can You Get? Search-based Toxicity Testing for Large Language Models</title>
         <subtitle/>
         <track slug="scientific-program-se4ai">Scientific Program (SE): SE4AI</track>
         <type>talk</type>
@@ -1172,14 +1172,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="a50ca421-ba9d-573a-92ca-67434f2432c4" id="36">
+      <event guid="be5fac19-d304-5a32-812f-cdd857eb9949" id="36">
         <date>2026-02-25T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
         <slug>se2026-36-mmdfast-efficient-understanding-of-machine-learning-model-mi</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"MMDFast: Efficient Understanding of Machine Learning Model Mispredictions"</title>
+        <title>MMDFast: Efficient Understanding of Machine Learning Model Mispredictions</title>
         <subtitle/>
         <track slug="scientific-program-se4ai">Scientific Program (SE): SE4AI</track>
         <type>talk</type>
@@ -1194,14 +1194,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="bb2c695c-4b7e-5a5b-84a6-c55d635eb6ff" id="37">
+      <event guid="3904ce28-878f-5188-a5f6-66cc2f80db25" id="37">
         <date>2026-02-25T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
         <slug>se2026-37-taefuzz-automatic-fuzzing-for-image-based-deep-learning-syst</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"TAEFuzz: Automatic Fuzzing for Image-based Deep Learning Systems via Transferable Adversarial Examples"</title>
+        <title>TAEFuzz: Automatic Fuzzing for Image-based Deep Learning Systems via Transferable Adversarial Examples</title>
         <subtitle/>
         <track slug="scientific-program-se4ai">Scientific Program (SE): SE4AI</track>
         <type>talk</type>
@@ -1238,14 +1238,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="8262a7ac-d2d8-5171-b06d-a796eca07b1a" id="47">
+      <event guid="cfe5d7f8-ff3a-5f8f-9eef-1fa107b3d3d3" id="47">
         <date>2026-02-25T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
         <slug>se2026-47-do-large-language-models-contain-software-architectural-know</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Do Large Language Models Contain Software Architectural Knowledge? An Exploratory Case Study with GPT"</title>
+        <title>Do Large Language Models Contain Software Architectural Knowledge? An Exploratory Case Study with GPT</title>
         <subtitle/>
         <track slug="scientific-program-architecture-learning">Scientific Program (SE): Architecture &amp; Learning</track>
         <type>talk</type>
@@ -1259,14 +1259,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="f335b4b3-269f-50cc-b6a8-88af09ce5c72" id="48">
+      <event guid="4c375b0e-b63c-56fc-8c7f-fd63a9e13e61" id="48">
         <date>2026-02-25T13:52:00+01:00</date>
         <start>13:52</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
         <slug>se2026-48-linking-software-system-artifacts-toward-generic-traceabilit</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Linking Software System Artifacts: Toward Generic Traceability Link Recovery through Retrieval-Augmented Generation"</title>
+        <title>Linking Software System Artifacts: Toward Generic Traceability Link Recovery through Retrieval-Augmented Generation</title>
         <subtitle/>
         <track slug="scientific-program-architecture-learning">Scientific Program (SE): Architecture &amp; Learning</track>
         <type>talk</type>
@@ -1285,14 +1285,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d6578993-38ff-5553-b335-c5ca1d2e455a" id="49">
+      <event guid="8d05eb91-3331-5839-94a5-252448e26d31" id="49">
         <date>2026-02-25T14:14:00+01:00</date>
         <start>14:14</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
         <slug>se2026-49-exarch-enabling-architecture-traceability-by-llm-based-archi</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"ExArch: Enabling Architecture Traceability by LLM-based Architecture Component Name Extraction"</title>
+        <title>ExArch: Enabling Architecture Traceability by LLM-based Architecture Component Name Extraction</title>
         <subtitle/>
         <track slug="scientific-program-architecture-learning">Scientific Program (SE): Architecture &amp; Learning</track>
         <type>talk</type>
@@ -1309,14 +1309,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="528e560a-2c7b-5e6f-8ac7-019029bde6dc" id="50">
+      <event guid="237da4de-f886-5a80-ac80-fb5403044e78" id="50">
         <date>2026-02-25T14:36:00+01:00</date>
         <start>14:36</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
         <slug>se2026-50-machine-learning-based-mitigation-of-confidentiality-violati</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Machine Learning-Based Mitigation of Confidentiality Violations in Software Architectures"</title>
+        <title>Machine Learning-Based Mitigation of Confidentiality Violations in Software Architectures</title>
         <subtitle/>
         <track slug="scientific-program-architecture-learning">Scientific Program (SE): Architecture &amp; Learning</track>
         <type>talk</type>
@@ -1349,14 +1349,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="34c48ff2-61b4-5e2c-8f64-be68458e96bf" id="60">
+      <event guid="53020bf8-c95b-519c-93e1-16e9e13cc5e0" id="60">
         <date>2026-02-25T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
         <slug>se2026-60-establishing-technical-debt-management-a-five-step-workshop</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Establishing Technical Debt Management – A Five-Step Workshop Approach and an Action Research Study"</title>
+        <title>Establishing Technical Debt Management – A Five-Step Workshop Approach and an Action Research Study</title>
         <subtitle/>
         <track slug="scientific-program-reasoning-about-software">Scientific Program (SE): Reasoning about Software</track>
         <type>talk</type>
@@ -1373,14 +1373,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="ec2c99ac-19fb-5461-8483-25f9d134eae9" id="61">
+      <event guid="82703862-3ec9-55bb-ab46-41b3f9bcefdf" id="61">
         <date>2026-02-25T15:52:00+01:00</date>
         <start>15:52</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
         <slug>se2026-61-learning-program-behavioral-models-from-synthesized-input-ou</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Learning Program Behavioral Models from Synthesized Input-Output Pairs"</title>
+        <title>Learning Program Behavioral Models from Synthesized Input-Output Pairs</title>
         <subtitle/>
         <track slug="scientific-program-reasoning-about-software">Scientific Program (SE): Reasoning about Software</track>
         <type>talk</type>
@@ -1396,14 +1396,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b479e3f7-18f2-59f6-9200-fde392a0528d" id="62">
+      <event guid="d44cbc50-0f36-5f35-9299-4a564475dbf7" id="62">
         <date>2026-02-25T16:14:00+01:00</date>
         <start>16:14</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
         <slug>se2026-62-measuring-the-fidelity-of-a-physical-and-a-digital-twin-usin</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Measuring the Fidelity of a Physical and a Digital Twin Using Trace Alignments"</title>
+        <title>Measuring the Fidelity of a Physical and a Digital Twin Using Trace Alignments</title>
         <subtitle/>
         <track slug="scientific-program-reasoning-about-software">Scientific Program (SE): Reasoning about Software</track>
         <type>talk</type>
@@ -1419,14 +1419,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="24f856a4-9b4a-50f8-9614-c95756d61dab" id="63">
+      <event guid="6bdf8848-469c-5717-875d-0e7d58c4d5e9" id="63">
         <date>2026-02-25T16:36:00+01:00</date>
         <start>16:36</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
         <slug>se2026-63-predicting-failures-in-smart-human-centric-ecosystems</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Predicting Failures in Smart Human-Centric Ecosystems"</title>
+        <title>Predicting Failures in Smart Human-Centric Ecosystems</title>
         <subtitle/>
         <track slug="scientific-program-reasoning-about-software">Scientific Program (SE): Reasoning about Software</track>
         <type>talk</type>
@@ -1499,14 +1499,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="3363486e-6c8b-5b4a-8c6d-6f83629d5799" id="30">
+      <event guid="c269a60b-eabb-559e-93d8-7f5282619c37" id="30">
         <date>2026-02-25T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
         <slug>se2026-30-continuous-integration-of-architectural-performance-models-w</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Continuous Integration of Architectural Performance Models with Parametric Dependencies – The CIPM Approach"</title>
+        <title>Continuous Integration of Architectural Performance Models with Parametric Dependencies – The CIPM Approach</title>
         <subtitle/>
         <track slug="scientific-program-architecture-modeling">Scientific Program (SE): Architecture &amp; Modeling</track>
         <type>talk</type>
@@ -1523,14 +1523,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="3c1e0987-3159-5dfa-a4ea-809e3401a359" id="31">
+      <event guid="45281ca1-d22e-5a36-b6c6-8b6497e1f2d6" id="31">
         <date>2026-02-25T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
         <slug>se2026-31-evolution-patterns-of-software-architecture-smells</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Evolution Patterns of Software-Architecture Smells"</title>
+        <title>Evolution Patterns of Software-Architecture Smells</title>
         <subtitle/>
         <track slug="scientific-program-architecture-modeling">Scientific Program (SE): Architecture &amp; Modeling</track>
         <type>talk</type>
@@ -1545,14 +1545,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="92ae7888-2056-5434-8d1d-2b25c2da0cf6" id="32">
+      <event guid="c883dd2f-4a04-525a-b998-6748344fccf0" id="32">
         <date>2026-02-25T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
         <slug>se2026-32-model-based-proactive-self-adaptation-for-cloud-systems</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Model-based Proactive Self-Adaptation for Cloud Systems"</title>
+        <title>Model-based Proactive Self-Adaptation for Cloud Systems</title>
         <subtitle/>
         <track slug="scientific-program-architecture-modeling">Scientific Program (SE): Architecture &amp; Modeling</track>
         <type>talk</type>
@@ -1568,14 +1568,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="dde04762-4138-5c4c-965b-31b69e08f370" id="33">
+      <event guid="c92c5073-ed49-511f-bb43-256abcae2810" id="33">
         <date>2026-02-25T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
         <slug>se2026-33-refactoring-with-confidence-an-assistant-for-repair-integrat</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Refactoring with Confidence: An Assistant for Repair- Integrated Refactoring in Block-based Industrial Models (Summary)"</title>
+        <title>Refactoring with Confidence: An Assistant for Repair- Integrated Refactoring in Block-based Industrial Models (Summary)</title>
         <subtitle/>
         <track slug="scientific-program-architecture-modeling">Scientific Program (SE): Architecture &amp; Modeling</track>
         <type>talk</type>
@@ -1608,14 +1608,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="69735a95-7483-5f00-84a3-6ff32e67d863" id="43">
+      <event guid="4c03183f-fedd-5b35-ac5c-23f3964606f3" id="43">
         <date>2026-02-25T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
         <slug>se2026-43-decades-of-gnu-patch-and-git-cherry-pick-can-we-do-better-su</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Decades of GNU Patch and Git Cherry-Pick: Can We Do Better? – Summary"</title>
+        <title>Decades of GNU Patch and Git Cherry-Pick: Can We Do Better? – Summary</title>
         <subtitle/>
         <track slug="scientific-program-analysis-repair">Scientific Program (SE): Analysis &amp; Repair</track>
         <type>talk</type>
@@ -1633,14 +1633,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d78a9980-50c2-5ef2-a384-e458e55bfe28" id="44">
+      <event guid="88fd8af5-3fde-5251-9ce2-7eefb65380b8" id="44">
         <date>2026-02-25T13:52:00+01:00</date>
         <start>13:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
         <slug>se2026-44-how-configurable-is-the-linux-kernel-analyzing-two-decades-o</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"How Configurable is the Linux Kernel? Analyzing Two Decades of Feature-Model History – Summary"</title>
+        <title>How Configurable is the Linux Kernel? Analyzing Two Decades of Feature-Model History – Summary</title>
         <subtitle/>
         <track slug="scientific-program-analysis-repair">Scientific Program (SE): Analysis &amp; Repair</track>
         <type>talk</type>
@@ -1658,14 +1658,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="76477642-aa90-5ccd-9ee0-84f344442f0b" id="45">
+      <event guid="7ecc1702-debc-5654-a626-9a8ae7891c18" id="45">
         <date>2026-02-25T14:14:00+01:00</date>
         <start>14:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
         <slug>se2026-45-statically-analyzing-the-dataflow-of-r-programs</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Statically Analyzing the Dataflow of R Programs"</title>
+        <title>Statically Analyzing the Dataflow of R Programs</title>
         <subtitle/>
         <track slug="scientific-program-analysis-repair">Scientific Program (SE): Analysis &amp; Repair</track>
         <type>talk</type>
@@ -1679,14 +1679,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="4866c9bb-6a87-54a2-b296-202b2b1e88c7" id="46">
+      <event guid="2dbabe42-6a6a-58bf-b503-f1d2de8de68b" id="46">
         <date>2026-02-25T14:36:00+01:00</date>
         <start>14:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
         <slug>se2026-46-too-many-issues-automatically-prioritizing-analyzer-findings</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Too Many Issues: Automatically Prioritizing Analyzer Findings by Tracing Security Importance (Summary)"</title>
+        <title>Too Many Issues: Automatically Prioritizing Analyzer Findings by Tracing Security Importance (Summary)</title>
         <subtitle/>
         <track slug="scientific-program-analysis-repair">Scientific Program (SE): Analysis &amp; Repair</track>
         <type>talk</type>
@@ -1815,14 +1815,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="e8be73cb-e60e-5e02-a5c3-ba82f8c5ec79" id="38">
+      <event guid="de555ca9-1d4f-5f0b-9693-9732644cf6d2" id="38">
         <date>2026-02-25T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-38-exploring-development-methods-for-reactive-synthesis-specifi</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Exploring Development Methods for Reactive Synthesis Specifications"</title>
+        <title>Exploring Development Methods for Reactive Synthesis Specifications</title>
         <subtitle/>
         <track slug="scientific-program-verification">Scientific Program (SE): Verification</track>
         <type>talk</type>
@@ -1837,14 +1837,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="aa9cc120-055a-5281-bc97-203a5bb79142" id="39">
+      <event guid="bf6a3fcb-fcfd-55de-bf0c-68480c18227d" id="39">
         <date>2026-02-25T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-39-off-the-shelf-cooperative-software-verification-by-splitting</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Off-the-Shelf Cooperative Software Verification by Splitting Programs Dynamically"</title>
+        <title>Off-the-Shelf Cooperative Software Verification by Splitting Programs Dynamically</title>
         <subtitle/>
         <track slug="scientific-program-verification">Scientific Program (SE): Verification</track>
         <type>talk</type>
@@ -1860,14 +1860,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="89d1fc09-3c00-5a32-b4cf-2be13eeb0bf9" id="40">
+      <event guid="2539e564-eaae-5482-959b-48016b52090f" id="40">
         <date>2026-02-25T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-40-on-the-expressive-power-of-languages-for-static-variability</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"On the Expressive Power of Languages for Static Variability – Summary"</title>
+        <title>On the Expressive Power of Languages for Static Variability – Summary</title>
         <subtitle/>
         <track slug="scientific-program-verification">Scientific Program (SE): Verification</track>
         <type>talk</type>
@@ -1887,14 +1887,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="8a8125cb-d2b9-5cff-8464-f2adda35051a" id="41">
+      <event guid="b4234fb5-17b6-5516-9577-380e54c2453e" id="41">
         <date>2026-02-25T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-41-safe-mixed-consistency-local-first-software-with-invariants</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Safe Mixed-Consistency Local-First Software with Invariants"</title>
+        <title>Safe Mixed-Consistency Local-First Software with Invariants</title>
         <subtitle/>
         <track slug="scientific-program-verification">Scientific Program (SE): Verification</track>
         <type>talk</type>
@@ -1928,14 +1928,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="3da702c2-d710-5ce7-8d4c-e6787b64a3cf" id="51">
+      <event guid="1ccb855d-5f6a-5ca0-ab6e-b8f0189def4a" id="51">
         <date>2026-02-25T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-51-enhancing-motivation-in-software-engineering-education-throu</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Enhancing Motivation in Software Engineering Education through Gamified Agile Project-based Learning"</title>
+        <title>Enhancing Motivation in Software Engineering Education through Gamified Agile Project-based Learning</title>
         <subtitle/>
         <track slug="scientific-program-human-aspects-education">Scientific Program (SE): Human Aspects &amp; Education</track>
         <type>talk</type>
@@ -1951,14 +1951,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="477b75fc-fed2-51dc-87c5-1f6042a6f35e" id="52">
+      <event guid="33cb2ca7-c6ca-579b-9b6d-8bdb0353c4a4" id="52">
         <date>2026-02-25T13:52:00+01:00</date>
         <start>13:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-52-how-do-programming-students-use-generative-ai</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"How Do Programming Students Use Generative AI?"</title>
+        <title>How Do Programming Students Use Generative AI?</title>
         <subtitle/>
         <track slug="scientific-program-human-aspects-education">Scientific Program (SE): Human Aspects &amp; Education</track>
         <type>talk</type>
@@ -1972,14 +1972,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="4d711176-2345-5522-8e25-21f6a236d874" id="53">
+      <event guid="ba5fcdf5-a8a8-50ec-810a-42451978a2b1" id="53">
         <date>2026-02-25T14:14:00+01:00</date>
         <start>14:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-53-interruptibility-of-software-developers-and-its-prediction-u</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Interruptibility of Software Developers and Its Prediction Using Psycho-Physiological Sensors: A Replication"</title>
+        <title>Interruptibility of Software Developers and Its Prediction Using Psycho-Physiological Sensors: A Replication</title>
         <subtitle/>
         <track slug="scientific-program-human-aspects-education">Scientific Program (SE): Human Aspects &amp; Education</track>
         <type>talk</type>
@@ -1993,14 +1993,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="07763857-55f3-5430-a11f-280fa623fcd3" id="54">
+      <event guid="02178a44-cd4c-57d8-8253-a5be848f29dd" id="54">
         <date>2026-02-25T14:36:00+01:00</date>
         <start>14:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-54-toward-a-theory-on-programmers-block-inspired-by-writers-blo</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Toward a Theory on Programmer’s Block inspired by Writer’s Block (Kurzfassung)"</title>
+        <title>Toward a Theory on Programmer’s Block inspired by Writer’s Block (Kurzfassung)</title>
         <subtitle/>
         <track slug="scientific-program-human-aspects-education">Scientific Program (SE): Human Aspects &amp; Education</track>
         <type>talk</type>
@@ -2033,14 +2033,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="8af4cd8d-0f48-59f7-9f36-0ca83dc3f156" id="56">
+      <event guid="68f434d9-d4f7-516e-9597-f30962dd67b2" id="56">
         <date>2026-02-25T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-56-coverage-metrics-for-t-wise-feature-interactions-summary</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Coverage Metrics for T-Wise Feature Interactions – Summary"</title>
+        <title>Coverage Metrics for T-Wise Feature Interactions – Summary</title>
         <subtitle/>
         <track slug="scientific-program-features-traceability">Scientific Program (SE): Features &amp; Traceability</track>
         <type>talk</type>
@@ -2058,14 +2058,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="20f3f22f-9d12-5dd4-8d45-9230008f55b0" id="57">
+      <event guid="2dd2c674-f50b-5103-82fc-48950a6a8a78" id="57">
         <date>2026-02-25T15:52:00+01:00</date>
         <start>15:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-57-give-an-inch-and-take-a-mile-effects-of-adding-reliable-know</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Give an Inch and Take a Mile? Effects of Adding Reliable Knowledge to Heuristic Feature Tracing – Summary"</title>
+        <title>Give an Inch and Take a Mile? Effects of Adding Reliable Knowledge to Heuristic Feature Tracing – Summary</title>
         <subtitle/>
         <track slug="scientific-program-features-traceability">Scientific Program (SE): Features &amp; Traceability</track>
         <type>talk</type>
@@ -2082,14 +2082,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="66f80c33-1a73-5268-a144-2bc41b365315" id="58">
+      <event guid="10aad042-e2ae-5728-9d0e-bc2397e935cc" id="58">
         <date>2026-02-25T16:14:00+01:00</date>
         <start>16:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-58-how-low-can-we-go-minimizing-interaction-samples-for-configu</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"How Low Can We Go? Minimizing Interaction Samples for Configurable Systems – Summary"</title>
+        <title>How Low Can We Go? Minimizing Interaction Samples for Configurable Systems – Summary</title>
         <subtitle/>
         <track slug="scientific-program-features-traceability">Scientific Program (SE): Features &amp; Traceability</track>
         <type>talk</type>
@@ -2109,14 +2109,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5c451745-ea26-5f3b-9608-a4a794f25803" id="59">
+      <event guid="8d048e8b-b9a1-56dc-a4b9-18b93283de99" id="59">
         <date>2026-02-25T16:36:00+01:00</date>
         <start>16:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-59-reusing-d-dnnfs-for-efficient-feature-model-counting-summary</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Reusing d-DNNFs for Efficient Feature-Model Counting – Summary"</title>
+        <title>Reusing d-DNNFs for Efficient Feature-Model Counting – Summary</title>
         <subtitle/>
         <track slug="scientific-program-features-traceability">Scientific Program (SE): Features &amp; Traceability</track>
         <type>talk</type>
@@ -2209,14 +2209,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="c46c7365-f346-525d-b667-61b693bd556c" id="68">
+      <event guid="3447035d-36ab-52a8-a559-fb059e26b27c" id="68">
         <date>2026-02-25T09:15:00+01:00</date>
         <start>09:15</start>
         <duration>00:25</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-68-simulation-based-regression-testing-for-autonomous-vehicles</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
-        <title>"Simulation-based regression testing for Autonomous Vehicles &amp; Overview of Sim2Cloud"</title>
+        <title>Simulation-based regression testing for Autonomous Vehicles &amp; Overview of Sim2Cloud</title>
         <subtitle/>
         <track slug="choose-forum-simulation-testing-for-autonomous-and-cyber-phy">CHOOSE Forum: Simulation &amp; Testing for Autonomous and Cyber-Physical Systems</track>
         <type>talk</type>
@@ -2229,14 +2229,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="1264a7da-fcf1-5797-aae6-07bb5d0d97c5" id="69">
+      <event guid="0cdaf6d9-85c1-5b90-9d6e-74ffac494be5" id="69">
         <date>2026-02-25T09:40:00+01:00</date>
         <start>09:40</start>
         <duration>00:25</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-69-simulating-the-real-world-an-introduction-to-the-beamng-plat</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
-        <title>"Simulating the Real World: An Introduction to the BeamNG Platform &amp; Generation of 3D Generative models"</title>
+        <title>Simulating the Real World: An Introduction to the BeamNG Platform &amp; Generation of 3D Generative models</title>
         <subtitle/>
         <track slug="choose-forum-simulation-testing-for-autonomous-and-cyber-phy">CHOOSE Forum: Simulation &amp; Testing for Autonomous and Cyber-Physical Systems</track>
         <type>talk</type>
@@ -2268,14 +2268,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="4c73c97e-6a7a-569a-b0ed-b987139ec9cd" id="70">
+      <event guid="194f8297-eb22-5d97-a477-e5964fb01ec6" id="70">
         <date>2026-02-25T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:25</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-70-from-code-to-corner-the-software-behind-loxo-urban-vehicles</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
-        <title>"From code to corner: The software behind LOXO urban vehicles"</title>
+        <title>From code to corner: The software behind LOXO urban vehicles</title>
         <subtitle/>
         <track slug="choose-forum-engineering-intelligent-systems-from-autonomous">CHOOSE Forum: Engineering Intelligent Systems: From Autonomous Vehicles to AI Code Generation</track>
         <type>talk</type>
@@ -2288,14 +2288,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="77750fa3-041d-5041-92a2-1b3006ca7d58" id="71">
+      <event guid="6ae8e195-1ead-57d3-b654-d1c426cffa9c" id="71">
         <date>2026-02-25T10:55:00+01:00</date>
         <start>10:55</start>
         <duration>00:25</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-71-a-journey-in-ai-based-code-generation</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
-        <title>"A journey in AI-based code generation"</title>
+        <title>A journey in AI-based code generation</title>
         <subtitle/>
         <track slug="choose-forum-engineering-intelligent-systems-from-autonomous">CHOOSE Forum: Engineering Intelligent Systems: From Autonomous Vehicles to AI Code Generation</track>
         <type>talk</type>
@@ -2308,14 +2308,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="038adc71-c356-52fc-a9fc-0609e97f3d58" id="72">
+      <event guid="a61b7206-6429-5a48-8e27-83058f8ad04a" id="72">
         <date>2026-02-25T11:15:00+01:00</date>
         <start>11:15</start>
         <duration>00:25</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-72-from-perception-to-action-can-ui-interventions-foster-sustai</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
-        <title>"From Perception to Action: Can UI Interventions Foster Sustainable LLM Chatbot"</title>
+        <title>From Perception to Action: Can UI Interventions Foster Sustainable LLM Chatbot</title>
         <subtitle/>
         <track slug="choose-forum-sustainability-and-reliability-of-ai-driven-sof">CHOOSE Forum: Sustainability and Reliability of AI-Driven Software</track>
         <type>talk</type>
@@ -2328,14 +2328,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="89187190-bf08-5700-ac01-776da0af7ba2" id="73">
+      <event guid="20e4b3e9-ec22-5693-bca0-d603ac802ab2" id="73">
         <date>2026-02-25T11:40:00+01:00</date>
         <start>11:40</start>
         <duration>00:25</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-73-breaking-dnns-mutation-testing-for-deep-neural-networks</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
-        <title>"Breaking DNNs: Mutation Testing for Deep Neural Networks"</title>
+        <title>Breaking DNNs: Mutation Testing for Deep Neural Networks</title>
         <subtitle/>
         <track slug="choose-forum-sustainability-and-reliability-of-ai-driven-sof">CHOOSE Forum: Sustainability and Reliability of AI-Driven Software</track>
         <type>talk</type>
@@ -2367,14 +2367,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="06beae7b-817e-5b0c-bcd0-4661400b38db" id="74">
+      <event guid="39a8eb2c-382c-53fb-a097-fc2f53414b3c" id="74">
         <date>2026-02-25T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:25</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-74-legacy-application-modernization-with-ai-agents</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
-        <title>"Legacy Application Modernization with AI Agents"</title>
+        <title>Legacy Application Modernization with AI Agents</title>
         <subtitle/>
         <track slug="choose-forum-trust-modernization-and-certification-in-ai-ena">CHOOSE Forum: Trust, Modernization, and Certification in AI-Enabled Software Systems</track>
         <type>talk</type>
@@ -2387,14 +2387,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="ab391888-bdff-5103-9689-c9aad05bdf3c" id="75">
+      <event guid="261bdda6-1185-5d65-9802-f9d3c5654de9" id="75">
         <date>2026-02-25T13:55:00+01:00</date>
         <start>13:55</start>
         <duration>00:25</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-75-trustworthy-distributed-certification-of-program-execution</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
-        <title>"Trustworthy Distributed Certification of Program Execution"</title>
+        <title>Trustworthy Distributed Certification of Program Execution</title>
         <subtitle/>
         <track slug="choose-forum-trust-modernization-and-certification-in-ai-ena">CHOOSE Forum: Trust, Modernization, and Certification in AI-Enabled Software Systems</track>
         <type>talk</type>
@@ -2407,14 +2407,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="0d2192a5-2f0e-590a-b573-990c1d22bfd5" id="76">
+      <event guid="f655b8d3-c09e-52b6-a54e-a93d7d4fa48d" id="76">
         <date>2026-02-25T14:15:00+01:00</date>
         <start>14:15</start>
         <duration>00:25</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-76-integrating-physiology-and-machine-learning-to-predict-oxyha</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
-        <title>"Integrating Physiology and Machine Learning to Predict Oxyhaemoglobin Dissociation Curve Shift in Preterm Infants"</title>
+        <title>Integrating Physiology and Machine Learning to Predict Oxyhaemoglobin Dissociation Curve Shift in Preterm Infants</title>
         <subtitle/>
         <track slug="choose-forum-interdisciplinary-perspectives-ai-biology-and-b">CHOOSE Forum: Interdisciplinary Perspectives: AI, Biology, and Bioinformatics</track>
         <type>talk</type>
@@ -2427,14 +2427,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="df57814e-074f-5dec-ad9b-0171cbc9d10c" id="77">
+      <event guid="021e7e3d-e329-5ed4-8652-ba80a839b9b5" id="77">
         <date>2026-02-25T14:40:00+01:00</date>
         <start>14:40</start>
         <duration>00:25</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-77-bridging-research-and-practice-in-simulation-based-testing-o</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
-        <title>"Bridging Research and Practice in Simulation-based Testing of Industrial Robot Navigation Systems"</title>
+        <title>Bridging Research and Practice in Simulation-based Testing of Industrial Robot Navigation Systems</title>
         <subtitle/>
         <track slug="choose-forum-interdisciplinary-perspectives-ai-biology-and-b">CHOOSE Forum: Interdisciplinary Perspectives: AI, Biology, and Bioinformatics</track>
         <type>talk</type>
@@ -2716,14 +2716,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5c482b65-9594-5c4c-9a5a-12455b72882d" id="109">
+      <event guid="95b2b312-d8b3-5bdc-a1f2-ccb6a85f7c77" id="109">
         <date>2026-02-26T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
         <slug>se2026-109-nextcloud-as-a-secure-collaboration-and-communication-platfo</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
-        <title>"Nextcloud as a secure collaboration and communication platform"</title>
+        <title>Nextcloud as a secure collaboration and communication platform</title>
         <subtitle/>
         <track slug="industry-day">Industry Day</track>
         <type>talk</type>
@@ -2734,14 +2734,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="ff1e3cc9-f721-5e0a-b66c-0bed7394a156" id="110">
+      <event guid="5d93cdf8-e049-5fd6-a132-0e15f7d0005b" id="110">
         <date>2026-02-26T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
         <slug>se2026-110-cloud-sovereignty-technical-reality-and-practical-implementa</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
-        <title>"Cloud Sovereignty: Technical Reality and Practical Implementation"</title>
+        <title>Cloud Sovereignty: Technical Reality and Practical Implementation</title>
         <subtitle/>
         <track slug="industry-day">Industry Day</track>
         <type>talk</type>
@@ -2752,14 +2752,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="14b16eb1-a28f-55a0-903b-12ca9d835dad" id="111">
+      <event guid="b039aba5-a90d-5227-94f8-16d73f3ded8d" id="111">
         <date>2026-02-26T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
         <slug>se2026-111-panel-discussion-on-digital-sovereignty</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
-        <title>"Panel Discussion on Digital Sovereignty"</title>
+        <title>Panel Discussion on Digital Sovereignty</title>
         <subtitle/>
         <track slug="industry-day">Industry Day</track>
         <type>talk</type>
@@ -2806,14 +2806,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="f69f59aa-7be8-5a1d-8390-96bf5ffdbb84" id="112">
+      <event guid="0bdd2431-519b-5eae-ab7b-fb6321c9ce7b" id="112">
         <date>2026-02-26T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
         <slug>se2026-112-a-sovereign-ai-platform-for-the-new-agentic-software-enginee</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
-        <title>"A sovereign AI platform for the new agentic software engineering"</title>
+        <title>A sovereign AI platform for the new agentic software engineering</title>
         <subtitle/>
         <track slug="industry-day">Industry Day</track>
         <type>talk</type>
@@ -2824,14 +2824,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="2147b4da-12a4-5594-94c7-893922607594" id="113">
+      <event guid="ee63fcf7-23b2-5074-a06f-9ee5e034f147" id="113">
         <date>2026-02-26T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
         <slug>se2026-113-control-your-data-control-your-future-why-sovereign-cloud-an</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
-        <title>"Control Your Data. Control Your Future. — Why sovereign cloud and AI matter for Switzerland’s digital autonomy"</title>
+        <title>Control Your Data. Control Your Future. — Why sovereign cloud and AI matter for Switzerland’s digital autonomy</title>
         <subtitle/>
         <track slug="industry-day">Industry Day</track>
         <type>talk</type>
@@ -2842,14 +2842,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d25140b8-3002-5680-98cc-44de19e038c9" id="114">
+      <event guid="c5350959-1d1f-54c5-aba9-2effbc7f0b78" id="114">
         <date>2026-02-26T14:30:00+01:00</date>
         <start>14:30</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
         <slug>se2026-114-the-synthetic-data-playbook-generating-trillions-of-the-fine</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
-        <title>"The Synthetic Data Playbook: Generating Trillions of the Finest Tokens"</title>
+        <title>The Synthetic Data Playbook: Generating Trillions of the Finest Tokens</title>
         <subtitle/>
         <track slug="industry-day">Industry Day</track>
         <type>talk</type>
@@ -2896,14 +2896,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="42518dec-7c31-5526-b549-21c5ad3489fb" id="115">
+      <event guid="69b80ce1-eb58-5f1f-b2f1-c22179ad4560" id="115">
         <date>2026-02-26T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
         <slug>se2026-115-adaptive-internal-developer-platforms-als-enabler-digitaler</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
-        <title>"Adaptive Internal Developer Platforms als Enabler digitaler Souveränität"</title>
+        <title>Adaptive Internal Developer Platforms als Enabler digitaler Souveränität</title>
         <subtitle/>
         <track slug="industry-day">Industry Day</track>
         <type>talk</type>
@@ -2914,14 +2914,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="1c810794-7d84-5320-9f45-c5240b598050" id="116">
+      <event guid="beea7cf9-23a6-5d42-b771-6cdc5d2444b1" id="116">
         <date>2026-02-26T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
         <slug>se2026-116-mehr-souveränität-in-der-test-automatisierung-effektive-migr</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
-        <title>"Mehr Souveränität in der Test-Automatisierung? Effektive Migration von Test-Suites weg von proprietären Tools"</title>
+        <title>Mehr Souveränität in der Test-Automatisierung? Effektive Migration von Test-Suites weg von proprietären Tools</title>
         <subtitle/>
         <track slug="industry-day">Industry Day</track>
         <type>talk</type>
@@ -2932,14 +2932,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b6767198-aadf-51d5-b762-e93d22527624" id="117">
+      <event guid="736757fd-751b-5c8e-8103-cbfcd1776e1f" id="117">
         <date>2026-02-26T16:30:00+01:00</date>
         <start>16:30</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
         <slug>se2026-117-dimensions-of-digital-sovereignty</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
-        <title>"Dimensions of Digital Sovereignty"</title>
+        <title>Dimensions of Digital Sovereignty</title>
         <subtitle/>
         <track slug="industry-day">Industry Day</track>
         <type>talk</type>
@@ -2950,14 +2950,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5114e45f-9e36-5e72-88ca-2539d0e5fbcd" id="118">
+      <event guid="f03f8c88-ef6b-5f01-942f-54aab87cc51e" id="118">
         <date>2026-02-26T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge</room>
         <slug>se2026-118-architecting-digital-sovereignty-business-value-over-complex</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
-        <title>"Architecting Digital Sovereignty: Business Value over Complexity"</title>
+        <title>Architecting Digital Sovereignty: Business Value over Complexity</title>
         <subtitle/>
         <track slug="industry-day">Industry Day</track>
         <type>talk</type>
@@ -3116,14 +3116,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="a9d2c46e-7c6d-50ea-b8d4-24c684dcbc7f" id="90">
+      <event guid="1c46e221-d083-5310-ae87-183eeabc1919" id="90">
         <date>2026-02-26T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
         <slug>se2026-90-automating-requirements-elicitation-interviews-with-llms</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Automating Requirements Elicitation Interviews with LLMs"</title>
+        <title>Automating Requirements Elicitation Interviews with LLMs</title>
         <subtitle/>
         <track slug="scientific-program-requirements-mining">Scientific Program (SE): Requirements &amp; Mining</track>
         <type>talk</type>
@@ -3138,14 +3138,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="72e5768a-c63e-5b81-beb8-b748db807ffb" id="91">
+      <event guid="69887b57-df01-5380-91cf-38c24c1bf378" id="91">
         <date>2026-02-26T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
         <slug>se2026-91-how-do-practitioners-incorporate-requirements-and-design-dec</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"How do practitioners incorporate requirements and design decisions in LLM-assisted code generation?"</title>
+        <title>How do practitioners incorporate requirements and design decisions in LLM-assisted code generation?</title>
         <subtitle/>
         <track slug="scientific-program-requirements-mining">Scientific Program (SE): Requirements &amp; Mining</track>
         <type>talk</type>
@@ -3160,14 +3160,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="4fb65580-ddd6-5be0-ae04-b6eb5627a189" id="92">
+      <event guid="22c9b68f-1472-514e-814b-20ef73d1ff5c" id="92">
         <date>2026-02-26T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
         <slug>se2026-92-the-good-the-bad-and-the-uncanny-investigating-diversity-asp</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"The Good, the Bad, and the Uncanny: Investigating Diversity Aspects of LLM-Generated Personas for Requirements Engineering – Summary"</title>
+        <title>The Good, the Bad, and the Uncanny: Investigating Diversity Aspects of LLM-Generated Personas for Requirements Engineering – Summary</title>
         <subtitle/>
         <track slug="scientific-program-requirements-mining">Scientific Program (SE): Requirements &amp; Mining</track>
         <type>talk</type>
@@ -3187,14 +3187,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="353614df-ddf3-5aa5-a649-956c589f2d8a" id="93">
+      <event guid="e8c99b5a-1b79-50b0-8740-75960d2e3a86" id="93">
         <date>2026-02-26T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 1</room>
         <slug>se2026-93-does-the-tool-matter-exploring-some-causes-of-threats-to-val</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Does the Tool Matter? Exploring Some Causes of Threats to Validity in Mining Software Repositories"</title>
+        <title>Does the Tool Matter? Exploring Some Causes of Threats to Validity in Mining Software Repositories</title>
         <subtitle/>
         <track slug="scientific-program-requirements-mining">Scientific Program (SE): Requirements &amp; Mining</track>
         <type>talk</type>
@@ -3360,14 +3360,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="490f840e-61e5-5d51-a6e2-e5ff19dbca75" id="86">
+      <event guid="37e94377-9868-5ebe-9c28-eefffe704e28" id="86">
         <date>2026-02-26T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-86-automated-generation-of-issue-reproducing-tests-by-combining</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing"</title>
+        <title>Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing</title>
         <subtitle/>
         <track slug="scientific-program-automated-test-generation">Scientific Program (SE): Automated Test Generation</track>
         <type>talk</type>
@@ -3382,14 +3382,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="3e0abc57-f470-5c02-9b54-09566c31c751" id="87">
+      <event guid="2b61362c-8c9c-5a66-ae3f-97e8708beda7" id="87">
         <date>2026-02-26T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-87-does-genai-make-usability-testing-obsolete</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Does GenAI Make Usability Testing Obsolete?"</title>
+        <title>Does GenAI Make Usability Testing Obsolete?</title>
         <subtitle/>
         <track slug="scientific-program-automated-test-generation">Scientific Program (SE): Automated Test Generation</track>
         <type>talk</type>
@@ -3403,14 +3403,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b509ad15-dcc0-5e67-b1fe-c7ead6418a72" id="88">
+      <event guid="bfb42136-2b87-53d8-acb3-f2937a6bb4e0" id="88">
         <date>2026-02-26T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-88-efficient-domain-augmentation-for-autonomous-driving-testing</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Efficient Domain Augmentation for Autonomous Driving Testing Using Diffusion Models"</title>
+        <title>Efficient Domain Augmentation for Autonomous Driving Testing Using Diffusion Models</title>
         <subtitle/>
         <track slug="scientific-program-automated-test-generation">Scientific Program (SE): Automated Test Generation</track>
         <type>talk</type>
@@ -3426,14 +3426,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="ffcebd06-4724-5ac8-a698-074dad659104" id="89">
+      <event guid="05b55a3e-d566-519c-83c5-8365a38a7d1f" id="89">
         <date>2026-02-26T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-89-fandango-evolving-language-based-testing</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"FANDANGO: Evolving Language-Based Testing"</title>
+        <title>FANDANGO: Evolving Language-Based Testing</title>
         <subtitle/>
         <track slug="scientific-program-automated-test-generation">Scientific Program (SE): Automated Test Generation</track>
         <type>talk</type>
@@ -3484,14 +3484,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="a1265932-d6b5-54d6-972b-4e03bb447212" id="99">
+      <event guid="62ce4820-d514-5195-9636-773bccdb9825" id="99">
         <date>2026-02-26T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-99-adaptive-test-generation-with-q-grams</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Adaptive Test Generation with Q-grams"</title>
+        <title>Adaptive Test Generation with Q-grams</title>
         <subtitle/>
         <track slug="scientific-program-testing-optimisation">Scientific Program (SE): Testing &amp; Optimisation</track>
         <type>talk</type>
@@ -3506,14 +3506,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="cf417728-fda7-5897-acf2-2f24a3895d47" id="100">
+      <event guid="336e38ca-9da9-53d5-b37f-9665386cfe49" id="100">
         <date>2026-02-26T13:52:00+01:00</date>
         <start>13:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-100-e-test-ever-improving-test-suites</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"E-Test: Ever-Improving Test Suites"</title>
+        <title>E-Test: Ever-Improving Test Suites</title>
         <subtitle/>
         <track slug="scientific-program-testing-optimisation">Scientific Program (SE): Testing &amp; Optimisation</track>
         <type>talk</type>
@@ -3529,14 +3529,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="f7fe4a11-aa9e-58a1-a6d5-ce18ad21fc51" id="101">
+      <event guid="635339d0-0c5b-5d67-a492-707583d34795" id="101">
         <date>2026-02-26T14:14:00+01:00</date>
         <start>14:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-101-metamorphic-testing-for-optimisation-a-case-study-on-pid-con</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Metamorphic Testing for Optimisation: A Case Study on PID Controller Tuning"</title>
+        <title>Metamorphic Testing for Optimisation: A Case Study on PID Controller Tuning</title>
         <subtitle/>
         <track slug="scientific-program-testing-optimisation">Scientific Program (SE): Testing &amp; Optimisation</track>
         <type>talk</type>
@@ -3553,14 +3553,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="4313cb7f-34a3-5776-825d-2d01a03f817e" id="102">
+      <event guid="f03eff40-51c2-5513-b599-e9748fdedab8" id="102">
         <date>2026-02-26T14:36:00+01:00</date>
         <start>14:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-102-optimization-of-automated-and-manual-software-tests-in-indus</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Optimization of Automated and Manual Software Tests in Industrial Practice: A Survey and Historical Analysis"</title>
+        <title>Optimization of Automated and Manual Software Tests in Industrial Practice: A Survey and Historical Analysis</title>
         <subtitle/>
         <track slug="scientific-program-testing-optimisation">Scientific Program (SE): Testing &amp; Optimisation</track>
         <type>talk</type>
@@ -3612,14 +3612,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="0efcafe9-89e9-5aee-b779-542a8e20eb85" id="104">
+      <event guid="34943843-88f9-5c01-931f-a48bd2493383" id="104">
         <date>2026-02-26T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-104-do-llms-generate-useful-test-oracles-an-empirical-study-with</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Do LLMs Generate Useful Test Oracles? An Empirical Study with an Unbiased Dataset"</title>
+        <title>Do LLMs Generate Useful Test Oracles? An Empirical Study with an Unbiased Dataset</title>
         <subtitle/>
         <track slug="scientific-program-test-evaluation">Scientific Program (SE): Test Evaluation</track>
         <type>talk</type>
@@ -3636,14 +3636,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="185ece19-8fbf-58fb-831c-5580320b3cc5" id="105">
+      <event guid="97d26362-4ad1-5aa2-a929-5e9bd694cb91" id="105">
         <date>2026-02-26T15:52:00+01:00</date>
         <start>15:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-105-gamifying-testing-in-intellij-a-replicability-study</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Gamifying Testing in IntelliJ: A Replicability Study"</title>
+        <title>Gamifying Testing in IntelliJ: A Replicability Study</title>
         <subtitle/>
         <track slug="scientific-program-test-evaluation">Scientific Program (SE): Test Evaluation</track>
         <type>talk</type>
@@ -3660,14 +3660,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="f97fa1a5-36b0-5ad8-b469-925165d27b17" id="106">
+      <event guid="b898b6fb-65c4-5e30-8d2d-99b15ca047d9" id="106">
         <date>2026-02-26T16:14:00+01:00</date>
         <start>16:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-106-mutation-based-integration-testing-of-knowledge-graph-applic</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Mutation-Based Integration Testing of Knowledge Graph Applications (Summary)"</title>
+        <title>Mutation-Based Integration Testing of Knowledge Graph Applications (Summary)</title>
         <subtitle/>
         <track slug="scientific-program-test-evaluation">Scientific Program (SE): Test Evaluation</track>
         <type>talk</type>
@@ -3682,14 +3682,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="625dc990-dfba-56c4-8f48-1104f2e04dc7" id="107">
+      <event guid="6a156788-075b-5157-900e-38d3ca0f2d56" id="107">
         <date>2026-02-26T16:36:00+01:00</date>
         <start>16:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-107-the-testing-gaps-in-infrastructure-as-code-programs</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"The Testing Gaps in Infrastructure as Code Programs"</title>
+        <title>The Testing Gaps in Infrastructure as Code Programs</title>
         <subtitle/>
         <track slug="scientific-program-test-evaluation">Scientific Program (SE): Test Evaluation</track>
         <type>talk</type>
@@ -3742,14 +3742,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="7337d0a2-ed29-5b9c-8ea6-7d6b4f7b273a" id="119">
+      <event guid="eafd1220-efdf-5181-8445-ac64d897a68c" id="119">
         <date>2026-02-26T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:09</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-119-extracting-knowledge-graphs-from-user-stories-using-langchai</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
-        <title>"Extracting Knowledge Graphs from User Stories Using LangChain (Master’s Thesis)"</title>
+        <title>Extracting Knowledge Graphs from User Stories Using LangChain (Master’s Thesis)</title>
         <subtitle/>
         <track slug="student-research-competition">Student Research Competition</track>
         <type>talk</type>
@@ -3762,14 +3762,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="e764a544-5ee7-51ee-b213-0b75f198bdb8" id="120">
+      <event guid="a6acc6fa-67f4-5aab-9d45-6307682b2814" id="120">
         <date>2026-02-26T10:39:00+01:00</date>
         <start>10:39</start>
         <duration>00:09</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-120-requirely-a-tool-for-detecting-and-correcting-requirements-s</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
-        <title>"Requirely: A Tool for Detecting and Correcting Requirements Smells (Master’s Thesis)"</title>
+        <title>Requirely: A Tool for Detecting and Correcting Requirements Smells (Master’s Thesis)</title>
         <subtitle/>
         <track slug="student-research-competition">Student Research Competition</track>
         <type>talk</type>
@@ -3782,14 +3782,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="ab5abd9d-627d-5316-a322-410ad944d45a" id="121">
+      <event guid="f8354ec5-5f94-5dd6-a31f-dc5084cb2210" id="121">
         <date>2026-02-26T10:48:00+01:00</date>
         <start>10:48</start>
         <duration>00:09</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-121-engineering-and-selecting-machine-learning-features-for-feat</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
-        <title>"Engineering and Selecting Machine Learning Features for Feature Models (Master’s Thesis)"</title>
+        <title>Engineering and Selecting Machine Learning Features for Feature Models (Master’s Thesis)</title>
         <subtitle/>
         <track slug="student-research-competition">Student Research Competition</track>
         <type>talk</type>
@@ -3802,14 +3802,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="51070058-060c-5408-b4e0-b8c3cfb5c08e" id="122">
+      <event guid="81bb2a14-e488-529c-8df5-0a45659f744a" id="122">
         <date>2026-02-26T10:57:00+01:00</date>
         <start>10:57</start>
         <duration>00:09</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-122-creation-and-evaluation-of-a-tool-for-visualizing-reachabili</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
-        <title>"Creation and Evaluation of a Tool for Visualizing Reachability Analyses in Software Libraries (Master’s Thesis)"</title>
+        <title>Creation and Evaluation of a Tool for Visualizing Reachability Analyses in Software Libraries (Master’s Thesis)</title>
         <subtitle/>
         <track slug="student-research-competition">Student Research Competition</track>
         <type>talk</type>
@@ -3822,14 +3822,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="3b8ff4c2-916b-549f-89c0-79c74ab3e99a" id="123">
+      <event guid="da6e1d62-40f8-5491-b80f-d25cbda4a19c" id="123">
         <date>2026-02-26T11:06:00+01:00</date>
         <start>11:06</start>
         <duration>00:09</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-123-designing-and-validating-code-comprehension-tests-an-empiric</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
-        <title>"Designing and Validating Code Comprehension Tests: An Empirical Study on Task Design (Master’s Thesis)"</title>
+        <title>Designing and Validating Code Comprehension Tests: An Empirical Study on Task Design (Master’s Thesis)</title>
         <subtitle/>
         <track slug="student-research-competition">Student Research Competition</track>
         <type>talk</type>
@@ -3842,14 +3842,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="56687afa-2759-5d2c-80dc-0868a3b72403" id="124">
+      <event guid="f81e9e20-e401-590a-b8c9-9dbe991472f9" id="124">
         <date>2026-02-26T11:15:00+01:00</date>
         <start>11:15</start>
         <duration>00:09</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-124-mining-bugs-in-linux-to-assess-the-effectiveness-of-automate</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
-        <title>"Mining Bugs in Linux to Assess the Effectiveness of Automated Variability Testing (Master’s Thesis)"</title>
+        <title>Mining Bugs in Linux to Assess the Effectiveness of Automated Variability Testing (Master’s Thesis)</title>
         <subtitle/>
         <track slug="student-research-competition">Student Research Competition</track>
         <type>talk</type>
@@ -3862,14 +3862,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b4218dc5-d38d-5f62-a6cf-471d1c5169a0" id="125">
+      <event guid="8219f4a6-add8-58c3-91c9-5a25d741fd46" id="125">
         <date>2026-02-26T11:24:00+01:00</date>
         <start>11:24</start>
         <duration>00:09</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-125-trunk-based-development-in-open-source-software-projects-a-d</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
-        <title>"Trunk-Based Development in Open Source Software Projects: A Data Driven Approach (Bachelor’s Thesis)"</title>
+        <title>Trunk-Based Development in Open Source Software Projects: A Data Driven Approach (Bachelor’s Thesis)</title>
         <subtitle/>
         <track slug="student-research-competition">Student Research Competition</track>
         <type>talk</type>
@@ -3882,14 +3882,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d6adb4da-fda5-5415-8bb8-509d3e24d32e" id="126">
+      <event guid="efeee7b9-1615-5c83-9191-ba2e02114735" id="126">
         <date>2026-02-26T11:33:00+01:00</date>
         <start>11:33</start>
         <duration>00:09</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-126-t-wise-sampling-operations-on-binary-decision-diagrams-bache</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
-        <title>"T-Wise Sampling Operations on Binary Decision Diagrams (Bachelor’s Thesis)"</title>
+        <title>T-Wise Sampling Operations on Binary Decision Diagrams (Bachelor’s Thesis)</title>
         <subtitle/>
         <track slug="student-research-competition">Student Research Competition</track>
         <type>talk</type>
@@ -3902,14 +3902,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="a2133a82-7b7d-5220-b7d8-efdfdf98f162" id="127">
+      <event guid="cb0fe434-2331-5f71-b40d-443c33ad7cc3" id="127">
         <date>2026-02-26T11:42:00+01:00</date>
         <start>11:42</start>
         <duration>00:09</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-127-analyzing-the-impact-of-typosquatting-attacks-in-maven-bache</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
-        <title>"Analyzing the Impact of Typosquatting Attacks in Maven (Bachelor’s Thesis)"</title>
+        <title>Analyzing the Impact of Typosquatting Attacks in Maven (Bachelor’s Thesis)</title>
         <subtitle/>
         <track slug="student-research-competition">Student Research Competition</track>
         <type>talk</type>
@@ -3922,14 +3922,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="4683923d-47a3-5654-a955-d35ca484cd63" id="128">
+      <event guid="3b868792-ae0a-5ee3-b8a7-006b52902d9f" id="128">
         <date>2026-02-26T11:51:00+01:00</date>
         <start>11:51</start>
         <duration>00:09</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-128-towards-large-scale-variability-investigations-in-nostr-semi</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
-        <title>"Towards Large-Scale Variability Investigations in Nostr (Seminar Work)"</title>
+        <title>Towards Large-Scale Variability Investigations in Nostr (Seminar Work)</title>
         <subtitle/>
         <track slug="student-research-competition">Student Research Competition</track>
         <type>talk</type>
@@ -3978,14 +3978,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="014e59a5-293f-569e-af1c-5ef7381dfb45" id="95">
+      <event guid="6dfc5b6b-142d-5f6d-9edd-76d654cad1c9" id="95">
         <date>2026-02-26T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-95-how-ml-practitioners-perceive-explainability-an-interview-st</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"How ML Practitioners Perceive Explainability: An Interview Study of Practices and Challenges"</title>
+        <title>How ML Practitioners Perceive Explainability: An Interview Study of Practices and Challenges</title>
         <subtitle/>
         <track slug="scientific-program-software-comprehension">Scientific Program (SE): Software Comprehension</track>
         <type>talk</type>
@@ -4002,14 +4002,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="00925703-cb24-509f-ae20-51cfab8bc9f6" id="96">
+      <event guid="fd6bd580-3e0a-5ac8-8123-e36800a0ea5e" id="96">
         <date>2026-02-26T13:52:00+01:00</date>
         <start>13:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-96-investigating-the-readability-of-test-code-combining-scienti</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Investigating the Readability of Test Code: Combining Scientific and Practical View"</title>
+        <title>Investigating the Readability of Test Code: Combining Scientific and Practical View</title>
         <subtitle/>
         <track slug="scientific-program-software-comprehension">Scientific Program (SE): Software Comprehension</track>
         <type>talk</type>
@@ -4024,14 +4024,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="573102c8-5433-5b5b-9f89-d6f2f806776d" id="97">
+      <event guid="a3f7210a-8ef9-5393-833c-e0612c40f348" id="97">
         <date>2026-02-26T14:14:00+01:00</date>
         <start>14:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-97-providing-information-about-implemented-algorithms-improves</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Providing Information About Implemented Algorithms Improves Program Comprehension: A Controlled Experiment"</title>
+        <title>Providing Information About Implemented Algorithms Improves Program Comprehension: A Controlled Experiment</title>
         <subtitle/>
         <track slug="scientific-program-software-comprehension">Scientific Program (SE): Software Comprehension</track>
         <type>talk</type>
@@ -4046,14 +4046,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="15d860ec-f0cc-5b59-a3b5-35137b168cc8" id="98">
+      <event guid="46ba8ba6-a8c8-5854-9325-7c4b0b1cd771" id="98">
         <date>2026-02-26T14:36:00+01:00</date>
         <start>14:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-98-semantic-zoom-and-mini-maps-for-software-cities</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Semantic Zoom and Mini-Maps for Software Cities"</title>
+        <title>Semantic Zoom and Mini-Maps for Software Cities</title>
         <subtitle/>
         <track slug="scientific-program-software-comprehension">Scientific Program (SE): Software Comprehension</track>
         <type>talk</type>
@@ -4105,14 +4105,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="bb7954d0-ec47-5881-84bf-3a91a6141392" id="131">
+      <event guid="dc86e7bf-c2e7-5d3f-8124-59ef56a07331" id="131">
         <date>2026-02-26T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:20</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-131-towards-managed-clone-and-own-automating-matching-and-patchi</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
-        <title>"Towards Managed Clone-and-Own: Automating Matching and Patching"</title>
+        <title>Towards Managed Clone-and-Own: Automating Matching and Patching</title>
         <subtitle/>
         <track slug="dissertationspreis">Dissertationspreis</track>
         <type>talk</type>
@@ -4125,14 +4125,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="e5341052-6c13-5a70-91b7-ced31023f18b" id="132">
+      <event guid="32347ac5-39a1-57b2-9dcb-1dc52f9379fa" id="132">
         <date>2026-02-26T15:50:00+01:00</date>
         <start>15:50</start>
         <duration>00:20</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-132-neural-bug-detection</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
-        <title>"Neural Bug Detection"</title>
+        <title>Neural Bug Detection</title>
         <subtitle/>
         <track slug="dissertationspreis">Dissertationspreis</track>
         <type>talk</type>
@@ -4145,14 +4145,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="05348492-dea6-5c4a-a7ff-c039742f479d" id="133">
+      <event guid="163a5b9e-b01c-5167-9629-73ec91f8f5f2" id="133">
         <date>2026-02-26T16:10:00+01:00</date>
         <start>16:10</start>
         <duration>00:20</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-133-unleashing-the-potential-of-configuration-counting-for-produ</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
-        <title>"Unleashing the Potential of Configuration Counting for Product-Line Analyses"</title>
+        <title>Unleashing the Potential of Configuration Counting for Product-Line Analyses</title>
         <subtitle/>
         <track slug="dissertationspreis">Dissertationspreis</track>
         <type>talk</type>
@@ -4165,14 +4165,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="9a209c61-3ec4-55ee-af5e-14636f21aef0" id="134">
+      <event guid="ae624cc3-d165-5bb2-ab43-1f9fc7628aee" id="134">
         <date>2026-02-26T16:30:00+01:00</date>
         <start>16:30</start>
         <duration>00:20</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-134-functional-modeling-of-cyber-physical-systems</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
-        <title>"Functional Modeling of Cyber-Physical Systems"</title>
+        <title>Functional Modeling of Cyber-Physical Systems</title>
         <subtitle/>
         <track slug="dissertationspreis">Dissertationspreis</track>
         <type>talk</type>
@@ -4185,14 +4185,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="f44af36d-d6ca-5248-8449-e3160e713565" id="135">
+      <event guid="0efa3697-9fb8-58c4-964c-264c1eda1b40" id="135">
         <date>2026-02-26T16:50:00+01:00</date>
         <start>16:50</start>
         <duration>00:20</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-135-t-reqs-a-conceptual-model-framework-for-template-based-requi</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
-        <title>"T-Reqs: A Conceptual Model &amp; Framework for Template-Based Requirements Quality Improvement in Space Engineering"</title>
+        <title>T-Reqs: A Conceptual Model &amp; Framework for Template-Based Requirements Quality Improvement in Space Engineering</title>
         <subtitle/>
         <track slug="dissertationspreis">Dissertationspreis</track>
         <type>talk</type>
@@ -4205,14 +4205,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="1bec147b-7cac-5e7f-a039-2e681f97ed96" id="136">
+      <event guid="8d2a4d8e-5c69-5f7f-a2d8-0a0d0cd7aa06" id="136">
         <date>2026-02-26T17:10:00+01:00</date>
         <start>17:10</start>
         <duration>00:20</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-136-automatic-performance-modeling-and-analysis-of-configurable</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
-        <title>"Automatic Performance Modeling and Analysis of Configurable Scientific Software and Workflows"</title>
+        <title>Automatic Performance Modeling and Analysis of Configurable Scientific Software and Workflows</title>
         <subtitle/>
         <track slug="dissertationspreis">Dissertationspreis</track>
         <type>talk</type>
@@ -4306,14 +4306,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="238b20ee-34bd-5f2c-a2e6-7e28cf6d0f92" id="146">
+      <event guid="980254fb-107f-565a-af7f-35f43e1ca7b8" id="146">
         <date>2026-02-27T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
         <slug>se2026-146-can-developers-prompt-a-controlled-experiment-for-code-docum</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Can Developers Prompt? A Controlled Experiment for Code Documentation Generation"</title>
+        <title>Can Developers Prompt? A Controlled Experiment for Code Documentation Generation</title>
         <subtitle/>
         <track slug="scientific-program-llms-ai">Scientific Program (SE): LLMs &amp; AI</track>
         <type>talk</type>
@@ -4328,14 +4328,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="29963ae7-a08d-54a0-8ba7-5f50ceeeff18" id="147">
+      <event guid="852778f7-4a5e-54fa-a647-7d353eb2b898" id="147">
         <date>2026-02-27T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
         <slug>se2026-147-dont-settle-for-the-first-how-many-github-copilot-solutions</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Don’t Settle for the First! How Many GitHub Copilot Solutions Should You Check?"</title>
+        <title>Don’t Settle for the First! How Many GitHub Copilot Solutions Should You Check?</title>
         <subtitle/>
         <track slug="scientific-program-llms-ai">Scientific Program (SE): LLMs &amp; AI</track>
         <type>talk</type>
@@ -4350,14 +4350,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="26c78d63-c008-5ffd-a789-673a28eaed30" id="148">
+      <event guid="515eb06a-df79-5e53-895e-c32ce3d16cc3" id="148">
         <date>2026-02-27T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
         <slug>se2026-148-explaining-github-actions-failures-with-large-language-model</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Explaining GitHub Actions Failures with Large Language Models: Challenges, Insights, and Limitations – Summary"</title>
+        <title>Explaining GitHub Actions Failures with Large Language Models: Challenges, Insights, and Limitations – Summary</title>
         <subtitle/>
         <track slug="scientific-program-llms-ai">Scientific Program (SE): LLMs &amp; AI</track>
         <type>talk</type>
@@ -4376,14 +4376,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="17929aff-c178-5d82-a385-ec6151996b86" id="149">
+      <event guid="af86d913-a10c-5f25-9adc-bb5422c5f1e1" id="149">
         <date>2026-02-27T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
         <room>Champions Lounge</room>
         <slug>se2026-149-model-cards-revisited-bridging-the-gap-between-theory-and-pr</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Model Cards Revisited: Bridging the Gap Between Theory and Practice for Ethical AI Requirements"</title>
+        <title>Model Cards Revisited: Bridging the Gap Between Theory and Practice for Ethical AI Requirements</title>
         <subtitle/>
         <track slug="scientific-program-llms-ai">Scientific Program (SE): LLMs &amp; AI</track>
         <type>talk</type>
@@ -4550,14 +4550,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="c8120a09-7a7b-5ce0-b48d-0e0991abee0c" id="142">
+      <event guid="7339b068-1cf8-5a65-99b2-6679b2c577c7" id="142">
         <date>2026-02-27T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-142-automated-soap-opera-testing-directed-by-llms-and-scenario-k</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Automated Soap Opera Testing Directed by LLMs and Scenario Knowledge"</title>
+        <title>Automated Soap Opera Testing Directed by LLMs and Scenario Knowledge</title>
         <subtitle/>
         <track slug="scientific-program-gui-level-analysis-requirements">Scientific Program (SE): GUI-level Analysis &amp; Requirements</track>
         <type>talk</type>
@@ -4570,14 +4570,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="dc0e7848-fb67-56d7-badb-9c255789c9d7" id="143">
+      <event guid="e40f15c1-ff8a-57e4-8dab-6b7cc26ff6e0" id="143">
         <date>2026-02-27T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-143-guing-a-mobile-gui-search-engine-using-a-vision-language-mod</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"GUing: A Mobile GUI Search Engine using a Vision-Language Model"</title>
+        <title>GUing: A Mobile GUI Search Engine using a Vision-Language Model</title>
         <subtitle/>
         <track slug="scientific-program-gui-level-analysis-requirements">Scientific Program (SE): GUI-level Analysis &amp; Requirements</track>
         <type>talk</type>
@@ -4596,14 +4596,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="4f442e6f-276d-5220-8821-380e54c2a5ea" id="144">
+      <event guid="7754f784-3127-5c01-a08a-e070d3b217a2" id="144">
         <date>2026-02-27T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-144-seeing-is-fixing-cross-modal-reasoning-with-multimodal-llms</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Repair"</title>
+        <title>Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Repair</title>
         <subtitle/>
         <track slug="scientific-program-gui-level-analysis-requirements">Scientific Program (SE): GUI-level Analysis &amp; Requirements</track>
         <type>talk</type>
@@ -4616,14 +4616,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="29d45554-f39f-597a-8b43-d0c5b1e12d13" id="145">
+      <event guid="a26e0113-a242-5f84-ba5f-c87b8851bad4" id="145">
         <date>2026-02-27T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 2</room>
         <slug>se2026-145-parametric-falsification-of-many-probabilistic-requirements</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Parametric Falsification of Many Probabilistic Requirements under Flakiness"</title>
+        <title>Parametric Falsification of Many Probabilistic Requirements under Flakiness</title>
         <subtitle/>
         <track slug="scientific-program-gui-level-analysis-requirements">Scientific Program (SE): GUI-level Analysis &amp; Requirements</track>
         <type>talk</type>
@@ -4693,14 +4693,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="8b3d0cc9-4c76-57ae-a8fb-5433efdf6a52" id="150">
+      <event guid="a26e7a02-52f9-5a43-a12d-bc415a955485" id="150">
         <date>2026-02-27T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-150-contextual-privacy-policies-for-mobile-applications-and-an-a</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Contextual Privacy Policies for Mobile Applications and An Approach Toward Automated Generation"</title>
+        <title>Contextual Privacy Policies for Mobile Applications and An Approach Toward Automated Generation</title>
         <subtitle/>
         <track slug="scientific-program-security-privacy">Scientific Program (SE): Security &amp; Privacy</track>
         <type>talk</type>
@@ -4714,14 +4714,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="3e53345b-1c52-5147-8dab-be95d9f62cf4" id="151">
+      <event guid="9c0f0b48-0ccd-5f2d-bc46-2a09215dc779" id="151">
         <date>2026-02-27T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-151-seccityvr-visualization-and-collaborative-exploration-of-sof</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"SecCityVR: Visualization and Collaborative Exploration of Software Vulnerabilities in Virtual Reality"</title>
+        <title>SecCityVR: Visualization and Collaborative Exploration of Software Vulnerabilities in Virtual Reality</title>
         <subtitle/>
         <track slug="scientific-program-security-privacy">Scientific Program (SE): Security &amp; Privacy</track>
         <type>talk</type>
@@ -4735,14 +4735,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="7bb9f4d1-55b1-54fb-a587-e0b054e426b9" id="152">
+      <event guid="bb2dd3e5-2014-5177-8be7-01d9c052069e" id="152">
         <date>2026-02-27T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-152-summary-of-large-language-models-for-in-file-vulnerability-l</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Summary of Large Language Models for In-File Vulnerability Localization Can Be “Lost in the End” (FSE2025)"</title>
+        <title>Summary of Large Language Models for In-File Vulnerability Localization Can Be “Lost in the End” (FSE2025)</title>
         <subtitle/>
         <track slug="scientific-program-security-privacy">Scientific Program (SE): Security &amp; Privacy</track>
         <type>talk</type>
@@ -4756,14 +4756,14 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="9abbf2a2-1737-5244-837a-3d562ec9d77a" id="153">
+      <event guid="b8de5d52-3c2c-5c64-8af2-2753d61a5ccf" id="153">
         <date>2026-02-27T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
         <room>Sky Lounge 3</room>
         <slug>se2026-153-using-analysis-coupling-to-detect-information-flow-security</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
-        <title>"Using Analysis Coupling to Detect Information Flow Security Vulnerabilities"</title>
+        <title>Using Analysis Coupling to Detect Information Flow Security Vulnerabilities</title>
         <subtitle/>
         <track slug="scientific-program-security-privacy">Scientific Program (SE): Security &amp; Privacy</track>
         <type>talk</type>

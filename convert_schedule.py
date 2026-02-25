@@ -82,7 +82,10 @@ def get_strong_label(element):
 
 
 def clean_text(text):
-    return re.sub(r"\s+", " ", text).strip()
+    text = re.sub(r"\s+", " ", text).strip()
+    # Strip leading and trailing quotes from titles
+    text = text.strip('"').strip('"').strip('"').strip("'")
+    return text
 
 
 ROOM_ALIASES = {
