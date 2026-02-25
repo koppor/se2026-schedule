@@ -1220,27 +1220,6 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="0236b458-0003-55f5-a2cf-43e2d1703a3c" id="73">
-        <date>2026-02-25T11:40:00+01:00</date>
-        <start>11:40</start>
-        <duration>00:25</duration>
-        <room>Champions Lounge</room>
-        <slug>se2026-0-breaking-dnns-mutation-testing-for-deep-neural-networks-cham</slug>
-        <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
-        <title>"Breaking DNNs: Mutation Testing for Deep Neural Networks"</title>
-        <subtitle/>
-        <track slug="choose-forum-sustainability-and-reliability-of-ai-driven-sof">CHOOSE Forum: Sustainability and Reliability of AI-Driven Software</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>17 minutes talk + 7-8 minutes questions</description>
-        <persons>
-          <person id="1">Nargiz Humbatova (Università della Svizzera italiana (CH))</person>
-          <person id="2">Jinhan Kim (Università della Svizzera italiana (CH))</person>
-        </persons>
-        <attachments/>
-        <links/>
-      </event>
       <event guid="fbd71220-7f7c-5863-bcd8-6b175cb343f4" id="42">
         <date>2026-02-25T12:00:00+01:00</date>
         <start>12:00</start>
@@ -1611,27 +1590,6 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="7fcf3b1b-bc14-5cdd-839b-35a4d9d9fd75" id="73">
-        <date>2026-02-25T11:40:00+01:00</date>
-        <start>11:40</start>
-        <duration>00:25</duration>
-        <room>Sky Lounge 1</room>
-        <slug>se2026-0-breaking-dnns-mutation-testing-for-deep-neural-networks-sky</slug>
-        <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
-        <title>"Breaking DNNs: Mutation Testing for Deep Neural Networks"</title>
-        <subtitle/>
-        <track slug="choose-forum-sustainability-and-reliability-of-ai-driven-sof">CHOOSE Forum: Sustainability and Reliability of AI-Driven Software</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>17 minutes talk + 7-8 minutes questions</description>
-        <persons>
-          <person id="1">Nargiz Humbatova (Università della Svizzera italiana (CH))</person>
-          <person id="2">Jinhan Kim (Università della Svizzera italiana (CH))</person>
-        </persons>
-        <attachments/>
-        <links/>
-      </event>
       <event guid="0c3a7e0e-ff4d-5c6a-8aeb-b440472564b6" id="42">
         <date>2026-02-25T12:00:00+01:00</date>
         <start>12:00</start>
@@ -1948,27 +1906,6 @@
           <person id="2">George Zakhour</person>
           <person id="3">Pascal Weisenburger</person>
           <person id="4">Guido Salvaneschi</person>
-        </persons>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="3f821536-8f0e-50f4-9df2-ab9384a9e08d" id="73">
-        <date>2026-02-25T11:40:00+01:00</date>
-        <start>11:40</start>
-        <duration>00:25</duration>
-        <room>Sky Lounge 2</room>
-        <slug>se2026-0-breaking-dnns-mutation-testing-for-deep-neural-networks-sky</slug>
-        <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
-        <title>"Breaking DNNs: Mutation Testing for Deep Neural Networks"</title>
-        <subtitle/>
-        <track slug="choose-forum-sustainability-and-reliability-of-ai-driven-sof">CHOOSE Forum: Sustainability and Reliability of AI-Driven Software</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>17 minutes talk + 7-8 minutes questions</description>
-        <persons>
-          <person id="1">Nargiz Humbatova (Università della Svizzera italiana (CH))</person>
-          <person id="2">Jinhan Kim (Università della Svizzera italiana (CH))</person>
         </persons>
         <attachments/>
         <links/>
@@ -2619,27 +2556,6 @@
         <abstract/>
         <description/>
         <persons/>
-        <attachments/>
-        <links/>
-      </event>
-      <event guid="5b861fd3-7eda-55c8-a89a-edb2aec387e0" id="73">
-        <date>2026-02-25T11:40:00+01:00</date>
-        <start>11:40</start>
-        <duration>00:25</duration>
-        <room>University of Bern</room>
-        <slug>se2026-0-breaking-dnns-mutation-testing-for-deep-neural-networks-univ</slug>
-        <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
-        <title>"Breaking DNNs: Mutation Testing for Deep Neural Networks"</title>
-        <subtitle/>
-        <track slug="choose-forum-sustainability-and-reliability-of-ai-driven-sof">CHOOSE Forum: Sustainability and Reliability of AI-Driven Software</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>17 minutes talk + 7-8 minutes questions</description>
-        <persons>
-          <person id="1">Nargiz Humbatova (Università della Svizzera italiana (CH))</person>
-          <person id="2">Jinhan Kim (Università della Svizzera italiana (CH))</person>
-        </persons>
         <attachments/>
         <links/>
       </event>

@@ -222,7 +222,7 @@ def get_event_type(title):
 
 def is_break(title):
     t = title.lower()
-    return any(kw in t for kw in ("coffee", "lunch", "break", "reception", "dinner"))
+    return bool(re.search(r"\b(coffee|lunch|break|reception|dinner)\b", t))
 
 
 def get_language(title):
