@@ -732,12 +732,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="3942054b-1153-5a8b-b8ff-d223b27393c5" id="36">
+      <event guid="16f50a8b-baf0-558d-92e0-09737bf4a9fc" id="40">
         <date>2026-02-25T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>01:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-36-session-se4ai</slug>
+        <slug>se2026-40-session-se4ai</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>Session: SE4AI</title>
         <subtitle/>
@@ -745,22 +745,112 @@
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"From Prompts to Templates: A Systematic Prompt Template Analysis for Real-world LLMapps" | Author: Yuetian Mao | Format: 17 minutes talk + 5 minutes questions
-"How Toxic Can You Get? Search-based Toxicity Testing for Large Language Models" | Authors: Simone Corbo, Luca Bancale, Valeria De Gennaro, Livia Lestingi, Vincenzo Scotti, Matteo Camilli | Format: 17 minutes talk + 5 minutes questions
-"MMDFast: Efficient Understanding of Machine Learning Model Mispredictions" | Authors: Martin Eberlein, Jürgen Cito, Lars Grunske | Format: 17 minutes talk + 5 minutes questions
-"TAEFuzz: Automatic Fuzzing for Image-based Deep Learning Systems via Transferable Adversarial Examples" | Authors: Shunhui Ji, Changrong Huang, Bin Ren, Hai Dong, Lars Grunske, Yan Xiao, Pengcheng Zhang | Format: 17 minutes talk + 5 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Regina Hebig (University of Rostock (DE))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
-      <event guid="0cb7014e-8d72-5e25-9f54-8c73a5f69a23" id="40">
+      <event guid="cdc59f96-f958-59a3-b3c0-c65ff5f09a6a" id="41">
+        <date>2026-02-25T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>00:22</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-41-from-prompts-to-templates-a-systematic-prompt-template-analy</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"From Prompts to Templates: A Systematic Prompt Template Analysis for Real-world LLMapps"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Yuetian Mao</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="88e2d6f6-db1b-5af6-b157-f098dc33e2cd" id="42">
+        <date>2026-02-25T10:52:00+01:00</date>
+        <start>10:52</start>
+        <duration>00:22</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-42-how-toxic-can-you-get-search-based-toxicity-testing-for-larg</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"How Toxic Can You Get? Search-based Toxicity Testing for Large Language Models"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Simone Corbo</person>
+          <person id="2">Luca Bancale</person>
+          <person id="3">Valeria De Gennaro</person>
+          <person id="4">Livia Lestingi</person>
+          <person id="5">Vincenzo Scotti</person>
+          <person id="6">Matteo Camilli</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="976ba801-566c-59ed-bfb6-63d436e488d5" id="43">
+        <date>2026-02-25T11:14:00+01:00</date>
+        <start>11:14</start>
+        <duration>00:22</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-43-mmdfast-efficient-understanding-of-machine-learning-model-mi</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"MMDFast: Efficient Understanding of Machine Learning Model Mispredictions"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Martin Eberlein</person>
+          <person id="2">Jürgen Cito</person>
+          <person id="3">Lars Grunske</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="851cb4f4-a664-5e86-b2c0-6f4e4c8e7c41" id="44">
+        <date>2026-02-25T11:36:00+01:00</date>
+        <start>11:36</start>
+        <duration>00:22</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-44-taefuzz-automatic-fuzzing-for-image-based-deep-learning-syst</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"TAEFuzz: Automatic Fuzzing for Image-based Deep Learning Systems via Transferable Adversarial Examples"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Shunhui Ji</person>
+          <person id="2">Changrong Huang</person>
+          <person id="3">Bin Ren</person>
+          <person id="4">Hai Dong</person>
+          <person id="5">Lars Grunske</person>
+          <person id="6">Yan Xiao</person>
+          <person id="7">Pengcheng Zhang</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="40a11fd8-6367-5506-a754-5bd1b3d199cf" id="56">
         <date>2026-02-25T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>01:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-40-session-architecture-learning</slug>
+        <slug>se2026-56-session-architecture-learning</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>Session: Architecture &amp; Learning</title>
         <subtitle/>
@@ -768,22 +858,112 @@
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Do Large Language Models Contain Software Architectural Knowledge? An Exploratory Case Study with GPT" | Authors: Mohamed Soliman, Jan Keim | Format: 17 minutes talk + 5 minutes questions
-"Linking Software System Artifacts: Toward Generic Traceability Link Recovery through Retrieval-Augmented Generation" | Authors: Dominik Fuchß, Tobias Hey, Jan Keim, Haoyu Liu, Niklas Ewald, Tobias Thirolf, Anne Koziolek | Format: 17 minutes talk + 5 minutes questions
-"ExArch: Enabling Architecture Traceability by LLM-based Architecture Component Name Extraction" | Authors: Dominik Fuchß, Haoyu Liu, Tobias Hey, Jan Keim, Anne Koziolek | Format: 17 minutes talk + 5 minutes questions
-"Machine Learning-Based Mitigation of Confidentiality Violations in Software Architectures" | Authors: Nils Niehues, Sebastian Hahner, Robert Heinrich | Format: 17 minutes talk + 5 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Wilhelm Hasselbring (Kiel University (DE))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
-      <event guid="eaceed2e-75b9-5503-bfdf-04beb50087d3" id="44">
+      <event guid="901315c3-e2c4-5cc3-8ffb-ed79dfe3668f" id="57">
+        <date>2026-02-25T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>00:22</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-57-do-large-language-models-contain-software-architectural-know</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Do Large Language Models Contain Software Architectural Knowledge? An Exploratory Case Study with GPT"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Mohamed Soliman</person>
+          <person id="2">Jan Keim</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="f6f4f6f6-8fb9-50ef-8911-9c0668ab8d3a" id="58">
+        <date>2026-02-25T13:52:00+01:00</date>
+        <start>13:52</start>
+        <duration>00:22</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-58-linking-software-system-artifacts-toward-generic-traceabilit</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Linking Software System Artifacts: Toward Generic Traceability Link Recovery through Retrieval-Augmented Generation"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Dominik Fuchß</person>
+          <person id="2">Tobias Hey</person>
+          <person id="3">Jan Keim</person>
+          <person id="4">Haoyu Liu</person>
+          <person id="5">Niklas Ewald</person>
+          <person id="6">Tobias Thirolf</person>
+          <person id="7">Anne Koziolek</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="e10a0a3f-abe2-5c20-b627-61e9c276de08" id="59">
+        <date>2026-02-25T14:14:00+01:00</date>
+        <start>14:14</start>
+        <duration>00:22</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-59-exarch-enabling-architecture-traceability-by-llm-based-archi</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"ExArch: Enabling Architecture Traceability by LLM-based Architecture Component Name Extraction"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Dominik Fuchß</person>
+          <person id="2">Haoyu Liu</person>
+          <person id="3">Tobias Hey</person>
+          <person id="4">Jan Keim</person>
+          <person id="5">Anne Koziolek</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="b7905971-4a88-5201-b053-d482ad300fd0" id="60">
+        <date>2026-02-25T14:36:00+01:00</date>
+        <start>14:36</start>
+        <duration>00:22</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-60-machine-learning-based-mitigation-of-confidentiality-violati</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Machine Learning-Based Mitigation of Confidentiality Violations in Software Architectures"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Nils Niehues</person>
+          <person id="2">Sebastian Hahner</person>
+          <person id="3">Robert Heinrich</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="a9b61b66-a217-5074-b33b-c6968ea51bd1" id="72">
         <date>2026-02-25T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>01:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-44-session-reasoning-about-software</slug>
+        <slug>se2026-72-session-reasoning-about-software</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>Session: Reasoning about Software</title>
         <subtitle/>
@@ -791,12 +971,103 @@
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Establishing Technical Debt Management – A Five-Step Workshop Approach and an Action Research Study" | Authors: Marion Wiese, Kamila Serwa, Anastasia M. Besier, Ariane S. Marion-Jetten, Eva Bittner | Format: 17 minutes talk + 5 minutes questions
-"Learning Program Behavioral Models from Synthesized Input-Output Pairs" | Authors: Tural Mammadov, Dietrich Klakow, Alexander Koller, Andreas Zeller | Format: 17 minutes talk + 5 minutes questions
-"Measuring the Fidelity of a Physical and a Digital Twin Using Trace Alignments" | Authors: Paula Muñoz, Manuel Wimmer, Javier Troya, Antonio Vallecillo | Format: 17 minutes talk + 5 minutes questions
-"Predicting Failures in Smart Human-Centric Ecosystems" | Authors: Niccolò Puccinelli, Davide Molinelli, Noura El Moussa, Matteo Ciniselli, Mauro Pezzè | Format: 17 minutes talk + 5 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Guido Salvaneschi (University of St. Gallen (CH))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="264bb1d4-ae72-53b5-badd-1fb564a475a9" id="73">
+        <date>2026-02-25T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>00:22</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-73-establishing-technical-debt-management-a-five-step-workshop</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Establishing Technical Debt Management – A Five-Step Workshop Approach and an Action Research Study"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Marion Wiese</person>
+          <person id="2">Kamila Serwa</person>
+          <person id="3">Anastasia M. Besier</person>
+          <person id="4">Ariane S. Marion-Jetten</person>
+          <person id="5">Eva Bittner</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="432d91bc-861c-55ad-9fed-17c50b8bbbfd" id="74">
+        <date>2026-02-25T15:52:00+01:00</date>
+        <start>15:52</start>
+        <duration>00:22</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-74-learning-program-behavioral-models-from-synthesized-input-ou</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Learning Program Behavioral Models from Synthesized Input-Output Pairs"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Tural Mammadov</person>
+          <person id="2">Dietrich Klakow</person>
+          <person id="3">Alexander Koller</person>
+          <person id="4">Andreas Zeller</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="7541381e-2e92-5e2d-a600-2faabf573462" id="75">
+        <date>2026-02-25T16:14:00+01:00</date>
+        <start>16:14</start>
+        <duration>00:22</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-75-measuring-the-fidelity-of-a-physical-and-a-digital-twin-usin</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Measuring the Fidelity of a Physical and a Digital Twin Using Trace Alignments"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Paula Muñoz</person>
+          <person id="2">Manuel Wimmer</person>
+          <person id="3">Javier Troya</person>
+          <person id="4">Antonio Vallecillo</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="1bc79d50-e6e8-5bae-83f1-1ed16c3592ff" id="76">
+        <date>2026-02-25T16:36:00+01:00</date>
+        <start>16:36</start>
+        <duration>00:22</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-76-predicting-failures-in-smart-human-centric-ecosystems</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Predicting Failures in Smart Human-Centric Ecosystems"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Niccolò Puccinelli</person>
+          <person id="2">Davide Molinelli</person>
+          <person id="3">Noura El Moussa</person>
+          <person id="4">Matteo Ciniselli</person>
+          <person id="5">Mauro Pezzè</person>
         </persons>
         <attachments/>
         <links/>
@@ -821,12 +1092,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="1495810e-97fc-57d6-87ef-21661c33defb" id="38">
+      <event guid="b9b357f1-e8c0-5362-a7e3-da5fb80dcf68" id="50">
         <date>2026-02-25T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
         <room>Champions Lounge (Catering Area)</room>
-        <slug>se2026-38-lunch</slug>
+        <slug>se2026-50-lunch</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Lunch</title>
         <subtitle/>
@@ -839,12 +1110,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="9ee38cf3-84cb-5b9c-ae95-783b168b3b47" id="42">
+      <event guid="d14e8190-4c14-5f01-acef-27de525f9c2f" id="66">
         <date>2026-02-25T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge (Catering Area)</room>
-        <slug>se2026-42-coffee-break</slug>
+        <slug>se2026-66-coffee-break</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Coffee Break</title>
         <subtitle/>
@@ -877,12 +1148,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="6c851068-e6f3-5d35-92ad-cd6308fae1f3" id="54">
+      <event guid="f1564e3e-cd3e-50ba-91cc-b3d0885f87f2" id="99">
         <date>2026-02-25T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge (Reception Area) (3 rd Floor)</room>
-        <slug>se2026-54-registration</slug>
+        <slug>se2026-99-registration</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Registration</title>
         <subtitle/>
@@ -910,22 +1181,110 @@
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Continuous Integration of Architectural Performance Models with Parametric Dependencies – The CIPM Approach" | Authors: Manar Mazkatli, Martin Armbruster, David Monschein, Robert Heinrich, Anne Koziolek | Format: 17 minutes talk + 5 minutes questions
-"Evolution Patterns of Software-Architecture Smells" | Authors: Philipp Gnoyke, Sandro Schulze, Jacob Krüger | Format: 17 minutes talk + 5 minutes questions
-"Model-based Proactive Self-Adaptation for Cloud Systems" | Authors: Raphael Straub, Sarah Stieß, Steffen Becker, Matthias Tichy | Format: 17 minutes talk + 5 minutes questions
-"Refactoring with Confidence: An Assistant for Repair- Integrated Refactoring in Block-based Industrial Models (Summary)" | Authors: Michael Oberlehner, Bianca Wiesmayr, Alois Zoitl | Format: 17 minutes talk + 5 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Judith Michael (University of Regensburg (DE))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
-      <event guid="b2d2f181-413a-514b-bc99-6ab1b44033c9" id="39">
+      <event guid="2b01421b-017a-5d81-8ba9-126c2e1cacf7" id="36">
+        <date>2026-02-25T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-36-continuous-integration-of-architectural-performance-models-w</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Continuous Integration of Architectural Performance Models with Parametric Dependencies – The CIPM Approach"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Manar Mazkatli</person>
+          <person id="2">Martin Armbruster</person>
+          <person id="3">David Monschein</person>
+          <person id="4">Robert Heinrich</person>
+          <person id="5">Anne Koziolek</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="1d208d8e-3ff8-53be-aa76-8ffd149ab436" id="37">
+        <date>2026-02-25T10:52:00+01:00</date>
+        <start>10:52</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-37-evolution-patterns-of-software-architecture-smells</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Evolution Patterns of Software-Architecture Smells"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Philipp Gnoyke</person>
+          <person id="2">Sandro Schulze</person>
+          <person id="3">Jacob Krüger</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="0cdac565-a0a1-5005-a06c-a013cb7d4dd8" id="38">
+        <date>2026-02-25T11:14:00+01:00</date>
+        <start>11:14</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-38-model-based-proactive-self-adaptation-for-cloud-systems</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Model-based Proactive Self-Adaptation for Cloud Systems"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Raphael Straub</person>
+          <person id="2">Sarah Stieß</person>
+          <person id="3">Steffen Becker</person>
+          <person id="4">Matthias Tichy</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="13a0e72c-9954-52a4-aaa7-8506a781d94e" id="39">
+        <date>2026-02-25T11:36:00+01:00</date>
+        <start>11:36</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-39-refactoring-with-confidence-an-assistant-for-repair-integrat</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Refactoring with Confidence: An Assistant for Repair- Integrated Refactoring in Block-based Industrial Models (Summary)"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Michael Oberlehner</person>
+          <person id="2">Bianca Wiesmayr</person>
+          <person id="3">Alois Zoitl</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="38f57f6d-5d98-5afe-8802-773157bc918b" id="51">
         <date>2026-02-25T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>01:30</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-39-session-analysis-repair</slug>
+        <slug>se2026-51-session-analysis-repair</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>Session: Analysis &amp; Repair</title>
         <subtitle/>
@@ -933,22 +1292,116 @@
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Decades of GNU Patch and Git Cherry-Pick: Can We Do Better? – Summary" | Authors: Alexander Schultheiß, Alexander Boll, Paul Maximilian Bittner, Sandra Greiner, Thomas Thüm, Timo Kehrer | Format: 17 minutes talk + 5 minutes questions
-"How Configurable is the Linux Kernel? Analyzing Two Decades of Feature-Model History – Summary" | Authors: Elias Kuiter, Chico Sundermann, Thomas Thüm, Tobias Heß, Sebastian Krieter, Gunter Saake | Format: 17 minutes talk + 5 minutes questions
-"Statically Analyzing the Dataflow of R Programs" | Authors: Florian Sihler, Matthias Tichy | Format: 17 minutes talk + 5 minutes questions
-"Too Many Issues: Automatically Prioritizing Analyzer Findings by Tracing Security Importance (Summary)" | Authors: Sven Peldszus, Katharina Großer, Marco Konersmann, Wasja Brunotte, Maike Ahrens, Kurt Schneider, Jan Jürjens | Format: 17 minutes talk + 5 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Ben Hermann (TU Dortmund (DE))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
-      <event guid="d217a9ef-4dfc-5fe6-b256-2ebda64a8c3f" id="55">
+      <event guid="043f8944-3435-5bc4-9ee1-71c52f8e8ce6" id="52">
+        <date>2026-02-25T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-52-decades-of-gnu-patch-and-git-cherry-pick-can-we-do-better-su</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Decades of GNU Patch and Git Cherry-Pick: Can We Do Better? – Summary"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Alexander Schultheiß</person>
+          <person id="2">Alexander Boll</person>
+          <person id="3">Paul Maximilian Bittner</person>
+          <person id="4">Sandra Greiner</person>
+          <person id="5">Thomas Thüm</person>
+          <person id="6">Timo Kehrer</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="e04e0730-1ab9-58d4-b2f3-eb8c2b6c86a1" id="53">
+        <date>2026-02-25T13:52:00+01:00</date>
+        <start>13:52</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-53-how-configurable-is-the-linux-kernel-analyzing-two-decades-o</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"How Configurable is the Linux Kernel? Analyzing Two Decades of Feature-Model History – Summary"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Elias Kuiter</person>
+          <person id="2">Chico Sundermann</person>
+          <person id="3">Thomas Thüm</person>
+          <person id="4">Tobias Heß</person>
+          <person id="5">Sebastian Krieter</person>
+          <person id="6">Gunter Saake</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="d2c55578-63ed-57ba-a90d-33dbbbf3d9b1" id="54">
+        <date>2026-02-25T14:14:00+01:00</date>
+        <start>14:14</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-54-statically-analyzing-the-dataflow-of-r-programs</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Statically Analyzing the Dataflow of R Programs"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Florian Sihler</person>
+          <person id="2">Matthias Tichy</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="55f61340-a52e-5d0e-a97f-8f26a2d0364c" id="55">
+        <date>2026-02-25T14:36:00+01:00</date>
+        <start>14:36</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-55-too-many-issues-automatically-prioritizing-analyzer-findings</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Too Many Issues: Automatically Prioritizing Analyzer Findings by Tracing Security Importance (Summary)"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Sven Peldszus</person>
+          <person id="2">Katharina Großer</person>
+          <person id="3">Marco Konersmann</person>
+          <person id="4">Wasja Brunotte</person>
+          <person id="5">Maike Ahrens</person>
+          <person id="6">Kurt Schneider</person>
+          <person id="7">Jan Jürjens</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="4075cc66-8cf6-5f36-a36f-daad36b0f9f5" id="100">
         <date>2026-02-25T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:45</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-55-meeting-lenkungskreis-fachtagung-software-engineering</slug>
+        <slug>se2026-100-meeting-lenkungskreis-fachtagung-software-engineering</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Meeting Lenkungskreis Fachtagung Software Engineering</title>
         <subtitle/>
@@ -961,12 +1414,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="c131b8cd-c9c2-59e7-b2db-09d5a1c3c71a" id="56">
+      <event guid="4f3c9bde-ce1c-5088-81ae-def29525e938" id="101">
         <date>2026-02-25T16:15:00+01:00</date>
         <start>16:15</start>
         <duration>00:45</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-56-meeting-gi-fachbereich-softwaretechnik</slug>
+        <slug>se2026-101-meeting-gi-fachbereich-softwaretechnik</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Meeting GI Fachbereich Softwaretechnik</title>
         <subtitle/>
@@ -981,12 +1434,12 @@
       </event>
     </room>
     <room name="Sky Lounge 2" slug="sky-lounge-2">
-      <event guid="ee2a6e52-469f-55a8-b5b6-22cc230cf468" id="37">
+      <event guid="3c7d2880-b365-5275-9404-9d6cab1768fd" id="45">
         <date>2026-02-25T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>01:30</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-37-session-verification</slug>
+        <slug>se2026-45-session-verification</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>Session: Verification</title>
         <subtitle/>
@@ -994,22 +1447,114 @@
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Exploring Development Methods for Reactive Synthesis Specifications" | Authors: Dor Ma’Ayan, Shahar Maoz, Jan Oliver Ringert | Format: 17 minutes talk + 5 minutes questions
-"Off-the-Shelf Cooperative Software Verification by Splitting Programs Dynamically" | Authors: Cedric Richter, Marek Chalupa, Marie-Christine Jakobs, Heike Wehrheim | Format: 17 minutes talk + 5 minutes questions
-"On the Expressive Power of Languages for Static Variability – Summary" | Authors: Paul Maximilian Bittner, Alexander Schultheiß, Benjamin Moosherr, Jeffrey Young, Leopoldo Teixeira, Eric Walkingshaw, Parisa Ataei, Thomas Thüm | Format: 17 minutes talk + 5 minutes questions
-"Safe Mixed-Consistency Local-First Software with Invariants" | Authors: Mirko Köhler, George Zakhour, Pascal Weisenburger, Guido Salvaneschi | Format: 17 minutes talk + 5 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Falk Howar (TU Dortmund (DE))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
-      <event guid="83177d82-5a62-5b60-956c-bcbcdb2153cd" id="41">
+      <event guid="eae4cdce-7cd2-5870-a1fa-f5e9a138e723" id="46">
+        <date>2026-02-25T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-46-exploring-development-methods-for-reactive-synthesis-specifi</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Exploring Development Methods for Reactive Synthesis Specifications"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Dor Ma’Ayan</person>
+          <person id="2">Shahar Maoz</person>
+          <person id="3">Jan Oliver Ringert</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="3c0605de-fa57-5e73-a01f-2cebc6440ed3" id="47">
+        <date>2026-02-25T10:52:00+01:00</date>
+        <start>10:52</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-47-off-the-shelf-cooperative-software-verification-by-splitting</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Off-the-Shelf Cooperative Software Verification by Splitting Programs Dynamically"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Cedric Richter</person>
+          <person id="2">Marek Chalupa</person>
+          <person id="3">Marie-Christine Jakobs</person>
+          <person id="4">Heike Wehrheim</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="2415988f-5496-5cb7-abed-b352d0650da5" id="48">
+        <date>2026-02-25T11:14:00+01:00</date>
+        <start>11:14</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-48-on-the-expressive-power-of-languages-for-static-variability</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"On the Expressive Power of Languages for Static Variability – Summary"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Paul Maximilian Bittner</person>
+          <person id="2">Alexander Schultheiß</person>
+          <person id="3">Benjamin Moosherr</person>
+          <person id="4">Jeffrey Young</person>
+          <person id="5">Leopoldo Teixeira</person>
+          <person id="6">Eric Walkingshaw</person>
+          <person id="7">Parisa Ataei</person>
+          <person id="8">Thomas Thüm</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="374fa1ce-08dc-571c-b210-ea8ce28aa176" id="49">
+        <date>2026-02-25T11:36:00+01:00</date>
+        <start>11:36</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-49-safe-mixed-consistency-local-first-software-with-invariants</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Safe Mixed-Consistency Local-First Software with Invariants"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Mirko Köhler</person>
+          <person id="2">George Zakhour</person>
+          <person id="3">Pascal Weisenburger</person>
+          <person id="4">Guido Salvaneschi</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="38102763-4e67-5d90-bd7e-6fcf10732db3" id="61">
         <date>2026-02-25T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>01:30</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-41-session-human-aspects-education</slug>
+        <slug>se2026-61-session-human-aspects-education</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>Session: Human Aspects &amp; Education</title>
         <subtitle/>
@@ -1017,22 +1562,106 @@
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Enhancing Motivation in Software Engineering Education through Gamified Agile Project-based Learning" | Authors: Niklas Meißner, Paul Bredl, Sandro Speth, Steffen Becker | Format: 17 minutes talk + 5 minutes questions
-"How Do Programming Students Use Generative AI?" | Authors: Christian Rahe, Walid Maalej | Format: 17 minutes talk + 5 minutes questions
-"Interruptibility of Software Developers and Its Prediction Using Psycho-Physiological Sensors: A Replication" | Authors: Florian Poreba, Stefan Sobernig | Format: 17 minutes talk + 5 minutes questions
-"Toward a Theory on Programmer’s Block inspired by Writer’s Block (Kurzfassung)" | Authors: Belinda Schantong, Norbert Siegmund, Janet Siegmund | Format: 17 minutes talk + 5 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Lars Grunske (HU Berlin (DE))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
-      <event guid="8ea1629a-03fd-58f3-8f0a-ef06039ada3a" id="43">
+      <event guid="d344fa9f-ed57-561d-91d2-eab65a7f8742" id="62">
+        <date>2026-02-25T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-62-enhancing-motivation-in-software-engineering-education-throu</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Enhancing Motivation in Software Engineering Education through Gamified Agile Project-based Learning"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Niklas Meißner</person>
+          <person id="2">Paul Bredl</person>
+          <person id="3">Sandro Speth</person>
+          <person id="4">Steffen Becker</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="bd956a0f-e1d4-59a0-bd7e-f970b30c1331" id="63">
+        <date>2026-02-25T13:52:00+01:00</date>
+        <start>13:52</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-63-how-do-programming-students-use-generative-ai</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"How Do Programming Students Use Generative AI?"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Christian Rahe</person>
+          <person id="2">Walid Maalej</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="38e11641-3f17-5fb3-8f15-1eab578fe2d6" id="64">
+        <date>2026-02-25T14:14:00+01:00</date>
+        <start>14:14</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-64-interruptibility-of-software-developers-and-its-prediction-u</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Interruptibility of Software Developers and Its Prediction Using Psycho-Physiological Sensors: A Replication"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Florian Poreba</person>
+          <person id="2">Stefan Sobernig</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="f8871910-e69d-5a3f-ad34-ece908e5692f" id="65">
+        <date>2026-02-25T14:36:00+01:00</date>
+        <start>14:36</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-65-toward-a-theory-on-programmers-block-inspired-by-writers-blo</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Toward a Theory on Programmer’s Block inspired by Writer’s Block (Kurzfassung)"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Belinda Schantong</person>
+          <person id="2">Norbert Siegmund</person>
+          <person id="3">Janet Siegmund</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="ecd60b1f-d6d3-50f9-82ec-37fc989ae6da" id="67">
         <date>2026-02-25T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>01:30</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-43-session-features-traceability</slug>
+        <slug>se2026-67-session-features-traceability</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>Session: Features &amp; Traceability</title>
         <subtitle/>
@@ -1040,22 +1669,119 @@
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Coverage Metrics for T-Wise Feature Interactions – Summary" | Authors: Sabrina Böhm, Tim Jannik Schmidt, Sebastian Krieter, Tobias Pett, Thomas Thüm, Malte Lochau | Format: 17 minutes talk + 5 minutes questions
-"Give an Inch and Take a Mile? Effects of Adding Reliable Knowledge to Heuristic Feature Tracing – Summary" | Authors: Sandra Greiner, Alexander Schultheiß, Paul Maximilian Bittner, Thomas Thüm, Timo Kehrer | Format: 17 minutes talk + 5 minutes questions
-"How Low Can We Go? Minimizing Interaction Samples for Configurable Systems – Summary" | Authors: Dominik Krupke, Ahmad Moradi, Michael Perk, Phillip Keldenich, Gabriel Gehrke, Sebastian Krieter, Thomas Thüm, Sándor P. Fekete | Format: 17 minutes talk + 5 minutes questions
-"Reusing d-DNNFs for Efficient Feature-Model Counting – Summary" | Authors: Chico Sundermann, Heiko Raab, Tobias Heß, Thomas Thüm, Ina Schaefer | Format: 17 minutes talk + 5 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Matthias Tichy (Ulm University (DE))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
-      <event guid="d4cde81c-a7c2-557e-811d-743d4fb4fee4" id="57">
+      <event guid="6d69efba-38c7-5168-b549-c9f04498e7df" id="68">
+        <date>2026-02-25T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-68-coverage-metrics-for-t-wise-feature-interactions-summary</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Coverage Metrics for T-Wise Feature Interactions – Summary"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Sabrina Böhm</person>
+          <person id="2">Tim Jannik Schmidt</person>
+          <person id="3">Sebastian Krieter</person>
+          <person id="4">Tobias Pett</person>
+          <person id="5">Thomas Thüm</person>
+          <person id="6">Malte Lochau</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="9f1592e4-6aa3-512a-8aea-1e3677727ce9" id="69">
+        <date>2026-02-25T15:52:00+01:00</date>
+        <start>15:52</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-69-give-an-inch-and-take-a-mile-effects-of-adding-reliable-know</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Give an Inch and Take a Mile? Effects of Adding Reliable Knowledge to Heuristic Feature Tracing – Summary"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Sandra Greiner</person>
+          <person id="2">Alexander Schultheiß</person>
+          <person id="3">Paul Maximilian Bittner</person>
+          <person id="4">Thomas Thüm</person>
+          <person id="5">Timo Kehrer</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="0e90d958-570c-5e5b-9ff1-0790aebc6863" id="70">
+        <date>2026-02-25T16:14:00+01:00</date>
+        <start>16:14</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-70-how-low-can-we-go-minimizing-interaction-samples-for-configu</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"How Low Can We Go? Minimizing Interaction Samples for Configurable Systems – Summary"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Dominik Krupke</person>
+          <person id="2">Ahmad Moradi</person>
+          <person id="3">Michael Perk</person>
+          <person id="4">Phillip Keldenich</person>
+          <person id="5">Gabriel Gehrke</person>
+          <person id="6">Sebastian Krieter</person>
+          <person id="7">Thomas Thüm</person>
+          <person id="8">Sándor P. Fekete</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="2c19aef6-c418-5696-90c5-877f7aa50362" id="71">
+        <date>2026-02-25T16:36:00+01:00</date>
+        <start>16:36</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-71-reusing-d-dnnfs-for-efficient-feature-model-counting-summary</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Reusing d-DNNFs for Efficient Feature-Model Counting – Summary"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Chico Sundermann</person>
+          <person id="2">Heiko Raab</person>
+          <person id="3">Tobias Heß</person>
+          <person id="4">Thomas Thüm</person>
+          <person id="5">Ina Schaefer</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="c9bf717e-a655-5f03-93b9-decb9faeba34" id="102">
         <date>2026-02-25T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>01:00</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-57-meeting-gi-arbeitskreis-artificial-intelligence-for-software</slug>
+        <slug>se2026-102-meeting-gi-arbeitskreis-artificial-intelligence-for-software</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Meeting GI Arbeitskreis ‘Artificial Intelligence for Software Architecture (AI4SA)’ of the Fachgruppe ‘Architekturen’</title>
         <subtitle/>
@@ -1070,12 +1796,12 @@
       </event>
     </room>
     <room name="Sky Lounge 3" slug="sky-lounge-3">
-      <event guid="399d1f5f-ce48-5c8b-8773-c71a665a71b9" id="46">
+      <event guid="2953f834-33d9-595f-81a5-7c5a8e7ba2f6" id="81">
         <date>2026-02-25T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>00:15</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-46-opening</slug>
+        <slug>se2026-81-opening</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Opening</title>
         <subtitle/>
@@ -1090,12 +1816,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5b5213b8-9e25-5495-bdaa-0f173b89529b" id="47">
+      <event guid="e79b92a3-d0cf-5ef6-9d3a-7e8135afdd9e" id="82">
         <date>2026-02-25T09:15:00+01:00</date>
         <start>09:15</start>
         <duration>00:45</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-47-session-simulation-testing-for-autonomous-and-cyber-physical</slug>
+        <slug>se2026-82-session-simulation-testing-for-autonomous-and-cyber-physical</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>Session: Simulation &amp; Testing for Autonomous and Cyber-Physical Systems</title>
         <subtitle/>
@@ -1103,20 +1829,60 @@
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Simulation-based regression testing for Autonomous Vehicles &amp; Overview of Sim2Cloud" | Speaker: Christian Birchler (University of Bern (CH)) | Format: 17 minutes talk + 7-8 minutes questions
-"Simulating the Real World: An Introduction to the BeamNG Platform &amp; Generation of 3D Generative models" | Speakers: Eva Pigova ( BeamNG GmbH ), Damian Boborzi (University of Augsburg (DE)) | Format: 17 minutes talk + 7-8 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Matteo Biagiola (University of St. Gallen (CH))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
-      <event guid="766d3208-e006-51f3-b385-1067d4a9143a" id="48">
+      <event guid="054b34eb-a583-5a4e-a37d-7e266a1f5396" id="83">
+        <date>2026-02-25T09:15:00+01:00</date>
+        <start>09:15</start>
+        <duration>00:25</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-83-simulation-based-regression-testing-for-autonomous-vehicles</slug>
+        <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
+        <title>"Simulation-based regression testing for Autonomous Vehicles &amp; Overview of Sim2Cloud"</title>
+        <subtitle/>
+        <track slug="choose-forum">CHOOSE Forum</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 7-8 minutes questions</description>
+        <persons>
+          <person id="1">Christian Birchler (University of Bern (CH))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="1d491340-f31e-5a87-ae87-b9f4820be8ba" id="84">
+        <date>2026-02-25T09:40:00+01:00</date>
+        <start>09:40</start>
+        <duration>00:25</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-84-simulating-the-real-world-an-introduction-to-the-beamng-plat</slug>
+        <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
+        <title>"Simulating the Real World: An Introduction to the BeamNG Platform &amp; Generation of 3D Generative models"</title>
+        <subtitle/>
+        <track slug="choose-forum">CHOOSE Forum</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 7-8 minutes questions</description>
+        <persons>
+          <person id="1">Eva Pigova ( BeamNG GmbH )</person>
+          <person id="2">Damian Boborzi (University of Augsburg (DE))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="28fb1c6d-3b6f-5434-ab6c-38b48b4e1fce" id="85">
         <date>2026-02-25T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:45</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-48-session-engineering-intelligent-systems-from-autonomous-vehi</slug>
+        <slug>se2026-85-session-engineering-intelligent-systems-from-autonomous-vehi</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>Session: Engineering Intelligent Systems: From Autonomous Vehicles to AI Code Generation</title>
         <subtitle/>
@@ -1124,20 +1890,59 @@
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"From code to corner: The software behind LOXO urban vehicles" | Speaker: Claudio Panizza ( LOXO ) | Format: 17 minutes talk + 7-8 minutes questions
-"A journey in AI-based code generation" | Speaker: Matteo Biagiola (University of St. Gallen (CH)) | Format: 17 minutes talk + 7-8 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Sebastiano Panichella (University of Bern (CH))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
-      <event guid="36bc067f-0a26-5101-bdf7-f7dac3bf88d0" id="49">
+      <event guid="5b3e605a-e31b-5c54-bd49-f59d3fcfe584" id="86">
+        <date>2026-02-25T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>00:25</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-86-from-code-to-corner-the-software-behind-loxo-urban-vehicles</slug>
+        <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
+        <title>"From code to corner: The software behind LOXO urban vehicles"</title>
+        <subtitle/>
+        <track slug="choose-forum">CHOOSE Forum</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 7-8 minutes questions</description>
+        <persons>
+          <person id="1">Claudio Panizza ( LOXO )</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="5196a2f6-d636-5e40-bfe0-be98bc24ca78" id="87">
+        <date>2026-02-25T10:55:00+01:00</date>
+        <start>10:55</start>
+        <duration>00:25</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-87-a-journey-in-ai-based-code-generation</slug>
+        <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
+        <title>"A journey in AI-based code generation"</title>
+        <subtitle/>
+        <track slug="choose-forum">CHOOSE Forum</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 7-8 minutes questions</description>
+        <persons>
+          <person id="1">Matteo Biagiola (University of St. Gallen (CH))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="f9f73e72-aec8-5a01-a4de-d11a4a5029c9" id="88">
         <date>2026-02-25T11:15:00+01:00</date>
         <start>11:15</start>
         <duration>00:45</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-49-session-sustainability-and-reliability-of-ai-driven-software</slug>
+        <slug>se2026-88-session-sustainability-and-reliability-of-ai-driven-software</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>Session: Sustainability and Reliability of AI-Driven Software</title>
         <subtitle/>
@@ -1145,20 +1950,60 @@
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"From Perception to Action: Can UI Interventions Foster Sustainable LLM Chatbot" | Speaker: Nitish Patkar (University of Applied Sciences and Arts Northwestern Switzerland (CH)) | Format: 17 minutes talk + 7-8 minutes questions
-"Breaking DNNs: Mutation Testing for Deep Neural Networks" | Speakers: Nargiz Humbatova (Università della Svizzera italiana (CH)), Jinhan Kim (Università della Svizzera italiana (CH)) | Format: 17 minutes talk + 7-8 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Andreas Fischer (University of Fribourg (CH))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
-      <event guid="605dda11-9228-5415-84d6-2cd04da06985" id="50">
+      <event guid="968250f9-6816-5aaa-9d9d-9913f7156ee6" id="89">
+        <date>2026-02-25T11:15:00+01:00</date>
+        <start>11:15</start>
+        <duration>00:25</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-89-from-perception-to-action-can-ui-interventions-foster-sustai</slug>
+        <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
+        <title>"From Perception to Action: Can UI Interventions Foster Sustainable LLM Chatbot"</title>
+        <subtitle/>
+        <track slug="choose-forum">CHOOSE Forum</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 7-8 minutes questions</description>
+        <persons>
+          <person id="1">Nitish Patkar (University of Applied Sciences and Arts Northwestern Switzerland (CH))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="1ef41dea-b57b-5bba-951c-29fc0d01fc50" id="90">
+        <date>2026-02-25T11:40:00+01:00</date>
+        <start>11:40</start>
+        <duration>00:25</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-90-breaking-dnns-mutation-testing-for-deep-neural-networks</slug>
+        <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
+        <title>"Breaking DNNs: Mutation Testing for Deep Neural Networks"</title>
+        <subtitle/>
+        <track slug="choose-forum">CHOOSE Forum</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 7-8 minutes questions</description>
+        <persons>
+          <person id="1">Nargiz Humbatova (Università della Svizzera italiana (CH))</person>
+          <person id="2">Jinhan Kim (Università della Svizzera italiana (CH))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="4cd51e5d-2e9a-573b-8601-d60884e3f18d" id="91">
         <date>2026-02-25T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:45</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-50-session-trust-modernization-and-certification-in-ai-enabled</slug>
+        <slug>se2026-91-session-trust-modernization-and-certification-in-ai-enabled</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>Session: Trust, Modernization, and Certification in AI-Enabled Software Systems</title>
         <subtitle/>
@@ -1166,20 +2011,59 @@
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Legacy Application Modernization with AI Agents" | Speaker: Dr. Daniel Hogg ( Adnovum ) | Format: 17 minutes talk + 7-8 minutes questions
-"Trustworthy Distributed Certification of Program Execution" | Speaker: Alex Wolf (University of Zurich (CH)) | Format: 17 minutes talk + 7-8 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Matteo Biagiola (University of St. Gallen (CH))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
-      <event guid="ab08c5af-390a-5d64-a383-362488e1dd79" id="51">
+      <event guid="cbf6c407-88e5-5c8b-9be2-900061117f3a" id="92">
+        <date>2026-02-25T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>00:25</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-92-legacy-application-modernization-with-ai-agents</slug>
+        <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
+        <title>"Legacy Application Modernization with AI Agents"</title>
+        <subtitle/>
+        <track slug="choose-forum">CHOOSE Forum</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 7-8 minutes questions</description>
+        <persons>
+          <person id="1">Dr. Daniel Hogg ( Adnovum )</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="efd106c5-35e6-5d14-814a-9d79188e5f08" id="93">
+        <date>2026-02-25T13:55:00+01:00</date>
+        <start>13:55</start>
+        <duration>00:25</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-93-trustworthy-distributed-certification-of-program-execution</slug>
+        <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
+        <title>"Trustworthy Distributed Certification of Program Execution"</title>
+        <subtitle/>
+        <track slug="choose-forum">CHOOSE Forum</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 7-8 minutes questions</description>
+        <persons>
+          <person id="1">Alex Wolf (University of Zurich (CH))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="1159b22f-0854-584b-b518-94da5794fb4d" id="94">
         <date>2026-02-25T14:15:00+01:00</date>
         <start>14:15</start>
         <duration>00:45</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-51-session-interdisciplinary-perspectives-ai-biology-and-bioinf</slug>
+        <slug>se2026-94-session-interdisciplinary-perspectives-ai-biology-and-bioinf</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>Session: Interdisciplinary Perspectives: AI, Biology, and Bioinformatics</title>
         <subtitle/>
@@ -1187,20 +2071,59 @@
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Integrating Physiology and Machine Learning to Predict Oxyhaemoglobin Dissociation Curve Shift in Preterm Infants" | Speaker: Sarah Rebecca Meyer (University of Bern (CH)) | Format: 17 minutes talk + 7-8 minutes questions
-"Bridging Research and Practice in Simulation-based Testing of Industrial Robot Navigation Systems" | Speaker: Sebastiano Panichella (University of Bern (CH)) | Format: 17 minutes talk + 7-8 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Sebastiano Panichella (University of Bern (CH))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
-      <event guid="a49730f4-7764-5268-a4ce-4f570fa4a1d0" id="52">
+      <event guid="2b1963b7-5df5-5eab-81c4-b9083545eb6a" id="95">
+        <date>2026-02-25T14:15:00+01:00</date>
+        <start>14:15</start>
+        <duration>00:25</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-95-integrating-physiology-and-machine-learning-to-predict-oxyha</slug>
+        <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
+        <title>"Integrating Physiology and Machine Learning to Predict Oxyhaemoglobin Dissociation Curve Shift in Preterm Infants"</title>
+        <subtitle/>
+        <track slug="choose-forum">CHOOSE Forum</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 7-8 minutes questions</description>
+        <persons>
+          <person id="1">Sarah Rebecca Meyer (University of Bern (CH))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="505dd75e-9adf-55a2-ad00-e7af27647cbb" id="96">
+        <date>2026-02-25T14:40:00+01:00</date>
+        <start>14:40</start>
+        <duration>00:25</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-96-bridging-research-and-practice-in-simulation-based-testing-o</slug>
+        <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
+        <title>"Bridging Research and Practice in Simulation-based Testing of Industrial Robot Navigation Systems"</title>
+        <subtitle/>
+        <track slug="choose-forum">CHOOSE Forum</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 7-8 minutes questions</description>
+        <persons>
+          <person id="1">Sebastiano Panichella (University of Bern (CH))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="7dfbb72a-f704-5bc8-a1af-64ef445f068c" id="97">
         <date>2026-02-25T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>01:15</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-52-panel-on-ai-software-engineering-reproducibility-and-science</slug>
+        <slug>se2026-97-panel-on-ai-software-engineering-reproducibility-and-science</slug>
         <url>https://se2026.inf.unibe.ch/en/choose-forum/</url>
         <title>Panel on ‘AI, Software Engineering &amp; Reproducibility and Science Challenges’</title>
         <subtitle/>
@@ -1213,12 +2136,12 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="bb06124d-41da-52b3-92e6-b2f8c14ae2ca" id="53">
+      <event guid="64acf84d-2e08-5dc5-834e-d7ba448099cd" id="98">
         <date>2026-02-25T16:45:00+01:00</date>
         <start>16:45</start>
         <duration>00:05</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-53-closing</slug>
+        <slug>se2026-98-closing</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Closing</title>
         <subtitle/>
@@ -1235,12 +2158,12 @@
       </event>
     </room>
     <room name="University of Bern" slug="university-of-bern">
-      <event guid="9ae7015d-f604-5ca2-bbb3-29a970f0f57c" id="45">
+      <event guid="4cf41144-6de3-52d3-a12c-d1e6638a552b" id="77">
         <date>2026-02-25T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>04:00</duration>
         <room>University of Bern</room>
-        <slug>se2026-45-welcome-reception</slug>
+        <slug>se2026-77-welcome-reception</slug>
         <url>https://se2026.inf.unibe.ch/en/social-events/</url>
         <title>Welcome Reception</title>
         <subtitle/>
@@ -1248,9 +2171,65 @@
         <type>other</type>
         <language>de</language>
         <abstract/>
-        <description>Begin Reception | Start: 18:00 | Room: Foyer
-Welcome Speech | Speakers: Christian Cachin (Professor at and Director of the Institute of Computer Science, University of Bern (CH)), Timo Kehrer (University of Bern (CH)) | Start: 19:00 | Room: Aula
-Continuation Reception | Start: 19:30 | Room: Foyer</description>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="12cfa206-130d-54c4-bdd3-7a174f4a37cc" id="78">
+        <date>2026-02-25T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:20</duration>
+        <room>University of Bern</room>
+        <slug>se2026-78-begin-reception</slug>
+        <url>https://se2026.inf.unibe.ch/en/social-events/</url>
+        <title>Begin Reception</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="1a159371-c21a-5b98-9824-446f9805d0c2" id="79">
+        <date>2026-02-25T19:20:00+01:00</date>
+        <start>19:20</start>
+        <duration>01:20</duration>
+        <room>University of Bern</room>
+        <slug>se2026-79-welcome-speech</slug>
+        <url>https://se2026.inf.unibe.ch/en/social-events/</url>
+        <title>Welcome Speech</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="1">Christian Cachin (Professor at and Director of the Institute of Computer Science</person>
+          <person id="2">University of Bern (CH))</person>
+          <person id="3">Timo Kehrer (University of Bern (CH))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="27d326f2-53ae-5eae-a6c4-511311854ab8" id="80">
+        <date>2026-02-25T20:40:00+01:00</date>
+        <start>20:40</start>
+        <duration>01:20</duration>
+        <room>University of Bern</room>
+        <slug>se2026-80-continuation-reception</slug>
+        <url>https://se2026.inf.unibe.ch/en/social-events/</url>
+        <title>Continuation Reception</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
         <persons/>
         <attachments/>
         <links/>
@@ -1259,12 +2238,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
   </day>
   <day index="4" date="2026-02-26" start="2026-02-26T09:00:00+01:00" end="2026-02-27T08:59:00+01:00">
     <room name="Champions Lounge" slug="champions-lounge">
-      <event guid="6fedeb6e-86e9-57b6-bcb9-08ceab1b71d8" id="59">
+      <event guid="7efc6d64-5ff8-5122-8a07-8e4716eb163b" id="104">
         <date>2026-02-26T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>00:05</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-59-opening</slug>
+        <slug>se2026-104-opening</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
         <title>Opening</title>
         <subtitle/>
@@ -1279,12 +2258,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <attachments/>
         <links/>
       </event>
-      <event guid="882a5118-434e-54dd-9f19-faa34b38ba36" id="60">
+      <event guid="f788356b-a8ed-5a8d-a7c7-72c8fccc98e8" id="105">
         <date>2026-02-26T09:05:00+01:00</date>
         <start>09:05</start>
         <duration>00:55</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-60-industry-keynote-achieving-digital-sovereignty-in-europe-key</slug>
+        <slug>se2026-105-industry-keynote-achieving-digital-sovereignty-in-europe-key</slug>
         <url>https://se2026.inf.unibe.ch/en/program/keynotes/amandine-le-pape/</url>
         <title>Industry Keynote: “Achieving Digital Sovereignty in Europe: Key Considerations for Success”</title>
         <subtitle/>
@@ -1300,12 +2279,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <attachments/>
         <links/>
       </event>
-      <event guid="32e4bc68-fa63-59dd-8a41-62d5cf8c823c" id="70">
+      <event guid="b5b2117f-e4cc-5498-a5da-d9ab4c14bde0" id="135">
         <date>2026-02-26T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>01:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-70-impulse-talks-and-panel-discussion</slug>
+        <slug>se2026-135-impulse-talks-and-panel-discussion</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
         <title>Impulse Talks and Panel Discussion</title>
         <subtitle/>
@@ -1313,21 +2292,73 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Nextcloud as a secure collaboration and communication platform" | Speaker: | Frank Karlitschek (Co-Founder and CEO of Nextcloud ) | Format: 30 minutes talk | We are moving toward a world in which the files of most users are hosted by four large companies in the United States of America. This applies to most private users, to businesses, as well as to educational and research institutions. If we want to preserve sovereignty over our data, protect our privacy, and prevent vendor lock-in, we need open-source, self-hosted, and federated alternatives. The Internet and the Web are built on a distributed and federated architecture; we must now ensure that cloud services follow this model as well. | Nextcloud is a fully federated, distributed, and open-source solution for data sharing, communication, and collaboration. Any organization and any home user can run a Nextcloud server at home or anywhere on the Internet and collaborate with others. Nextcloud can be used to provide file access, synchronization, sharing, calendars, contacts, and more in a distributed manner.
-"Cloud Sovereignty: Technical Reality and Practical Implementation" | Speakers: | Christoph Schnidrig (Head of Technology, AWS Switzerland ) | Daniel Caduff (Security Assurance Principal of the D/A/CH region at AWS ) | Format: 30 minutes talk | Christoph Schnidrig will focus on the technical aspects of Cloud Sovereignty and on Open Source. Daniel Caduff will go into detail about regulatory requirements and compliance.
-"Panel Discussion on Digital Sovereignty" | Speakers: | Adrienne Fichter (Political Scientist and Tech Journalist) | Amandine Le Pape (Head of Section – Business &amp; Impact at the Open Source Academy , COO and Co-Founder of Element ) | Frank Karlitschek (CEO of Nextcloud ) | Format: 30 minutes discussion</description>
+        <description/>
         <persons>
           <person id="1">Matthias Stürmer (Professor at the Bern University of Applied Sciences (CH), Institute ‘Public Sector Transformation’)</person>
         </persons>
         <attachments/>
         <links/>
       </event>
-      <event guid="3f82e878-81f9-507e-8cb7-ee266404d7fa" id="71">
+      <event guid="85e13e7c-519b-5e99-9da7-a27b4d438983" id="136">
+        <date>2026-02-26T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-136-nextcloud-as-a-secure-collaboration-and-communication-platfo</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
+        <title>"Nextcloud as a secure collaboration and communication platform"</title>
+        <subtitle/>
+        <track slug="industry-day">Industry Day</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>30 minutes talk</description>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="f408f154-546b-5587-83d8-60cb6c0bb58c" id="137">
+        <date>2026-02-26T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-137-cloud-sovereignty-technical-reality-and-practical-implementa</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
+        <title>"Cloud Sovereignty: Technical Reality and Practical Implementation"</title>
+        <subtitle/>
+        <track slug="industry-day">Industry Day</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>30 minutes talk</description>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="7feba0c6-1a14-5e4b-9095-84c78de4360f" id="138">
+        <date>2026-02-26T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-138-panel-discussion-on-digital-sovereignty</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
+        <title>"Panel Discussion on Digital Sovereignty"</title>
+        <subtitle/>
+        <track slug="industry-day">Industry Day</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>30 minutes discussion</description>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="84cce71a-76bb-598b-972a-48db7485b1c7" id="139">
         <date>2026-02-26T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>01:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-71-expert-talks-and-experience-reports</slug>
+        <slug>se2026-139-expert-talks-and-experience-reports</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
         <title>Expert Talks and Experience Reports</title>
         <subtitle/>
@@ -1335,21 +2366,73 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"A sovereign AI platform for the new agentic software engineering" | Speaker: | Alexander Hofmann (CTO of MaibornWolff ) | Format: 30 minutes talk | AI is fundamentally changing our software engineering, and we are all part of this major transformation. This change affects more than just coding. It affects all phases — from digital design to software operation. The experience from our customer projects shows that this new agentic software engineering needs an AI development platform that meets compliance, security and reliability requirements. | The implementation of this sovereign AI platform at MaibornWolff was the key to getting the “Go” from more than 50 of our customers to use AI tools for software development in their projects. The presentation explains the structure of our AI development platform and shows how we use it, what is important and what it costs.
-"Control Your Data. Control Your Future. — Why sovereign cloud and AI matter for Switzerland’s digital autonomy" | Speaker: | Carla Bünger (Vice President of the Board and Founder of Phoenix Technologies ) | Format: 30 minutes talk | Digital autonomy is shifting from an ambition to a strategic necessity for Switzerland. As digital infrastructure underpins economies and public services, the key question is no longer whether to use it, but who controls it, under which jurisdiction, and with which dependencies. | True autonomy must extend across the entire digital stack — infrastructure, models, and applications — ensuring resilience, protection of intellectual property, and trusted governance of data and decisions. Without this end-to-end perspective, organizations risk replacing one dependency with another. | This session will explore how sovereign cloud solutions and AI enable true digital autonomy, highlighting Switzerland’s opportunity to take a leadership role by combining trusted legal frameworks, strong research ecosystems, and sovereign infrastructures for businesses and the public sector.
-"The Synthetic Data Playbook: Generating Trillions of the Finest Tokens" | Speaker: | Dr. Joel Niklaus (Machine Learning Engineer at Hugging Face ) | Format: 30 minutes talk</description>
+        <description/>
         <persons>
           <person id="1">Martin Glinz (Professor Emeritus at the University of Zurich (CH))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
-      <event guid="fe617c21-2dcb-5d29-834a-afe87ea0ea9d" id="72">
+      <event guid="cb309eb6-98ed-559e-a033-f62e758821a4" id="140">
+        <date>2026-02-26T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-140-a-sovereign-ai-platform-for-the-new-agentic-software-enginee</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
+        <title>"A sovereign AI platform for the new agentic software engineering"</title>
+        <subtitle/>
+        <track slug="industry-day">Industry Day</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>30 minutes talk</description>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="716a2e4e-c58f-517d-98f3-ed6a98ad992d" id="141">
+        <date>2026-02-26T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-141-control-your-data-control-your-future-why-sovereign-cloud-an</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
+        <title>"Control Your Data. Control Your Future. — Why sovereign cloud and AI matter for Switzerland’s digital autonomy"</title>
+        <subtitle/>
+        <track slug="industry-day">Industry Day</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>30 minutes talk</description>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="150ab52e-4441-5fd4-b423-52263da63a1e" id="142">
+        <date>2026-02-26T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-142-the-synthetic-data-playbook-generating-trillions-of-the-fine</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
+        <title>"The Synthetic Data Playbook: Generating Trillions of the Finest Tokens"</title>
+        <subtitle/>
+        <track slug="industry-day">Industry Day</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>30 minutes talk</description>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="a69fd071-b1fb-5381-bd72-f4141476f040" id="143">
         <date>2026-02-26T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>02:00</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-72-expert-talks-and-experience-reports</slug>
+        <slug>se2026-143-expert-talks-and-experience-reports</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
         <title>Expert Talks and Experience Reports</title>
         <subtitle/>
@@ -1357,24 +2440,93 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Adaptive Internal Developer Platforms als Enabler digitaler Souveränität" | Speaker: | Dr. Axel Koldewey (CIO of adesso SE ) | Format: 30 minutes talk | Die digitale Souveränität softwareintensiver Organisationen wird zunehmend durch die steigende Komplexität cloud-nativer Architekturen, proprietäre Plattformökosysteme und implizite Abhängigkeiten von Infrastruktur- und Tool-Anbietern herausgefordert. Während Internal Developer Platforms (IDPs) als Mittel zur Steigerung von Entwicklerproduktivität und Standardisierung etabliert sind, bleiben sie häufig statisch, toolzentriert und bieten nur eingeschränkte Kontroll- und Anpassungsmöglichkeiten im Hinblick auf souveräne Architektur- und Governanceentscheidungen. | Dieser Beitrag führt das Konzept der adaptiven Internal Developer Platform (aIDP) der adesso SE ein und positioniert es als technologischen Enabler digitaler Souveränität im Kontext des Platform Engineerings. Die aIDP wird als kontextsensitives, selbstadaptives Softwaresystem definiert, das durch eine strikte Trennung zwischen deklarativer Beschreibung von Entwicklerintentionen („What“) und regelbasierter, automatisierter Umsetzung („How“) die Kontrolle über Entwicklungs-, Architektur- und Betriebsprozesse systematisch stärkt. Zentrales Strukturprinzip sind Golden Paths, die als versionierte, parametrische und semantisch angereicherte Umsetzungspfade modelliert werden und projektspezifisch, nachvollziehbar und technologieagnostisch instanziiert werden können. | Eine integrierte KI-gestützte Intelligence-Ebene unterstützt die semantische Interpretation natürlicher Spracheingaben, die Analyse von Abweichungen zu definierten Standards sowie die adaptive Weiterentwicklung der Plattformlogik auf Basis von Nutzungs- und Laufzeitfeedback. Ergänzt wird dieser Ansatz durch ein semantisches Architektur-Metamodell, das Architekturentscheidungen, Domänenstrukturen und Designprinzipien formalisiert und mit Code- und Infrastrukturebene synchronisiert. Dadurch wird Architektur explizit kontrollierbar, auditierbar und evolvierbar – als zentrale Voraussetzung digital souveräner Softwareentwicklung. | Der vorgestellte Ansatz leistet einen Beitrag zur theoretischen Fundierung souveräner Plattformarchitekturen und zeigt, wie adaptive Internal Developer Platforms digitale Souveränität durch formalisierte Abstraktion, regelbasierte Steuerung und KI-gestützte Systemintelligenz nachhaltig unterstützen können.
-"Mehr Souveränität in der Test-Automatisierung? Effektive Migration von Test-Suites weg von proprietären Tools" | Speaker: | Dr. Elmar Jürgens (Founder of CQSE ) | Format: 30 minutes talk | Viele Teams nutzen inzwischen glücklicherweise Testautomatisierung in großem Umfang. Allerdings entstehen dadurch oft Abhängigkeiten von einzelnen Test-Tool-Herstellern. Wenn diese die Preise erhöhen (oder das Tool abstellen sollten), wird es schmerzhaft. Denn nicht nur die teureren Lizenzen kosten Geld, sondern natürlich auch eine Migration zu einem anderen Test-Tool oder -Framework. Wenn man 10.000 Testfälle hat, und mehrere Stunden für die Migration jedes einzelnen Testfalls schätzt, wird das schnell sehr teuer. Wie können unsere Ansätze aus dem Software Engineering hier helfen? | Historisch gewachsene Test-Suites sind meistens hoch redundant. Eine Migration auf ein neues Testautomatisierungs-Tool ist daher auch eine Chance, diese Redundanz loszuwerden und dadurch einen großen Teil des Migrationsaufwands zu sparen. Konkret helfen Test-Minimierungsverfahren aus unserer Forschungscommunity hierbei, indem sie aus einer großen Suite die (hoffentlich möglichst kleine) Teilmenge ermitteln, die für sich genommen schon den Großteil der Fehler findet, die die gesamte Testsuite findet. Dann reicht es, wenn wir die migrieren. | Im Vortrag stelle ich vor, welche Erfahrungen wir mit welchen Minimierungsverfahren bei unseren Kunden gemacht haben, die ihre Test-Suites migrieren. Dabei gehe ich sowohl auf moderne, AI-basierte Testselektionsverfahren ein als auch “Old-School” Coverage-Messung, um zu verfolgen, wie viel die migrierte Test-Suite im Vergleich zur neuen bereits abdeckt, und zeige, welche Einsparungen dadurch erreicht wurden.
-"Dimensions of Digital Sovereignty" | Speaker: | Till Gartner (Executive Board member of mgm technology partners ) | Format: 30 minutes talk | Digital sovereignty is achieved through how software is structured, not through who delivers it. | Model-driven approaches place domain knowledge at the center, making the logic explicit, inspectable, and independent of technical implementation choices. By separating models from infrastructure and technology stacks, systems remain adaptable, auditable, and resilient over long lifecycles. Continuous quality assurance, security by design, and cloud-native operations become systemic properties rather than project-specific efforts. | In this way, digital sovereignty emerges as sustained control over change, complexity, and dependency.
-"Architecting Digital Sovereignty: Business Value over Complexity" | Speaker: | Dr. Vitor Bernardo (Head of Architecture, Market Unit Public Sector adnovum ) | Format: 30 minutes talk | Custom software development in the public sector is no longer about writing every line of code yourself. It is about delivering business value while keeping total cost of ownership sustainable. If a system is too complex or too expensive to maintain, you are not truly sovereign over it, but hostage to the effort required just to keep the lights on. | Digital sovereignty is ultimately an architectural property: it depends on the trade-offs you make, the dependencies you accept, and whether you can still change direction five or ten years later. | Hence, achieving digital sovereignty requires viewing software architecture through the lens of collaborative governance. We need to prioritise low-maintenance (“Low Ops”) approaches and think in shared functional building blocks. With the EMBAG legislation, open source becomes more than a legal requirement — it is a key strategic asset to reduce complexity. By adopting Swiss-centric, community-proven standards, we can stop building custom silos and start managing a federated ecosystem. | This session explores how architecture and governance must work together to ensure the software we own today doesn’t end up owning us tomorrow.</description>
+        <description/>
         <persons>
           <person id="1">Stefan Sauer (Professor at the University of Paderborn (DE))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
+      <event guid="8c0f922f-f274-5d53-a2c1-81c30e391a1d" id="144">
+        <date>2026-02-26T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-144-adaptive-internal-developer-platforms-als-enabler-digitaler</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
+        <title>"Adaptive Internal Developer Platforms als Enabler digitaler Souveränität"</title>
+        <subtitle/>
+        <track slug="industry-day">Industry Day</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>30 minutes talk</description>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="b2c39d4a-3b9f-5b0c-a3f4-5930a06ce106" id="145">
+        <date>2026-02-26T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-145-mehr-souveränität-in-der-test-automatisierung-effektive-migr</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
+        <title>"Mehr Souveränität in der Test-Automatisierung? Effektive Migration von Test-Suites weg von proprietären Tools"</title>
+        <subtitle/>
+        <track slug="industry-day">Industry Day</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>30 minutes talk</description>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="c161c8c3-78cd-57e4-bef1-22c9676a634c" id="146">
+        <date>2026-02-26T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-146-dimensions-of-digital-sovereignty</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
+        <title>"Dimensions of Digital Sovereignty"</title>
+        <subtitle/>
+        <track slug="industry-day">Industry Day</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>30 minutes talk</description>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="5f9468c2-772c-5c42-8b16-61b29cf0c4fa" id="147">
+        <date>2026-02-26T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:30</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-147-architecting-digital-sovereignty-business-value-over-complex</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/industry-day/</url>
+        <title>"Architecting Digital Sovereignty: Business Value over Complexity"</title>
+        <subtitle/>
+        <track slug="industry-day">Industry Day</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>30 minutes talk</description>
+        <persons/>
+        <attachments/>
+        <links/>
+      </event>
     </room>
     <room name="Champions Lounge (Catering Area)" slug="champions-lounge-catering-area">
-      <event guid="7f0b75e3-475c-529d-a5ba-8716251b9275" id="61">
+      <event guid="310c1b0c-e7e5-5356-9993-46706f0e919e" id="106">
         <date>2026-02-26T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge (Catering Area)</room>
-        <slug>se2026-61-coffee-break</slug>
+        <slug>se2026-106-coffee-break</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Coffee Break</title>
         <subtitle/>
@@ -1387,12 +2539,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <attachments/>
         <links/>
       </event>
-      <event guid="57b6a33f-3643-5fc5-bd45-3763180a8228" id="64">
+      <event guid="ee5abdc0-5433-55db-a228-6be72cea9488" id="117">
         <date>2026-02-26T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
         <room>Champions Lounge (Catering Area)</room>
-        <slug>se2026-64-lunch</slug>
+        <slug>se2026-117-lunch</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Lunch</title>
         <subtitle/>
@@ -1405,12 +2557,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <attachments/>
         <links/>
       </event>
-      <event guid="c649ab45-01f6-57a9-9ef7-5e2bffcfcd62" id="75">
+      <event guid="91fe98d3-26a8-5160-ac4f-fbd3f33e9c4a" id="160">
         <date>2026-02-26T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge (Catering Area)</room>
-        <slug>se2026-75-poster-session-at-the-end-of-the-lunch-break</slug>
+        <slug>se2026-160-poster-session-at-the-end-of-the-lunch-break</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Poster Session (At the End of the Lunch Break)</title>
         <subtitle/>
@@ -1423,12 +2575,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <attachments/>
         <links/>
       </event>
-      <event guid="4a9d4774-39a9-593a-b437-75a16c73938b" id="67">
+      <event guid="9d033f6b-c46f-5f9b-85ab-92d2a2423719" id="128">
         <date>2026-02-26T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge (Catering Area)</room>
-        <slug>se2026-67-coffee-break</slug>
+        <slug>se2026-128-coffee-break</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Coffee Break</title>
         <subtitle/>
@@ -1441,12 +2593,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <attachments/>
         <links/>
       </event>
-      <event guid="73963175-38e3-5fb5-b648-4b8af6dd2108" id="76">
+      <event guid="d87e54f3-d456-5e26-a8af-f00eca3c6936" id="161">
         <date>2026-02-26T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge (Catering Area)</room>
-        <slug>se2026-76-poster-session-during-the-coffee-break</slug>
+        <slug>se2026-161-poster-session-during-the-coffee-break</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Poster Session (During the Coffee Break)</title>
         <subtitle/>
@@ -1461,12 +2613,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
       </event>
     </room>
     <room name="Champions Lounge (Reception Area) (3 rd Floor)" slug="champions-lounge-reception-area-3-rd-floor">
-      <event guid="9b35b14c-8714-5a07-b56d-ae8d812799cf" id="58">
+      <event guid="6493c9f5-f2e7-521b-b858-80be4403ddb5" id="103">
         <date>2026-02-26T08:30:00+01:00</date>
         <start>08:30</start>
         <duration>00:30</duration>
         <room>Champions Lounge (Reception Area) (3 rd Floor)</room>
-        <slug>se2026-58-registration</slug>
+        <slug>se2026-103-registration</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Registration</title>
         <subtitle/>
@@ -1479,12 +2631,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <attachments/>
         <links/>
       </event>
-      <event guid="6a6f6ecc-8809-57da-8f6d-ee8bfcc947c2" id="73">
+      <event guid="bc0ebf14-bb32-587c-b430-c6b6dbad9a40" id="148">
         <date>2026-02-26T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge (Reception Area) (3 rd Floor)</room>
-        <slug>se2026-73-registration</slug>
+        <slug>se2026-148-registration</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Registration</title>
         <subtitle/>
@@ -1497,12 +2649,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <attachments/>
         <links/>
       </event>
-      <event guid="cbc576e6-db63-5a24-aeb1-7a5050dfe789" id="80">
+      <event guid="c08d974b-11af-5c6e-83ca-9264dc2f67da" id="171">
         <date>2026-02-26T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge (Reception Area) (3 rd Floor)</room>
-        <slug>se2026-80-registration</slug>
+        <slug>se2026-171-registration</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Registration</title>
         <subtitle/>
@@ -1515,12 +2667,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <attachments/>
         <links/>
       </event>
-      <event guid="cb7105e5-506a-5fea-91f2-a86d8e2acba8" id="77">
+      <event guid="fb61b731-b9f8-524b-a365-13e24922bf61" id="162">
         <date>2026-02-26T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge (Reception Area) (3 rd Floor)</room>
-        <slug>se2026-77-registration</slug>
+        <slug>se2026-162-registration</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Registration</title>
         <subtitle/>
@@ -1535,12 +2687,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
       </event>
     </room>
     <room name="Gurten Pavillon" slug="gurten-pavillon">
-      <event guid="643a246f-2b68-52ef-85a0-642fc4922e93" id="69">
+      <event guid="0f525b3c-1710-5287-8ecf-b7748fd81530" id="134">
         <date>2026-02-26T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>03:00</duration>
         <room>Gurten Pavillon</room>
-        <slug>se2026-69-conference-dinner</slug>
+        <slug>se2026-134-conference-dinner</slug>
         <url>https://se2026.inf.unibe.ch/en/social-events/</url>
         <title>Conference Dinner</title>
         <subtitle/>
@@ -1555,12 +2707,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
       </event>
     </room>
     <room name="Sky Lounge 1" slug="sky-lounge-1">
-      <event guid="f5a0ddda-ff0c-55c2-a119-edb236a2f86f" id="63">
+      <event guid="964cfbb7-f20a-5165-b139-cb7c9a9aaad7" id="112">
         <date>2026-02-26T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>01:30</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-63-session-requirements-mining</slug>
+        <slug>se2026-112-session-requirements-mining</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>Session: Requirements &amp; Mining</title>
         <subtitle/>
@@ -1568,22 +2720,113 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Automating Requirements Elicitation Interviews with LLMs" | Authors: Alexander Korn, Samuel Gorsch, Andreas Vogelsang | Format: 17 minutes talk + 5 minutes questions
-"How do practitioners incorporate requirements and design decisions in LLM-assisted code generation?" | Authors: Jonathan Ullrich, Matthias Koch, Andreas Vogelsang | Format: 17 minutes talk + 5 minutes questions
-"The Good, the Bad, and the Uncanny: Investigating Diversity Aspects of LLM-Generated Personas for Requirements Engineering – Summary" | Authors: Christopher Lazik, Charlotte Kauter, Inês Nunes, Aaron Ziglowski, Alina Pryma, Christopher Katins, Lars Grunske, Thomas Kosch | Format: 17 minutes talk + 5 minutes questions
-"Does the Tool Matter? Exploring Some Causes of Threats to Validity in Mining Software Repositories" | Authors: Nicole Hoess, Carlos Paradis, Rick Kazman, Wolfgang Mauerer | Format: 17 minutes talk + 5 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Rick Rabiser (Johannes Kepler University Linz (AT))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
-      <event guid="e9fb9d53-51b4-5308-bbf9-6ef85348c567" id="81">
+      <event guid="caf2fe66-5cad-5c33-8e36-a70272b79073" id="113">
+        <date>2026-02-26T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-113-automating-requirements-elicitation-interviews-with-llms</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Automating Requirements Elicitation Interviews with LLMs"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Alexander Korn</person>
+          <person id="2">Samuel Gorsch</person>
+          <person id="3">Andreas Vogelsang</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="c4625761-9702-51de-b940-ba68dec88272" id="114">
+        <date>2026-02-26T10:52:00+01:00</date>
+        <start>10:52</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-114-how-do-practitioners-incorporate-requirements-and-design-dec</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"How do practitioners incorporate requirements and design decisions in LLM-assisted code generation?"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Jonathan Ullrich</person>
+          <person id="2">Matthias Koch</person>
+          <person id="3">Andreas Vogelsang</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="52b4c118-65c3-578a-acfa-c1d245c0f835" id="115">
+        <date>2026-02-26T11:14:00+01:00</date>
+        <start>11:14</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-115-the-good-the-bad-and-the-uncanny-investigating-diversity-asp</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"The Good, the Bad, and the Uncanny: Investigating Diversity Aspects of LLM-Generated Personas for Requirements Engineering – Summary"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Christopher Lazik</person>
+          <person id="2">Charlotte Kauter</person>
+          <person id="3">Inês Nunes</person>
+          <person id="4">Aaron Ziglowski</person>
+          <person id="5">Alina Pryma</person>
+          <person id="6">Christopher Katins</person>
+          <person id="7">Lars Grunske</person>
+          <person id="8">Thomas Kosch</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="d76a47d7-dffa-57cc-aab7-129a235d607b" id="116">
+        <date>2026-02-26T11:36:00+01:00</date>
+        <start>11:36</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 1</room>
+        <slug>se2026-116-does-the-tool-matter-exploring-some-causes-of-threats-to-val</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Does the Tool Matter? Exploring Some Causes of Threats to Validity in Mining Software Repositories"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Nicole Hoess</person>
+          <person id="2">Carlos Paradis</person>
+          <person id="3">Rick Kazman</person>
+          <person id="4">Wolfgang Mauerer</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="9257726f-8b5a-50f7-8ff5-542e6c07e759" id="172">
         <date>2026-02-26T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>01:30</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-81-seuh</slug>
+        <slug>se2026-172-seuh</slug>
         <url>https://se2026.inf.unibe.ch/en/seuh/</url>
         <title>SEUH</title>
         <subtitle/>
@@ -1598,12 +2841,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <attachments/>
         <links/>
       </event>
-      <event guid="0d30506e-3a36-549c-93a6-8b3ebca4abbe" id="82">
+      <event guid="44836c73-03ec-568a-a564-a39da6799f3d" id="173">
         <date>2026-02-26T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>01:30</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-82-seuh</slug>
+        <slug>se2026-173-seuh</slug>
         <url>https://se2026.inf.unibe.ch/en/seuh/</url>
         <title>SEUH</title>
         <subtitle/>
@@ -1620,12 +2863,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
       </event>
     </room>
     <room name="Sky Lounge 2" slug="sky-lounge-2">
-      <event guid="50136fa8-7ad7-5632-beca-661dcd000301" id="62">
+      <event guid="43691777-a5a7-557c-a581-a5222c5150b8" id="107">
         <date>2026-02-26T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>01:30</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-62-session-automated-test-generation</slug>
+        <slug>se2026-107-session-automated-test-generation</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>Session: Automated Test Generation</title>
         <subtitle/>
@@ -1633,22 +2876,107 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing" | Authors: Konstantinos Kitsios, Marco Marco Castelluccio, Alberto Bacchelli | Format: 17 minutes talk + 5 minutes questions
-"Does GenAI Make Usability Testing Obsolete?" | Authors: Ali Ebrahimi Pourasad, Walid Maalej | Format: 17 minutes talk + 5 minutes questions
-"Efficient Domain Augmentation for Autonomous Driving Testing Using Diffusion Models" | Authors: Luciano Baresi, Davide Yi Xian Hu, Andrea Stocco, Paolo Tonella | Format: 17 minutes talk + 5 minutes questions
-"FANDANGO: Evolving Language-Based Testing" | Authors: José Antonio Zamudio Amaya, Marius Smytzek, Andreas Zeller | Format: 17 minutes talk + 5 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Malte Lochau (University of Siegen (DE))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
-      <event guid="7c380cf0-0310-5cfe-807c-f45f0f57d522" id="66">
+      <event guid="0d901e04-f40e-503e-82cb-da97880e4178" id="108">
+        <date>2026-02-26T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-108-automated-generation-of-issue-reproducing-tests-by-combining</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Konstantinos Kitsios</person>
+          <person id="2">Marco Marco Castelluccio</person>
+          <person id="3">Alberto Bacchelli</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="5c0b0d52-5440-54f7-b986-9f7a3777c5f3" id="109">
+        <date>2026-02-26T10:52:00+01:00</date>
+        <start>10:52</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-109-does-genai-make-usability-testing-obsolete</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Does GenAI Make Usability Testing Obsolete?"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Ali Ebrahimi Pourasad</person>
+          <person id="2">Walid Maalej</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="685deb9d-a19d-55a1-95a9-bcfa4bbb9b9b" id="110">
+        <date>2026-02-26T11:14:00+01:00</date>
+        <start>11:14</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-110-efficient-domain-augmentation-for-autonomous-driving-testing</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Efficient Domain Augmentation for Autonomous Driving Testing Using Diffusion Models"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Luciano Baresi</person>
+          <person id="2">Davide Yi Xian Hu</person>
+          <person id="3">Andrea Stocco</person>
+          <person id="4">Paolo Tonella</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="300b6774-3187-52fd-9f02-837d65a63757" id="111">
+        <date>2026-02-26T11:36:00+01:00</date>
+        <start>11:36</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-111-fandango-evolving-language-based-testing</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"FANDANGO: Evolving Language-Based Testing"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">José Antonio Zamudio Amaya</person>
+          <person id="2">Marius Smytzek</person>
+          <person id="3">Andreas Zeller</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="117f7e0b-d260-5d0b-a6eb-11b871778191" id="123">
         <date>2026-02-26T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>01:30</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-66-session-testing-optimisation</slug>
+        <slug>se2026-123-session-testing-optimisation</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>Session: Testing &amp; Optimisation</title>
         <subtitle/>
@@ -1656,22 +2984,111 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Adaptive Test Generation with Q-grams" | Authors: Matteo Biagiola, Robert Feldt, Paolo Tonella | Format: 17 minutes talk + 5 minutes questions
-"E-Test: Ever-Improving Test Suites" | Authors: Ketai Qiu, Luca Di Grazia, Leonardo Mariani, Mauro Pezzè | Format: 17 minutes talk + 5 minutes questions
-"Metamorphic Testing for Optimisation: A Case Study on PID Controller Tuning" | Authors: Alejandra Duque-Torres, Claus Klammer, Stefan Fischer, Rudolf Ramler, Dietmar Pfahl | Format: 17 minutes talk + 5 minutes questions
-"Optimization of Automated and Manual Software Tests in Industrial Practice: A Survey and Historical Analysis" | Authors: Roman Haas, Raphael Nömmer, Elmar Juergens, Sven Apel | Format: 17 minutes talk + 5 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Joel Greenyer (University of Kassel (DE))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
-      <event guid="181bacbe-aadd-53bf-83a0-1ae9096415f2" id="68">
+      <event guid="81c1c229-2a81-57e7-87ff-8fdd35d00be0" id="124">
+        <date>2026-02-26T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-124-adaptive-test-generation-with-q-grams</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Adaptive Test Generation with Q-grams"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Matteo Biagiola</person>
+          <person id="2">Robert Feldt</person>
+          <person id="3">Paolo Tonella</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="b501e8d2-40fe-5d43-aeb7-888b158255f5" id="125">
+        <date>2026-02-26T13:52:00+01:00</date>
+        <start>13:52</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-125-e-test-ever-improving-test-suites</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"E-Test: Ever-Improving Test Suites"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Ketai Qiu</person>
+          <person id="2">Luca Di Grazia</person>
+          <person id="3">Leonardo Mariani</person>
+          <person id="4">Mauro Pezzè</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="d9a79fb7-0b15-564b-b77a-44592d992b58" id="126">
+        <date>2026-02-26T14:14:00+01:00</date>
+        <start>14:14</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-126-metamorphic-testing-for-optimisation-a-case-study-on-pid-con</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Metamorphic Testing for Optimisation: A Case Study on PID Controller Tuning"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Alejandra Duque-Torres</person>
+          <person id="2">Claus Klammer</person>
+          <person id="3">Stefan Fischer</person>
+          <person id="4">Rudolf Ramler</person>
+          <person id="5">Dietmar Pfahl</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="6c3506d7-eb17-5dcf-95cb-d0f5423db074" id="127">
+        <date>2026-02-26T14:36:00+01:00</date>
+        <start>14:36</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-127-optimization-of-automated-and-manual-software-tests-in-indus</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Optimization of Automated and Manual Software Tests in Industrial Practice: A Survey and Historical Analysis"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Roman Haas</person>
+          <person id="2">Raphael Nömmer</person>
+          <person id="3">Elmar Juergens</person>
+          <person id="4">Sven Apel</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="94834182-1270-56df-927e-45bc0d991739" id="129">
         <date>2026-02-26T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>01:30</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-68-session-test-evaluation</slug>
+        <slug>se2026-129-session-test-evaluation</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>Session: Test Evaluation</title>
         <subtitle/>
@@ -1679,24 +3096,113 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Do LLMs Generate Useful Test Oracles? An Empirical Study with an Unbiased Dataset" | Authors: Davide Molinelli, Luca Di Grazia, Alberto-Martin Lopez, Michael D. Ernst, Mauro Pezzè | Format: 17 minutes talk + 5 minutes questions
-"Gamifying Testing in IntelliJ: A Replicability Study" | Authors: Philipp Straubinger, Tommaso Fulcini, Giacomo Garaccione, Luca Ardito, Gordon Fraser | Format: 17 minutes talk + 5 minutes questions
-"Mutation-Based Integration Testing of Knowledge Graph Applications (Summary)" | Authors: Tobias John, Einar Broch Johnsen, Eduard Kamburjan | Format: 17 minutes talk + 5 minutes questions
-"The Testing Gaps in Infrastructure as Code Programs" | Authors: Daniel Sokolowski, David Spielmann, Guido Salvaneschi | Format: 17 minutes talk + 5 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Yannic Noller (Ruhr University Bochum (DE))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
+      <event guid="d759692a-5227-5dd9-bfda-1e0d1fe33cd8" id="130">
+        <date>2026-02-26T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-130-do-llms-generate-useful-test-oracles-an-empirical-study-with</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Do LLMs Generate Useful Test Oracles? An Empirical Study with an Unbiased Dataset"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Davide Molinelli</person>
+          <person id="2">Luca Di Grazia</person>
+          <person id="3">Alberto-Martin Lopez</person>
+          <person id="4">Michael D. Ernst</person>
+          <person id="5">Mauro Pezzè</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="888bc369-51b3-5720-b8c8-b8f00c0d666c" id="131">
+        <date>2026-02-26T15:52:00+01:00</date>
+        <start>15:52</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-131-gamifying-testing-in-intellij-a-replicability-study</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Gamifying Testing in IntelliJ: A Replicability Study"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Philipp Straubinger</person>
+          <person id="2">Tommaso Fulcini</person>
+          <person id="3">Giacomo Garaccione</person>
+          <person id="4">Luca Ardito</person>
+          <person id="5">Gordon Fraser</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="c136bda4-0231-523e-ae9b-8db7eaa761e8" id="132">
+        <date>2026-02-26T16:14:00+01:00</date>
+        <start>16:14</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-132-mutation-based-integration-testing-of-knowledge-graph-applic</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Mutation-Based Integration Testing of Knowledge Graph Applications (Summary)"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Tobias John</person>
+          <person id="2">Einar Broch Johnsen</person>
+          <person id="3">Eduard Kamburjan</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="73e5510a-f5a9-54c3-9508-e323400b5364" id="133">
+        <date>2026-02-26T16:36:00+01:00</date>
+        <start>16:36</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-133-the-testing-gaps-in-infrastructure-as-code-programs</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"The Testing Gaps in Infrastructure as Code Programs"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Daniel Sokolowski</person>
+          <person id="2">David Spielmann</person>
+          <person id="3">Guido Salvaneschi</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
     </room>
     <room name="Sky Lounge 3" slug="sky-lounge-3">
-      <event guid="799c531a-15ab-5597-aa10-0d00325b169d" id="74">
+      <event guid="90fd612e-9af2-59ab-9d51-6c43aa9afa57" id="149">
         <date>2026-02-26T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>01:30</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-74-presentations-of-the-nominees</slug>
+        <slug>se2026-149-presentations-of-the-nominees</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
         <title>Presentations of the nominees</title>
         <subtitle/>
@@ -1704,26 +3210,217 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Extracting Knowledge Graphs from User Stories Using LangChain (Master’s Thesis)" | Author: Thayna Camargo da Silva | Format: 7 minutes talk + 2 minutes questions
-"Requirely: A Tool for Detecting and Correcting Requirements Smells (Master’s Thesis)" | Author: Max Unterbusch | Format: 7 minutes talk + 2 minutes questions
-"Engineering and Selecting Machine Learning Features for Feature Models (Master’s Thesis)" | Author: Raphael Dunkel | Format: 7 minutes talk + 2 minutes questions
-"Creation and Evaluation of a Tool for Visualizing Reachability Analyses in Software Libraries (Master’s Thesis)" | Author: Ramon Jasari | Format: 7 minutes talk + 2 minutes questions
-"Designing and Validating Code Comprehension Tests: An Empirical Study on Task Design (Master’s Thesis)" | Author: Luisa Bartl | Format: 7 minutes talk + 2 minutes questions
-"Mining Bugs in Linux to Assess the Effectiveness of Automated Variability Testing (Master’s Thesis)" | Author: Christopher Rau | Format: 7 minutes talk + 2 minutes questions
-"Trunk-Based Development in Open Source Software Projects: A Data Driven Approach (Bachelor’s Thesis)" | Author: Levi Samuel Böhme | Format: 7 minutes talk + 2 minutes questions
-"T-Wise Sampling Operations on Binary Decision Diagrams (Bachelor’s Thesis)" | Author: Aaron Molt | Format: 7 minutes talk + 2 minutes questions
-"Analyzing the Impact of Typosquatting Attacks in Maven (Bachelor’s Thesis)" | Author: Finn Wilken | Format: 7 minutes talk + 2 minutes questions
-"Towards Large-Scale Variability Investigations in Nostr (Seminar Work)" | Author: Michael Kaiser | Format: 7 minutes talk + 2 minutes questions</description>
+        <description/>
         <persons/>
         <attachments/>
         <links/>
       </event>
-      <event guid="b2e979ff-9bea-58e8-b7f5-e783645b7f49" id="65">
+      <event guid="153da548-284f-5cdb-9bb5-21f59b3b7988" id="150">
+        <date>2026-02-26T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>00:09</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-150-extracting-knowledge-graphs-from-user-stories-using-langchai</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
+        <title>"Extracting Knowledge Graphs from User Stories Using LangChain (Master’s Thesis)"</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>7 minutes talk + 2 minutes questions</description>
+        <persons>
+          <person id="1">Thayna Camargo da Silva</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="2515d9c4-74aa-5419-94b6-33ca6001e0a5" id="151">
+        <date>2026-02-26T10:39:00+01:00</date>
+        <start>10:39</start>
+        <duration>00:09</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-151-requirely-a-tool-for-detecting-and-correcting-requirements-s</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
+        <title>"Requirely: A Tool for Detecting and Correcting Requirements Smells (Master’s Thesis)"</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>7 minutes talk + 2 minutes questions</description>
+        <persons>
+          <person id="1">Max Unterbusch</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="5477875d-62d5-5f6c-ba48-049157fb5ecf" id="152">
+        <date>2026-02-26T10:48:00+01:00</date>
+        <start>10:48</start>
+        <duration>00:09</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-152-engineering-and-selecting-machine-learning-features-for-feat</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
+        <title>"Engineering and Selecting Machine Learning Features for Feature Models (Master’s Thesis)"</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>7 minutes talk + 2 minutes questions</description>
+        <persons>
+          <person id="1">Raphael Dunkel</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="d28de898-0cfb-51fc-8651-58b2dafda58b" id="153">
+        <date>2026-02-26T10:57:00+01:00</date>
+        <start>10:57</start>
+        <duration>00:09</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-153-creation-and-evaluation-of-a-tool-for-visualizing-reachabili</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
+        <title>"Creation and Evaluation of a Tool for Visualizing Reachability Analyses in Software Libraries (Master’s Thesis)"</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>7 minutes talk + 2 minutes questions</description>
+        <persons>
+          <person id="1">Ramon Jasari</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="0c8e968f-dc3a-5da6-a2ab-a3d746303722" id="154">
+        <date>2026-02-26T11:06:00+01:00</date>
+        <start>11:06</start>
+        <duration>00:09</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-154-designing-and-validating-code-comprehension-tests-an-empiric</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
+        <title>"Designing and Validating Code Comprehension Tests: An Empirical Study on Task Design (Master’s Thesis)"</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>7 minutes talk + 2 minutes questions</description>
+        <persons>
+          <person id="1">Luisa Bartl</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="ead5547d-ad5d-59db-b833-42e0b84844c0" id="155">
+        <date>2026-02-26T11:15:00+01:00</date>
+        <start>11:15</start>
+        <duration>00:09</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-155-mining-bugs-in-linux-to-assess-the-effectiveness-of-automate</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
+        <title>"Mining Bugs in Linux to Assess the Effectiveness of Automated Variability Testing (Master’s Thesis)"</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>7 minutes talk + 2 minutes questions</description>
+        <persons>
+          <person id="1">Christopher Rau</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="91c34960-e94e-5804-b0f5-dda13d747f24" id="156">
+        <date>2026-02-26T11:24:00+01:00</date>
+        <start>11:24</start>
+        <duration>00:09</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-156-trunk-based-development-in-open-source-software-projects-a-d</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
+        <title>"Trunk-Based Development in Open Source Software Projects: A Data Driven Approach (Bachelor’s Thesis)"</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>7 minutes talk + 2 minutes questions</description>
+        <persons>
+          <person id="1">Levi Samuel Böhme</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="97ec4459-a254-50fb-a7f7-c039dcdde8c2" id="157">
+        <date>2026-02-26T11:33:00+01:00</date>
+        <start>11:33</start>
+        <duration>00:09</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-157-t-wise-sampling-operations-on-binary-decision-diagrams-bache</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
+        <title>"T-Wise Sampling Operations on Binary Decision Diagrams (Bachelor’s Thesis)"</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>7 minutes talk + 2 minutes questions</description>
+        <persons>
+          <person id="1">Aaron Molt</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="a138f07e-88d0-5d58-b10e-d7618187ee89" id="158">
+        <date>2026-02-26T11:42:00+01:00</date>
+        <start>11:42</start>
+        <duration>00:09</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-158-analyzing-the-impact-of-typosquatting-attacks-in-maven-bache</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
+        <title>"Analyzing the Impact of Typosquatting Attacks in Maven (Bachelor’s Thesis)"</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>7 minutes talk + 2 minutes questions</description>
+        <persons>
+          <person id="1">Finn Wilken</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="2edde337-6bac-5c05-ad4c-535dd23b2dfe" id="159">
+        <date>2026-02-26T11:51:00+01:00</date>
+        <start>11:51</start>
+        <duration>00:09</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-159-towards-large-scale-variability-investigations-in-nostr-semi</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/student-research-competition/</url>
+        <title>"Towards Large-Scale Variability Investigations in Nostr (Seminar Work)"</title>
+        <subtitle/>
+        <track slug="student-research-competition">Student Research Competition</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>7 minutes talk + 2 minutes questions</description>
+        <persons>
+          <person id="1">Michael Kaiser</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="d5b50abc-5a08-5cef-a08e-1ccf5c0e9037" id="118">
         <date>2026-02-26T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>01:30</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-65-session-software-comprehension</slug>
+        <slug>se2026-118-session-software-comprehension</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>Session: Software Comprehension</title>
         <subtitle/>
@@ -1731,22 +3428,110 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"How ML Practitioners Perceive Explainability: An Interview Study of Practices and Challenges" | Authors: Umm E Habiba, Mohammad Kasra Habib, Justus Bogner, Jonas Fritzsch, Stefan Wagner | Format: 17 minutes talk + 5 minutes questions
-"Investigating the Readability of Test Code: Combining Scientific and Practical View" | Authors: Dietmar Winkler, Pirmin Urbanke, Rudolf Ramler | Format: 17 minutes talk + 5 minutes questions
-"Providing Information About Implemented Algorithms Improves Program Comprehension: A Controlled Experiment" | Authors: Denis Neumüller, Alexander Raschke, Matthias Tichy | Format: 17 minutes talk + 5 minutes questions
-"Semantic Zoom and Mini-Maps for Software Cities" | Authors: Malte Hansen, Jens Bamberg, Noe Baumann, Wilhelm Hasselbring | Format: 17 minutes talk + 5 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Walid Maalej (University of Hamburg (DE))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
-      <event guid="93408506-e10e-544c-a092-ac71fe721307" id="78">
+      <event guid="4164a255-4c9d-5ec0-ad0a-544f6e7a2847" id="119">
+        <date>2026-02-26T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-119-how-ml-practitioners-perceive-explainability-an-interview-st</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"How ML Practitioners Perceive Explainability: An Interview Study of Practices and Challenges"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Umm E Habiba</person>
+          <person id="2">Mohammad Kasra Habib</person>
+          <person id="3">Justus Bogner</person>
+          <person id="4">Jonas Fritzsch</person>
+          <person id="5">Stefan Wagner</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="9b0e8d6d-80f6-56b1-ae24-97b4b65b1170" id="120">
+        <date>2026-02-26T13:52:00+01:00</date>
+        <start>13:52</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-120-investigating-the-readability-of-test-code-combining-scienti</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Investigating the Readability of Test Code: Combining Scientific and Practical View"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Dietmar Winkler</person>
+          <person id="2">Pirmin Urbanke</person>
+          <person id="3">Rudolf Ramler</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="b6059771-b366-58f2-8e10-583ed56118bc" id="121">
+        <date>2026-02-26T14:14:00+01:00</date>
+        <start>14:14</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-121-providing-information-about-implemented-algorithms-improves</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Providing Information About Implemented Algorithms Improves Program Comprehension: A Controlled Experiment"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Denis Neumüller</person>
+          <person id="2">Alexander Raschke</person>
+          <person id="3">Matthias Tichy</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="9b922824-f441-5099-b92c-ffe3cd8c9ec5" id="122">
+        <date>2026-02-26T14:36:00+01:00</date>
+        <start>14:36</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-122-semantic-zoom-and-mini-maps-for-software-cities</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Semantic Zoom and Mini-Maps for Software Cities"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Malte Hansen</person>
+          <person id="2">Jens Bamberg</person>
+          <person id="3">Noe Baumann</person>
+          <person id="4">Wilhelm Hasselbring</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="1e8d41ef-e41b-5da6-8d9a-54f8bcec5ded" id="163">
         <date>2026-02-26T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>02:00</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-78-presentations-of-the-nominees-for-the-dissertationspreis</slug>
+        <slug>se2026-163-presentations-of-the-nominees-for-the-dissertationspreis</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
         <title>Presentations of the nominees for the Dissertationspreis</title>
         <subtitle/>
@@ -1754,24 +3539,139 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Towards Managed Clone-and-Own: Automating Matching and Patching" | Author: Alexander Schultheiß | Format: 10 minutes talk + 10 minutes questions
-"Neural Bug Detection" | Author: Cedric Richter | Format: 10 minutes talk + 10 minutes questions
-"Unleashing the Potential of Configuration Counting for Product-Line Analyses" | Author: Chico Sundermann | Format: 10 minutes talk + 10 minutes questions
-"Functional Modeling of Cyber-Physical Systems" | Author: Imke Nachmann | Format: 10 minutes talk + 10 minutes questions
-"T-Reqs: A Conceptual Model &amp; Framework for Template-Based Requirements Quality Improvement in Space Engineering" | Author: Katharina Grosser | Format: 10 minutes talk + 10 minutes questions
-"Automatic Performance Modeling and Analysis of Configurable Scientific Software and Workflows" | Author: Larissa Schmid | Format: 10 minutes talk + 10 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Malte Lochau (University of Siegen (DE))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
-      <event guid="71e70bc0-95df-58ff-937e-85d247a8d995" id="79">
+      <event guid="99229302-72b2-559e-bb2c-e44e216b7ad0" id="164">
+        <date>2026-02-26T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>00:20</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-164-towards-managed-clone-and-own-automating-matching-and-patchi</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
+        <title>"Towards Managed Clone-and-Own: Automating Matching and Patching"</title>
+        <subtitle/>
+        <track slug="dissertationspreis">Dissertationspreis</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>10 minutes talk + 10 minutes questions</description>
+        <persons>
+          <person id="1">Alexander Schultheiß</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="1ce22c70-0a95-5c0d-ad13-db32915dbdcd" id="165">
+        <date>2026-02-26T15:50:00+01:00</date>
+        <start>15:50</start>
+        <duration>00:20</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-165-neural-bug-detection</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
+        <title>"Neural Bug Detection"</title>
+        <subtitle/>
+        <track slug="dissertationspreis">Dissertationspreis</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>10 minutes talk + 10 minutes questions</description>
+        <persons>
+          <person id="1">Cedric Richter</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="4a5d93e1-9960-5fd6-9d01-e234f95f2032" id="166">
+        <date>2026-02-26T16:10:00+01:00</date>
+        <start>16:10</start>
+        <duration>00:20</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-166-unleashing-the-potential-of-configuration-counting-for-produ</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
+        <title>"Unleashing the Potential of Configuration Counting for Product-Line Analyses"</title>
+        <subtitle/>
+        <track slug="dissertationspreis">Dissertationspreis</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>10 minutes talk + 10 minutes questions</description>
+        <persons>
+          <person id="1">Chico Sundermann</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="e9cccf8a-fbe0-52ae-81d5-0d522ecdc720" id="167">
+        <date>2026-02-26T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>00:20</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-167-functional-modeling-of-cyber-physical-systems</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
+        <title>"Functional Modeling of Cyber-Physical Systems"</title>
+        <subtitle/>
+        <track slug="dissertationspreis">Dissertationspreis</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>10 minutes talk + 10 minutes questions</description>
+        <persons>
+          <person id="1">Imke Nachmann</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="eb6d4749-386e-5355-b56c-3109940dbdc9" id="168">
+        <date>2026-02-26T16:50:00+01:00</date>
+        <start>16:50</start>
+        <duration>00:20</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-168-t-reqs-a-conceptual-model-framework-for-template-based-requi</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
+        <title>"T-Reqs: A Conceptual Model &amp; Framework for Template-Based Requirements Quality Improvement in Space Engineering"</title>
+        <subtitle/>
+        <track slug="dissertationspreis">Dissertationspreis</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>10 minutes talk + 10 minutes questions</description>
+        <persons>
+          <person id="1">Katharina Grosser</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="d11a61a1-3f28-5122-9ee8-d42e6d280747" id="169">
+        <date>2026-02-26T17:10:00+01:00</date>
+        <start>17:10</start>
+        <duration>00:20</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-169-automatic-performance-modeling-and-analysis-of-configurable</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
+        <title>"Automatic Performance Modeling and Analysis of Configurable Scientific Software and Workflows"</title>
+        <subtitle/>
+        <track slug="dissertationspreis">Dissertationspreis</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>10 minutes talk + 10 minutes questions</description>
+        <persons>
+          <person id="1">Larissa Schmid</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="59102d2f-a4f9-5b3e-9512-f0c97d78140d" id="170">
         <date>2026-02-26T17:30:00+01:00</date>
         <start>17:30</start>
         <duration>00:30</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-79-jury-session-closed</slug>
+        <slug>se2026-170-jury-session-closed</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/dissertationspreis/</url>
         <title>Jury Session (Closed)</title>
         <subtitle/>
@@ -1790,12 +3690,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
   </day>
   <day index="5" date="2026-02-27" start="2026-02-27T09:00:00+01:00" end="2026-02-28T08:59:00+01:00">
     <room name="Champions Lounge" slug="champions-lounge">
-      <event guid="09fa1ee3-55c8-50a0-8e74-e99c4eecf9a3" id="84">
+      <event guid="7e3af271-aefa-5d78-bca1-63846e05b2e9" id="175">
         <date>2026-02-27T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>01:00</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-84-scientific-keynote-chunyang-chen</slug>
+        <slug>se2026-175-scientific-keynote-chunyang-chen</slug>
         <url>https://se2026.inf.unibe.ch/en/program/keynotes/chunyang-chen/</url>
         <title>Scientific Keynote: Chunyang Chen</title>
         <subtitle/>
@@ -1811,12 +3711,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <attachments/>
         <links/>
       </event>
-      <event guid="cc73c970-097c-5c4d-9854-9c77f48a2d67" id="87">
+      <event guid="9e4d1cbf-4f3b-5902-9e27-638a90dea711" id="182">
         <date>2026-02-27T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>01:30</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-87-session-llms-ai</slug>
+        <slug>se2026-182-session-llms-ai</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>Session: LLMs &amp; AI</title>
         <subtitle/>
@@ -1824,22 +3724,111 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Can Developers Prompt? A Controlled Experiment for Code Documentation Generation" | Authors: Hans-Alexander Kruse, Tim Puhlfürß, Walid Maalej | Format: 17 minutes talk + 5 minutes questions
-"Don’t Settle for the First! How Many GitHub Copilot Solutions Should You Check?" | Authors: Julian Oertel, Jil Klünder, Regina Hebig | Format: 17 minutes talk + 5 minutes questions
-"Explaining GitHub Actions Failures with Large Language Models: Challenges, Insights, and Limitations – Summary" | Authors: Pablo Valenzuela-Toledo, Chuyue Wu, Sandro Hernández, Alexander Boll, Roman Machacek, Sebastiano Panichella, Timo Kehrer | Format: 17 minutes talk + 5 minutes questions
-"Model Cards Revisited: Bridging the Gap Between Theory and Practice for Ethical AI Requirements" | Authors: Tim Puhlfürß, Julia Butzke, Walid Maalej | Format: 17 minutes talk + 5 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Andrea Stocco (TU Munich (DE))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
-      <event guid="0b5fccfa-8271-57cf-93b9-c28a921ff9d6" id="89">
+      <event guid="c965c50d-c448-5b91-a3d1-502ddb495158" id="183">
+        <date>2026-02-27T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>00:22</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-183-can-developers-prompt-a-controlled-experiment-for-code-docum</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Can Developers Prompt? A Controlled Experiment for Code Documentation Generation"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Hans-Alexander Kruse</person>
+          <person id="2">Tim Puhlfürß</person>
+          <person id="3">Walid Maalej</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="9c0880ff-7357-5447-9a5f-76d03cbf62ef" id="184">
+        <date>2026-02-27T10:52:00+01:00</date>
+        <start>10:52</start>
+        <duration>00:22</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-184-dont-settle-for-the-first-how-many-github-copilot-solutions</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Don’t Settle for the First! How Many GitHub Copilot Solutions Should You Check?"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Julian Oertel</person>
+          <person id="2">Jil Klünder</person>
+          <person id="3">Regina Hebig</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="bcb078e0-cbe2-5c00-9f20-44f7d45c6c1c" id="185">
+        <date>2026-02-27T11:14:00+01:00</date>
+        <start>11:14</start>
+        <duration>00:22</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-185-explaining-github-actions-failures-with-large-language-model</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Explaining GitHub Actions Failures with Large Language Models: Challenges, Insights, and Limitations – Summary"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Pablo Valenzuela-Toledo</person>
+          <person id="2">Chuyue Wu</person>
+          <person id="3">Sandro Hernández</person>
+          <person id="4">Alexander Boll</person>
+          <person id="5">Roman Machacek</person>
+          <person id="6">Sebastiano Panichella</person>
+          <person id="7">Timo Kehrer</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="058f73bc-d1b7-5570-9566-36c528fe37b4" id="186">
+        <date>2026-02-27T11:36:00+01:00</date>
+        <start>11:36</start>
+        <duration>00:22</duration>
+        <room>Champions Lounge</room>
+        <slug>se2026-186-model-cards-revisited-bridging-the-gap-between-theory-and-pr</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Model Cards Revisited: Bridging the Gap Between Theory and Practice for Ethical AI Requirements"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Tim Puhlfürß</person>
+          <person id="2">Julia Butzke</person>
+          <person id="3">Walid Maalej</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="2513f824-7aea-58fa-a078-2ddfb4d91fb5" id="192">
         <date>2026-02-27T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>00:15</duration>
         <room>Champions Lounge</room>
-        <slug>se2026-89-closing</slug>
+        <slug>se2026-192-closing</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Closing</title>
         <subtitle/>
@@ -1856,12 +3845,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
       </event>
     </room>
     <room name="Champions Lounge (Catering Area)" slug="champions-lounge-catering-area">
-      <event guid="b4b12ddf-7033-5843-8397-f25f5f8e6b70" id="85">
+      <event guid="72323893-a837-572e-8f8b-8637b2318b2f" id="176">
         <date>2026-02-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge (Catering Area)</room>
-        <slug>se2026-85-coffee-break</slug>
+        <slug>se2026-176-coffee-break</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Coffee Break</title>
         <subtitle/>
@@ -1874,12 +3863,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <attachments/>
         <links/>
       </event>
-      <event guid="65411563-cf6d-5f36-9f0e-1dc3e5d86b7e" id="93">
+      <event guid="cbd168a5-cd05-5769-ad5e-1bbf6451251d" id="196">
         <date>2026-02-27T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
         <room>Champions Lounge (Catering Area)</room>
-        <slug>se2026-93-lunch</slug>
+        <slug>se2026-196-lunch</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Lunch</title>
         <subtitle/>
@@ -1892,12 +3881,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <attachments/>
         <links/>
       </event>
-      <event guid="d599118b-91c3-5228-9f0b-e48fa6c495ee" id="90">
+      <event guid="661fbc5b-0a46-5f9d-bc87-4533ba81d76d" id="193">
         <date>2026-02-27T12:15:00+01:00</date>
         <start>12:15</start>
         <duration>01:15</duration>
         <room>Champions Lounge (Catering Area)</room>
-        <slug>se2026-90-lunch</slug>
+        <slug>se2026-193-lunch</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Lunch</title>
         <subtitle/>
@@ -1912,12 +3901,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
       </event>
     </room>
     <room name="Champions Lounge (Reception Area) (3 rd Floor)" slug="champions-lounge-reception-area-3-rd-floor">
-      <event guid="48b1fe9e-0938-56cf-b742-436a00de4be7" id="83">
+      <event guid="3bb93027-0c36-5f20-81c2-a950930ce5a1" id="174">
         <date>2026-02-27T08:30:00+01:00</date>
         <start>08:30</start>
         <duration>00:30</duration>
         <room>Champions Lounge (Reception Area) (3 rd Floor)</room>
-        <slug>se2026-83-registration</slug>
+        <slug>se2026-174-registration</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Registration</title>
         <subtitle/>
@@ -1930,12 +3919,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <attachments/>
         <links/>
       </event>
-      <event guid="711ad745-ba2a-5368-8d75-873a182d9918" id="91">
+      <event guid="4d30fe4d-83c5-5c30-b336-11681caead91" id="194">
         <date>2026-02-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
         <room>Champions Lounge (Reception Area) (3 rd Floor)</room>
-        <slug>se2026-91-registration</slug>
+        <slug>se2026-194-registration</slug>
         <url>https://se2026.inf.unibe.ch/en/program/schedule/</url>
         <title>Registration</title>
         <subtitle/>
@@ -1950,12 +3939,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
       </event>
     </room>
     <room name="Sky Lounge 1" slug="sky-lounge-1">
-      <event guid="f0afbcba-aaa1-59e0-a270-4e43a6d06135" id="92">
+      <event guid="3d04d3b8-f470-5474-b4bd-72aad01b55d9" id="195">
         <date>2026-02-27T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>01:30</duration>
         <room>Sky Lounge 1</room>
-        <slug>se2026-92-seuh</slug>
+        <slug>se2026-195-seuh</slug>
         <url>https://se2026.inf.unibe.ch/en/seuh/</url>
         <title>SEUH</title>
         <subtitle/>
@@ -1972,12 +3961,12 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
       </event>
     </room>
     <room name="Sky Lounge 2" slug="sky-lounge-2">
-      <event guid="b711232b-b489-5c2b-9547-1e8fa2b97aa1" id="86">
+      <event guid="c2bf2293-ac23-5fc2-9b3e-94087c84263f" id="177">
         <date>2026-02-27T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>01:30</duration>
         <room>Sky Lounge 2</room>
-        <slug>se2026-86-session-gui-level-analysis-requirements</slug>
+        <slug>se2026-177-session-gui-level-analysis-requirements</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>Session: GUI-level Analysis &amp; Requirements</title>
         <subtitle/>
@@ -1985,24 +3974,108 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Automated Soap Opera Testing Directed by LLMs and Scenario Knowledge" | Author: Yanqi Su | Format: 17 minutes talk + 5 minutes questions
-"GUing: A Mobile GUI Search Engine using a Vision-Language Model" | Authors: Jialiang Wei, Anne-Lise Courbis, Thomas Lambolais, Binbin Xu, Pierre Louis Bernard, Gerard Dray, Walid Maalej | Format: 17 minutes talk + 5 minutes questions
-"Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Repair" | Author: Kai Huang | Format: 17 minutes talk + 5 minutes questions
-"Parametric Falsification of Many Probabilistic Requirements under Flakiness" | Authors: Matteo Camilli, Raffaela Mirandola | Format: 17 minutes talk + 5 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Andreas Metzger (University of Duisburg-Essen (DE))</person>
         </persons>
         <attachments/>
         <links/>
       </event>
+      <event guid="fb0e5594-b0f5-58d1-a77b-785dc9c017d1" id="178">
+        <date>2026-02-27T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-178-automated-soap-opera-testing-directed-by-llms-and-scenario-k</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Automated Soap Opera Testing Directed by LLMs and Scenario Knowledge"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Yanqi Su</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="acd35cca-00e7-5ce0-a1e9-fc184444d536" id="179">
+        <date>2026-02-27T10:52:00+01:00</date>
+        <start>10:52</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-179-guing-a-mobile-gui-search-engine-using-a-vision-language-mod</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"GUing: A Mobile GUI Search Engine using a Vision-Language Model"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Jialiang Wei</person>
+          <person id="2">Anne-Lise Courbis</person>
+          <person id="3">Thomas Lambolais</person>
+          <person id="4">Binbin Xu</person>
+          <person id="5">Pierre Louis Bernard</person>
+          <person id="6">Gerard Dray</person>
+          <person id="7">Walid Maalej</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="34acfea0-f9ef-5226-9cb0-02231e053d57" id="180">
+        <date>2026-02-27T11:14:00+01:00</date>
+        <start>11:14</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-180-seeing-is-fixing-cross-modal-reasoning-with-multimodal-llms</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Repair"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Kai Huang</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="633644c2-a479-5521-89c3-e6fa57aca14c" id="181">
+        <date>2026-02-27T11:36:00+01:00</date>
+        <start>11:36</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 2</room>
+        <slug>se2026-181-parametric-falsification-of-many-probabilistic-requirements</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Parametric Falsification of Many Probabilistic Requirements under Flakiness"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Matteo Camilli</person>
+          <person id="2">Raffaela Mirandola</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
     </room>
     <room name="Sky Lounge 3" slug="sky-lounge-3">
-      <event guid="d7652916-4983-54fc-a7c8-f8bd437fdc73" id="88">
+      <event guid="bec9dc0f-038a-5b6f-9271-71d257687e32" id="187">
         <date>2026-02-27T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>01:30</duration>
         <room>Sky Lounge 3</room>
-        <slug>se2026-88-session-security-privacy</slug>
+        <slug>se2026-187-session-security-privacy</slug>
         <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
         <title>Session: Security &amp; Privacy</title>
         <subtitle/>
@@ -2010,12 +4083,94 @@ Continuation Reception | Start: 19:30 | Room: Foyer</description>
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>"Contextual Privacy Policies for Mobile Applications and An Approach Toward Automated Generation" | Authors: Zhen Tao, Shidong Pan | Format: 17 minutes talk + 5 minutes questions
-"SecCityVR: Visualization and Collaborative Exploration of Software Vulnerabilities in Virtual Reality" | Authors: Dennis Wüppelmann, Enes Yigitbas | Format: 17 minutes talk + 5 minutes questions
-"Summary of Large Language Models for In-File Vulnerability Localization Can Be “Lost in the End” (FSE2025)" | Authors: Francesco Sovrano, Alberto Bacchelli | Format: 17 minutes talk + 5 minutes questions
-"Using Analysis Coupling to Detect Information Flow Security Vulnerabilities" | Authors: Frederik Reiche, Ralf Reussner, Robert Heinrich | Format: 17 minutes talk + 5 minutes questions</description>
+        <description/>
         <persons>
           <person id="1">Dominik Helm (TU Darmstadt (DE))</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="1a305982-05fb-500c-8c65-037a3579f931" id="188">
+        <date>2026-02-27T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-188-contextual-privacy-policies-for-mobile-applications-and-an-a</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Contextual Privacy Policies for Mobile Applications and An Approach Toward Automated Generation"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Zhen Tao</person>
+          <person id="2">Shidong Pan</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="f500c2e3-137d-5680-abfb-aab135ca3e9d" id="189">
+        <date>2026-02-27T10:52:00+01:00</date>
+        <start>10:52</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-189-seccityvr-visualization-and-collaborative-exploration-of-sof</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"SecCityVR: Visualization and Collaborative Exploration of Software Vulnerabilities in Virtual Reality"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Dennis Wüppelmann</person>
+          <person id="2">Enes Yigitbas</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="81a256bf-ce97-5fec-b1aa-eab323ef1efb" id="190">
+        <date>2026-02-27T11:14:00+01:00</date>
+        <start>11:14</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-190-summary-of-large-language-models-for-in-file-vulnerability-l</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Summary of Large Language Models for In-File Vulnerability Localization Can Be “Lost in the End” (FSE2025)"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Francesco Sovrano</person>
+          <person id="2">Alberto Bacchelli</person>
+        </persons>
+        <attachments/>
+        <links/>
+      </event>
+      <event guid="df542dbe-a36c-5086-8925-fe22e7d8b730" id="191">
+        <date>2026-02-27T11:36:00+01:00</date>
+        <start>11:36</start>
+        <duration>00:22</duration>
+        <room>Sky Lounge 3</room>
+        <slug>se2026-191-using-analysis-coupling-to-detect-information-flow-security</slug>
+        <url>https://se2026.inf.unibe.ch/en/tracks/scientific-program/</url>
+        <title>"Using Analysis Coupling to Detect Information Flow Security Vulnerabilities"</title>
+        <subtitle/>
+        <track slug="scientific-program">Scientific Program (SE)</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>17 minutes talk + 5 minutes questions</description>
+        <persons>
+          <person id="1">Frederik Reiche</person>
+          <person id="2">Ralf Reussner</person>
+          <person id="3">Robert Heinrich</person>
         </persons>
         <attachments/>
         <links/>

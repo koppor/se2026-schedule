@@ -52,6 +52,15 @@ def parse_time_minutes(t):
     return int(h) * 60 + int(m)
 
 
+def add_minutes_to_time(time_str, minutes):
+    total = parse_time_minutes(time_str) + minutes
+    return f"{total // 60:02d}:{total % 60:02d}"
+
+
+def minutes_to_duration(minutes):
+    return f"{minutes // 60:02d}:{minutes % 60:02d}"
+
+
 def compute_duration(start_str, end_str):
     start = parse_time_minutes(start_str)
     end = parse_time_minutes(end_str)
@@ -68,6 +77,52 @@ def get_strong_label(element):
 
 def clean_text(text):
     return re.sub(r"\s+", " ", text).strip()
+
+
+def parse_format_minutes(format_text):
+    """Parse a format string like '17 minutes talk + 5 minutes questions' into total minutes."""
+    total = 0
+    found = False
+    for m in re.finditer(r"(\d+)(?:-(\d+))?\s+minutes?", format_text, re.IGNORECASE):
+        found = True
+        low = int(m.group(1))
+        high = int(m.group(2)) if m.group(2) else low
+        total += high
+    return total if found else 0
+
+
+def parse_sub_items(items_container):
+    """Parse schedule__group-item-items div into a list of dicts."""
+    sub_items = []
+    for item in items_container.find_all("div", class_="schedule__group-item-item"):
+        h1_item = item.find("h1")
+        if not h1_item:
+            continue
+        title = clean_text(h1_item.get_text(separator=" ", strip=True))
+        persons = []
+        format_text = ""
+        duration_minutes = 0
+        for p in item.find_all("p"):
+            label = get_strong_label(p)
+            full_text = clean_text(p.get_text(separator=" ", strip=True))
+            if label:
+                value = full_text[len(label):].strip()
+                label_lower = label.lower().rstrip(":")
+                if label_lower in ("speaker", "speakers", "author", "authors"):
+                    for name in re.split(r",\s*(?=[A-Z])", value):
+                        name = name.strip()
+                        if name:
+                            persons.append(name)
+                elif label_lower == "format":
+                    format_text = value
+                    duration_minutes = parse_format_minutes(value)
+        sub_items.append({
+            "title": title,
+            "persons": persons,
+            "format_text": format_text,
+            "duration_minutes": duration_minutes,
+        })
+    return sub_items
 
 
 def parse_item_description(desc, item_div=None):
@@ -121,20 +176,6 @@ def parse_item_description(desc, item_div=None):
                     name = clean_text(li.get_text(separator=" ", strip=True))
                 if name:
                     result["persons"].append(name)
-
-    items_container = item_div.find("div", class_="schedule__group-item-items") if item_div else None
-    if items_container:
-        for item in items_container.find_all("div", class_="schedule__group-item-item"):
-            h1_item = item.find("h1")
-            if not h1_item:
-                continue
-            item_title = clean_text(h1_item.get_text(separator=" ", strip=True))
-            item_info_parts = [item_title]
-            for p in item.find_all("p"):
-                ptxt = clean_text(p.get_text(separator=" ", strip=True))
-                if ptxt:
-                    item_info_parts.append(ptxt)
-            description_parts.append(" | ".join(item_info_parts))
 
     result["description"] = "\n".join(description_parts)
     return result
@@ -276,6 +317,49 @@ def extract_events(inner_soup):
                 }
                 events.append(event)
                 event_id += 1
+
+                items_container = item_div.find("div", class_="schedule__group-item-items")
+                if items_container:
+                    sub_items = parse_sub_items(items_container)
+                    if sub_items:
+                        session_total_minutes = parse_time_minutes(end_time) - parse_time_minutes(start_time)
+                        total_known = sum(si["duration_minutes"] for si in sub_items)
+                        if total_known == 0:
+                            even_minutes = session_total_minutes // len(sub_items)
+                            for si in sub_items:
+                                si["duration_minutes"] = even_minutes
+
+                        sub_start = start_time
+                        for si in sub_items:
+                            sub_dur_min = si["duration_minutes"]
+                            sub_duration = minutes_to_duration(sub_dur_min)
+                            sub_slug = make_event_slug("se2026", event_id, si["title"])
+                            sub_guid = make_guid(sub_slug)
+                            sub_dedup = (day_date, sub_start, si["title"], room)
+                            if sub_dedup not in seen:
+                                seen.add(sub_dedup)
+                                sub_event = {
+                                    "id": event_id,
+                                    "guid": sub_guid,
+                                    "slug": sub_slug,
+                                    "url": event_url,
+                                    "day_date": day_date,
+                                    "day_index": DAY_INFO[day_key]["index"],
+                                    "start": sub_start,
+                                    "duration": sub_duration,
+                                    "title": si["title"],
+                                    "room": room,
+                                    "track_slug": track_slug,
+                                    "track_name": track_name,
+                                    "type": event_type,
+                                    "language": language,
+                                    "persons": si["persons"],
+                                    "abstract": "",
+                                    "description": si["format_text"],
+                                }
+                                events.append(sub_event)
+                                event_id += 1
+                            sub_start = add_minutes_to_time(sub_start, sub_dur_min)
 
     return events
 
