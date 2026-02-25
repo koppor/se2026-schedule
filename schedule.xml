@@ -54,7 +54,7 @@
   </tracks>
   <day index="1" date="2026-02-23" start="2026-02-23T09:00:00+01:00" end="2026-02-24T08:59:00+01:00">
     <room name="4.61 Piazza" slug="461-piazza">
-      <event guid="42468b49-d7c1-593b-b1d4-3380616a1e62" id="5">
+      <event guid="fba9ba6a-4fce-5d6f-8bdd-96dfc3f3ae02" id="5">
         <date>2026-02-23T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -72,7 +72,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="08d204f2-6087-5f80-881f-3de5e37aa63c" id="7">
+      <event guid="71767920-3e80-5772-82dc-35a6eb0e262c" id="7">
         <date>2026-02-23T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -90,7 +90,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b4bf22e1-6591-503d-8ffe-d222455e141e" id="2">
+      <event guid="e6fa5ab1-7703-5020-8a3e-693363be05a6" id="2">
         <date>2026-02-23T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -110,7 +110,7 @@
       </event>
     </room>
     <room name="5.55 Raum L" slug="555-raum-l">
-      <event guid="d6aad721-2da2-554e-86a8-d32d01214317" id="5">
+      <event guid="3d5f13fe-ace8-514d-8950-2ece089ba97d" id="5">
         <date>2026-02-23T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -128,7 +128,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b2f6181e-6022-5488-8020-31a5c061fb7a" id="7">
+      <event guid="aa2889f2-46e1-583d-838c-2feeb13ce911" id="7">
         <date>2026-02-23T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -146,7 +146,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="1e6f140d-8d6b-55c2-8846-0e06669e9d15" id="12">
+      <event guid="a14e1a6d-d758-53c7-a068-939b2d588112" id="12">
         <date>2026-02-23T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>01:30</duration>
@@ -169,7 +169,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d6aad721-2da2-554e-86a8-d32d01214317" id="2">
+      <event guid="ff64085e-0292-528f-8acc-56c509e7e5b2" id="2">
         <date>2026-02-23T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -187,7 +187,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="7118116c-2890-5ae3-9b9b-319ac49dda77" id="13">
+      <event guid="219cae06-012a-5ed6-984b-5874487eaa08" id="13">
         <date>2026-02-23T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>01:30</duration>
@@ -212,7 +212,7 @@
       </event>
     </room>
     <room name="5.58 Raum L+" slug="558-raum-l">
-      <event guid="f466812c-e07b-52d3-8d44-f85c9520bbf9" id="4">
+      <event guid="16480929-6055-583f-a3a7-29df0553fbce" id="4">
         <date>2026-02-23T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>01:00</duration>
@@ -233,7 +233,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5e865215-e031-500c-881e-d930983458d7" id="5">
+      <event guid="b1e6157b-9436-5505-b7a3-f27ed9792636" id="5">
         <date>2026-02-23T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -251,7 +251,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="feb952db-bf0d-5f06-8c9e-07dd8554630e" id="6">
+      <event guid="9f9d2316-4d75-5a91-ab64-e661a1fbefb0" id="6">
         <date>2026-02-23T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>01:30</duration>
@@ -272,7 +272,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="980c4f7b-f54a-5517-b1e5-3adb86691d7f" id="7">
+      <event guid="ff3ec53d-bd21-5a66-be45-579f171ae93c" id="7">
         <date>2026-02-23T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -290,7 +290,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5b7f7abd-1f50-5f15-8e8f-134dc9109bf1" id="1">
+      <event guid="125f86fb-c029-54fa-a002-524f760f563a" id="1">
         <date>2026-02-23T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>01:30</duration>
@@ -311,7 +311,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5e865215-e031-500c-881e-d930983458d7" id="2">
+      <event guid="17712fe1-527a-571d-a5fd-05e3f464715b" id="2">
         <date>2026-02-23T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -329,7 +329,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5fb992dc-6537-5800-ad0a-38761442c08b" id="3">
+      <event guid="327c0a92-f2e5-52de-849e-0c91dd98e85d" id="3">
         <date>2026-02-23T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>01:30</duration>
@@ -352,7 +352,7 @@
       </event>
     </room>
     <room name="6.61 Raum L+" slug="661-raum-l">
-      <event guid="9798ecc8-db8c-536d-8f46-9c241d79f0bd" id="8">
+      <event guid="3505e8eb-0898-593f-88d9-4018bd62e1f2" id="8">
         <date>2026-02-23T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>01:00</duration>
@@ -376,7 +376,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="354fb82b-2791-5598-879b-d768df2ff130" id="5">
+      <event guid="fcfddd6e-4b9d-505c-acdb-dd04cd8764a8" id="5">
         <date>2026-02-23T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -394,7 +394,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="efdd7fca-35fc-5de0-80bf-b08dc1bb7659" id="9">
+      <event guid="4efbc0e0-e783-5b72-9cbc-fc3ce4140d63" id="9">
         <date>2026-02-23T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>01:30</duration>
@@ -418,7 +418,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="af0ec4e9-5f1b-5391-b10a-d7a4fd5c4944" id="7">
+      <event guid="a6d6fce7-4dc2-5930-a4e0-393f3a52ee98" id="7">
         <date>2026-02-23T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -436,7 +436,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="1200da59-da7f-5972-9979-2f45be78e193" id="10">
+      <event guid="ade22791-5247-5280-9df5-5e1b0862a3d6" id="10">
         <date>2026-02-23T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>01:30</duration>
@@ -460,7 +460,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="354fb82b-2791-5598-879b-d768df2ff130" id="2">
+      <event guid="34ab3437-961a-5cac-bf91-b91c44a11637" id="2">
         <date>2026-02-23T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -478,7 +478,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="fbf45824-9a47-5e62-b27d-ce259e632b13" id="11">
+      <event guid="fb9984be-f880-5766-b977-e59398f17775" id="11">
         <date>2026-02-23T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>02:00</duration>
@@ -504,7 +504,7 @@
       </event>
     </room>
     <room name="UniS" slug="unis">
-      <event guid="06779459-8ef1-53d6-97d4-1cc64e0c4ca8" id="5">
+      <event guid="f27c661c-9f49-56a9-8d9b-48a328f3813e" id="5">
         <date>2026-02-23T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -522,7 +522,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="3f4f2aa4-932f-5ac7-8a53-47f0ee640b26" id="7">
+      <event guid="ba9ccf98-0555-5f35-b0fd-c91f300b1578" id="7">
         <date>2026-02-23T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -540,7 +540,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="06779459-8ef1-53d6-97d4-1cc64e0c4ca8" id="2">
+      <event guid="c19518b4-33bf-5625-8d2e-5e91390e54b4" id="2">
         <date>2026-02-23T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -562,7 +562,7 @@
   </day>
   <day index="2" date="2026-02-24" start="2026-02-24T09:00:00+01:00" end="2026-02-25T08:59:00+01:00">
     <room name="4.61 Piazza" slug="461-piazza">
-      <event guid="741c1282-5337-5a06-8bcd-d23b562fc922" id="15">
+      <event guid="5052f04f-11fc-5fe1-9354-9ff92e8129ec" id="15">
         <date>2026-02-24T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -580,7 +580,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="08d204f2-6087-5f80-881f-3de5e37aa63c" id="17">
+      <event guid="06e0c8f9-f801-5f79-bf55-77ed325d0928" id="17">
         <date>2026-02-24T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -598,7 +598,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="0925ef71-f840-54af-ab3f-323cff56fd31" id="19">
+      <event guid="51d40012-6ffd-5c16-8eeb-18ec61930ac4" id="19">
         <date>2026-02-24T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -618,7 +618,7 @@
       </event>
     </room>
     <room name="5.20 Raum L" slug="520-raum-l">
-      <event guid="59c99e2c-7141-5e0c-93cd-2fb73ef623b5" id="14">
+      <event guid="621ceec3-ff12-5c59-b1ee-1f9beebd8e1a" id="14">
         <date>2026-02-24T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>01:00</duration>
@@ -641,7 +641,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="1cfc27b5-42fd-5196-bdd5-e1ce7a44fa14" id="15">
+      <event guid="ea608a28-35ed-52b9-bad8-621531d98565" id="15">
         <date>2026-02-24T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -659,7 +659,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5857d9b9-f3db-59e0-aec6-44bdd88e6497" id="16">
+      <event guid="bac07f68-504d-5400-a1a4-21cc9a28230b" id="16">
         <date>2026-02-24T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>01:30</duration>
@@ -682,7 +682,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="1628d46b-bc0d-5b09-a367-6c6488b3f8bd" id="17">
+      <event guid="f6058966-9d88-51c8-baf7-ef2b2a655ec0" id="17">
         <date>2026-02-24T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -700,7 +700,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="132695e1-4b61-5573-9ff6-b8fe118413ad" id="18">
+      <event guid="87702f0e-7452-558c-aa03-e55b633bc1b0" id="18">
         <date>2026-02-24T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>01:30</duration>
@@ -723,7 +723,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="1cfc27b5-42fd-5196-bdd5-e1ce7a44fa14" id="19">
+      <event guid="4403eef1-a2f2-5664-9069-267a2cb73222" id="19">
         <date>2026-02-24T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -741,7 +741,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="addee960-d479-50eb-bb77-8b0230de0f3d" id="20">
+      <event guid="fd49fb30-9d28-5df4-b8d0-fe9e1d92947d" id="20">
         <date>2026-02-24T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>01:30</duration>
@@ -766,7 +766,7 @@
       </event>
     </room>
     <room name="5.55 Raum L" slug="555-raum-l">
-      <event guid="a9b93dcf-ebee-58b4-bbbb-d95d7b345d95" id="23">
+      <event guid="14a49874-419d-5fd0-af45-003c70060e02" id="23">
         <date>2026-02-24T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>01:00</duration>
@@ -789,7 +789,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d6aad721-2da2-554e-86a8-d32d01214317" id="15">
+      <event guid="f18f282a-6e03-5eca-a25c-8cbd3e9beea9" id="15">
         <date>2026-02-24T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -807,7 +807,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="758e8554-2871-5fd5-8373-95e775b2731f" id="24">
+      <event guid="664d6299-a53f-5f1b-b9fa-35bcb8738a7a" id="24">
         <date>2026-02-24T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>01:30</duration>
@@ -830,7 +830,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b2f6181e-6022-5488-8020-31a5c061fb7a" id="17">
+      <event guid="9d8733a2-cd2d-567f-90e9-7de30c47ba1b" id="17">
         <date>2026-02-24T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -848,7 +848,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d6aad721-2da2-554e-86a8-d32d01214317" id="19">
+      <event guid="2bbc26b9-743e-5ac0-bcdd-1b5e417e7f0f" id="19">
         <date>2026-02-24T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -868,7 +868,7 @@
       </event>
     </room>
     <room name="5.58 Raum L+" slug="558-raum-l">
-      <event guid="97bde574-f3c0-5b08-a602-e02c2e7ad412" id="25">
+      <event guid="85dd07a2-2093-53bf-940f-a9abedf6558a" id="25">
         <date>2026-02-24T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>01:00</duration>
@@ -889,7 +889,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5e865215-e031-500c-881e-d930983458d7" id="15">
+      <event guid="1f044d1c-1d0e-56a1-a070-8dfd61600968" id="15">
         <date>2026-02-24T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -907,7 +907,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="cc6e38df-a729-5190-ba76-e3668500703b" id="26">
+      <event guid="1e130974-d0f8-5c67-b8c0-8c2089b717ab" id="26">
         <date>2026-02-24T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>01:30</duration>
@@ -928,7 +928,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="980c4f7b-f54a-5517-b1e5-3adb86691d7f" id="17">
+      <event guid="f765dd94-060f-55b6-8e2a-ac2ca96e43fe" id="17">
         <date>2026-02-24T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -946,7 +946,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="0b366288-c051-54be-921c-da1b0427d410" id="21">
+      <event guid="1f04a8c8-da0b-5d8b-b9c2-9a8dc036afbf" id="21">
         <date>2026-02-24T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>01:30</duration>
@@ -968,7 +968,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5e865215-e031-500c-881e-d930983458d7" id="19">
+      <event guid="10baa86e-47da-536d-bbf2-7ef8faa708cd" id="19">
         <date>2026-02-24T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -986,7 +986,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="0b0d7092-e7cc-5a2b-b48e-9a4616abdfdc" id="22">
+      <event guid="4e3d2457-20ba-5874-8d24-a7c37d16539c" id="22">
         <date>2026-02-24T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>01:30</duration>
@@ -1010,7 +1010,7 @@
       </event>
     </room>
     <room name="UniS" slug="unis">
-      <event guid="06779459-8ef1-53d6-97d4-1cc64e0c4ca8" id="15">
+      <event guid="b2cafc4b-61cb-576b-91f0-1f5115c6e787" id="15">
         <date>2026-02-24T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -1028,7 +1028,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="9d7189f9-9fcb-533f-8104-dde7450f34f1" id="17">
+      <event guid="abb7808f-575b-521e-8f87-1babc27bf35e" id="17">
         <date>2026-02-24T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -1046,7 +1046,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="06779459-8ef1-53d6-97d4-1cc64e0c4ca8" id="19">
+      <event guid="aa405d1b-3db0-59b1-9132-3935dcf0b880" id="19">
         <date>2026-02-24T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -1068,7 +1068,7 @@
   </day>
   <day index="3" date="2026-02-25" start="2026-02-25T09:00:00+01:00" end="2026-02-26T08:59:00+01:00">
     <room name="Champions Lounge" slug="champions-lounge">
-      <event guid="f5d64251-6f06-581c-95f5-a8abf96b42a4" id="27">
+      <event guid="7f79de03-82cd-541e-b794-d8164dbbb0af" id="27">
         <date>2026-02-25T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>00:05</duration>
@@ -1088,7 +1088,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="3ccaa447-af4f-5b73-912e-4be25997d465" id="28">
+      <event guid="8bb414bc-8f47-5f0f-a2f4-cc39fbc4930e" id="28">
         <date>2026-02-25T09:05:00+01:00</date>
         <start>09:05</start>
         <duration>00:55</duration>
@@ -1109,7 +1109,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="ca2ea948-354f-55c5-bfad-297f8ba4408e" id="29">
+      <event guid="7ef797be-e9ab-5c07-ad86-7f5983349df4" id="29">
         <date>2026-02-25T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -1127,7 +1127,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="351049c2-f97c-57b8-a57d-8864c9e91505" id="34">
+      <event guid="78e53368-26f2-5ef1-84c6-fdcd7172307b" id="34">
         <date>2026-02-25T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
@@ -1147,7 +1147,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="fec93265-cd61-5ef2-a9e2-e0c09e054f5e" id="35">
+      <event guid="1add2d39-3e0a-5e39-8b0e-2d5aed0651c9" id="35">
         <date>2026-02-25T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
@@ -1172,7 +1172,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d7e2e106-9dd3-5e22-bc59-261e9c9f056a" id="36">
+      <event guid="a50ca421-ba9d-573a-92ca-67434f2432c4" id="36">
         <date>2026-02-25T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
@@ -1194,7 +1194,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="c8cf136e-f43d-5bc7-bb22-f048acb0ace0" id="37">
+      <event guid="bb2c695c-4b7e-5a5b-84a6-c55d635eb6ff" id="37">
         <date>2026-02-25T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
@@ -1220,7 +1220,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="1e83d0c7-9dc7-5378-b7ad-9fba42ea12ea" id="73">
+      <event guid="0236b458-0003-55f5-a2cf-43e2d1703a3c" id="73">
         <date>2026-02-25T11:40:00+01:00</date>
         <start>11:40</start>
         <duration>00:25</duration>
@@ -1241,7 +1241,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="84c3208d-0c94-51d5-afb2-bc985da71438" id="42">
+      <event guid="fbd71220-7f7c-5863-bcd8-6b175cb343f4" id="42">
         <date>2026-02-25T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -1259,7 +1259,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="90757fb1-7add-5333-ab59-e603e14abf2f" id="47">
+      <event guid="8262a7ac-d2d8-5171-b06d-a796eca07b1a" id="47">
         <date>2026-02-25T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:22</duration>
@@ -1280,7 +1280,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="96b8e698-8084-5c7d-9774-73ed3eb3dbff" id="48">
+      <event guid="f335b4b3-269f-50cc-b6a8-88af09ce5c72" id="48">
         <date>2026-02-25T13:52:00+01:00</date>
         <start>13:52</start>
         <duration>00:22</duration>
@@ -1306,7 +1306,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="f5f13b85-376e-56d3-8ee6-0fc2a33473ad" id="49">
+      <event guid="d6578993-38ff-5553-b335-c5ca1d2e455a" id="49">
         <date>2026-02-25T14:14:00+01:00</date>
         <start>14:14</start>
         <duration>00:22</duration>
@@ -1330,7 +1330,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d739e90f-bf71-5779-9651-c72bf522c2cf" id="50">
+      <event guid="528e560a-2c7b-5e6f-8ac7-019029bde6dc" id="50">
         <date>2026-02-25T14:36:00+01:00</date>
         <start>14:36</start>
         <duration>00:22</duration>
@@ -1352,7 +1352,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="82288f8f-992c-5f7f-bbde-51c0444f01b4" id="55">
+      <event guid="e11a141b-c65c-5e19-9ca7-c02eaff99d71" id="55">
         <date>2026-02-25T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -1370,7 +1370,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="24bc0b31-f037-5dec-a1bc-963f2ed804b6" id="60">
+      <event guid="34c48ff2-61b4-5e2c-8f64-be68458e96bf" id="60">
         <date>2026-02-25T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:22</duration>
@@ -1394,7 +1394,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="07e91c3a-6531-5b74-a6e4-dd45db07b9a7" id="61">
+      <event guid="ec2c99ac-19fb-5461-8483-25f9d134eae9" id="61">
         <date>2026-02-25T15:52:00+01:00</date>
         <start>15:52</start>
         <duration>00:22</duration>
@@ -1417,7 +1417,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="66eca9fe-8f99-5970-8a45-93c184bd8a79" id="62">
+      <event guid="b479e3f7-18f2-59f6-9200-fde392a0528d" id="62">
         <date>2026-02-25T16:14:00+01:00</date>
         <start>16:14</start>
         <duration>00:22</duration>
@@ -1440,7 +1440,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="6dac3f2f-7d50-51bc-b92e-933e81f8c705" id="63">
+      <event guid="24f856a4-9b4a-50f8-9614-c95756d61dab" id="63">
         <date>2026-02-25T16:36:00+01:00</date>
         <start>16:36</start>
         <duration>00:22</duration>
@@ -1464,7 +1464,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="1e274b8d-d769-505f-8370-c13be32599ac" id="64">
+      <event guid="b103c222-736d-5a8c-a126-656abc5e693e" id="64">
         <date>2026-02-25T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>01:20</duration>
@@ -1482,7 +1482,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="18a970ce-506f-599a-acc5-77a4841b793c" id="66">
+      <event guid="3ffa7155-b4cc-522b-a071-180a5521befd" id="66">
         <date>2026-02-25T20:40:00+01:00</date>
         <start>20:40</start>
         <duration>01:20</duration>
@@ -1502,7 +1502,7 @@
       </event>
     </room>
     <room name="Sky Lounge 1" slug="sky-lounge-1">
-      <event guid="bdadecf0-1bd4-5ff0-b81e-ee41237d8ec1" id="29">
+      <event guid="6040cbad-2a0a-5469-95df-568582c31fe1" id="29">
         <date>2026-02-25T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -1520,7 +1520,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="46cf0ccb-9005-5ce8-b77d-4ba569a244f3" id="30">
+      <event guid="3363486e-6c8b-5b4a-8c6d-6f83629d5799" id="30">
         <date>2026-02-25T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
@@ -1544,7 +1544,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="007f684e-5a54-571f-b923-a0a45697c874" id="31">
+      <event guid="3c1e0987-3159-5dfa-a4ea-809e3401a359" id="31">
         <date>2026-02-25T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
@@ -1566,7 +1566,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="7b26a621-86f7-5192-8e6a-fbafe2f47e3f" id="32">
+      <event guid="92ae7888-2056-5434-8d1d-2b25c2da0cf6" id="32">
         <date>2026-02-25T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
@@ -1589,7 +1589,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="468f0a4b-68c1-530a-afd1-33392db40bcb" id="33">
+      <event guid="dde04762-4138-5c4c-965b-31b69e08f370" id="33">
         <date>2026-02-25T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
@@ -1611,7 +1611,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="994f5e2b-6bbc-56cf-9669-91e4e0e3002d" id="73">
+      <event guid="7fcf3b1b-bc14-5cdd-839b-35a4d9d9fd75" id="73">
         <date>2026-02-25T11:40:00+01:00</date>
         <start>11:40</start>
         <duration>00:25</duration>
@@ -1632,7 +1632,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5da8df4e-5163-500e-b33a-78172eefac5f" id="42">
+      <event guid="0c3a7e0e-ff4d-5c6a-8aeb-b440472564b6" id="42">
         <date>2026-02-25T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -1650,7 +1650,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="8b1cf88f-fb0c-5049-811c-e580f687ae0e" id="43">
+      <event guid="69735a95-7483-5f00-84a3-6ff32e67d863" id="43">
         <date>2026-02-25T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:22</duration>
@@ -1675,7 +1675,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="603ef4cc-14ab-5111-b8e5-7e2d4ee6224b" id="44">
+      <event guid="d78a9980-50c2-5ef2-a384-e458e55bfe28" id="44">
         <date>2026-02-25T13:52:00+01:00</date>
         <start>13:52</start>
         <duration>00:22</duration>
@@ -1700,7 +1700,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="ff510064-82ca-59a4-b8eb-b9f8efc609b6" id="45">
+      <event guid="76477642-aa90-5ccd-9ee0-84f344442f0b" id="45">
         <date>2026-02-25T14:14:00+01:00</date>
         <start>14:14</start>
         <duration>00:22</duration>
@@ -1721,7 +1721,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b6d8de78-f9f3-5243-a272-ce3c88bae35b" id="46">
+      <event guid="4866c9bb-6a87-54a2-b296-202b2b1e88c7" id="46">
         <date>2026-02-25T14:36:00+01:00</date>
         <start>14:36</start>
         <duration>00:22</duration>
@@ -1747,7 +1747,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="bdadecf0-1bd4-5ff0-b81e-ee41237d8ec1" id="55">
+      <event guid="6580b7fc-4f96-5139-ab98-ab87a1c85e16" id="55">
         <date>2026-02-25T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -1765,7 +1765,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="6942eb8f-85f0-5239-b5c1-f12af94583a7" id="80">
+      <event guid="037c779a-b0bf-5df2-ba38-d4959b4b1205" id="80">
         <date>2026-02-25T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:45</duration>
@@ -1783,7 +1783,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="e45185e4-e3f7-56f3-a495-9c60beaaef32" id="81">
+      <event guid="1947784c-c258-58f4-9f3e-e340380ed24c" id="81">
         <date>2026-02-25T16:15:00+01:00</date>
         <start>16:15</start>
         <duration>00:45</duration>
@@ -1801,7 +1801,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="ec1cdc6a-8db7-5fa0-848a-7cb58cefe6f8" id="64">
+      <event guid="7e3e9f23-2fca-51e5-b889-2def25e06c03" id="64">
         <date>2026-02-25T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>01:20</duration>
@@ -1819,7 +1819,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="6ed3a181-8361-563c-ac10-585f99db8331" id="66">
+      <event guid="2bccec94-973e-5bd9-890d-20555c59baa7" id="66">
         <date>2026-02-25T20:40:00+01:00</date>
         <start>20:40</start>
         <duration>01:20</duration>
@@ -1839,7 +1839,7 @@
       </event>
     </room>
     <room name="Sky Lounge 2" slug="sky-lounge-2">
-      <event guid="2096d8c4-5ebb-5462-af43-e42652a5d6df" id="29">
+      <event guid="102a935a-15f1-54d1-bb68-ac1719ecd544" id="29">
         <date>2026-02-25T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -1857,7 +1857,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="19551902-8e22-5d53-a3be-817f165154a6" id="38">
+      <event guid="e8be73cb-e60e-5e02-a5c3-ba82f8c5ec79" id="38">
         <date>2026-02-25T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
@@ -1879,7 +1879,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="3173ecbc-67af-5000-9507-e5dff4bb4550" id="39">
+      <event guid="aa9cc120-055a-5281-bc97-203a5bb79142" id="39">
         <date>2026-02-25T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
@@ -1902,7 +1902,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="648e0fad-1109-5ac3-82ac-78d1124c3ff2" id="40">
+      <event guid="89d1fc09-3c00-5a32-b4cf-2be13eeb0bf9" id="40">
         <date>2026-02-25T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
@@ -1929,7 +1929,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5aa06ef9-0430-5e4d-be1d-8f5786b9756c" id="41">
+      <event guid="8a8125cb-d2b9-5cff-8464-f2adda35051a" id="41">
         <date>2026-02-25T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
@@ -1952,7 +1952,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="994f5e2b-6bbc-56cf-9669-91e4e0e3002d" id="73">
+      <event guid="3f821536-8f0e-50f4-9df2-ab9384a9e08d" id="73">
         <date>2026-02-25T11:40:00+01:00</date>
         <start>11:40</start>
         <duration>00:25</duration>
@@ -1973,7 +1973,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="023e53ad-b900-53d1-a7e0-83e59c5684d0" id="42">
+      <event guid="1732c99c-6207-57a4-a8c6-911c46b80e71" id="42">
         <date>2026-02-25T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -1991,7 +1991,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="a2693981-c77c-585c-9457-968c25ac6f4d" id="51">
+      <event guid="3da702c2-d710-5ce7-8d4c-e6787b64a3cf" id="51">
         <date>2026-02-25T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:22</duration>
@@ -2014,7 +2014,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="4d9ce5fe-f1a8-5183-a0f3-54d804ff485f" id="52">
+      <event guid="477b75fc-fed2-51dc-87c5-1f6042a6f35e" id="52">
         <date>2026-02-25T13:52:00+01:00</date>
         <start>13:52</start>
         <duration>00:22</duration>
@@ -2035,7 +2035,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="19b4caa6-b1f5-5aec-8f64-6fcf462807e8" id="53">
+      <event guid="4d711176-2345-5522-8e25-21f6a236d874" id="53">
         <date>2026-02-25T14:14:00+01:00</date>
         <start>14:14</start>
         <duration>00:22</duration>
@@ -2056,7 +2056,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="bc70f49d-7d90-53dd-abf9-e4651eb3d967" id="54">
+      <event guid="07763857-55f3-5430-a11f-280fa623fcd3" id="54">
         <date>2026-02-25T14:36:00+01:00</date>
         <start>14:36</start>
         <duration>00:22</duration>
@@ -2078,7 +2078,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="2096d8c4-5ebb-5462-af43-e42652a5d6df" id="55">
+      <event guid="bfba739d-2dcb-54a3-b0a2-0a7e74dd702a" id="55">
         <date>2026-02-25T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -2096,7 +2096,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="643f04ad-ef7d-5f23-b02a-2f7d0ff73ff0" id="56">
+      <event guid="8af4cd8d-0f48-59f7-9f36-0ca83dc3f156" id="56">
         <date>2026-02-25T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:22</duration>
@@ -2121,7 +2121,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="e3175091-b9d4-5fe1-b1a4-6c351535e68e" id="57">
+      <event guid="20f3f22f-9d12-5dd4-8d45-9230008f55b0" id="57">
         <date>2026-02-25T15:52:00+01:00</date>
         <start>15:52</start>
         <duration>00:22</duration>
@@ -2145,7 +2145,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="c84e7d25-4744-5681-a478-cb01f914270b" id="58">
+      <event guid="66f80c33-1a73-5268-a144-2bc41b365315" id="58">
         <date>2026-02-25T16:14:00+01:00</date>
         <start>16:14</start>
         <duration>00:22</duration>
@@ -2172,7 +2172,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="1e8ef94b-af64-5bdd-861b-a7cc1aaec72e" id="59">
+      <event guid="5c451745-ea26-5f3b-9608-a4a794f25803" id="59">
         <date>2026-02-25T16:36:00+01:00</date>
         <start>16:36</start>
         <duration>00:22</duration>
@@ -2196,7 +2196,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="9271320a-eb4d-5404-ab4a-b930533ee9b9" id="82">
+      <event guid="e8e0b0ad-8dea-5851-92aa-e0e7086f47bf" id="82">
         <date>2026-02-25T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>01:00</duration>
@@ -2214,7 +2214,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="6ea02b7f-d0a0-5e2f-bb69-89b0e45cd245" id="64">
+      <event guid="7a6c9435-c3d3-584a-a94e-545d68143885" id="64">
         <date>2026-02-25T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>01:20</duration>
@@ -2232,7 +2232,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="96183d4f-3a00-5c34-8667-95505fdea537" id="66">
+      <event guid="782023ed-1a03-55ce-b22f-f155000a4488" id="66">
         <date>2026-02-25T20:40:00+01:00</date>
         <start>20:40</start>
         <duration>01:20</duration>
@@ -2252,7 +2252,7 @@
       </event>
     </room>
     <room name="Sky Lounge 3" slug="sky-lounge-3">
-      <event guid="a13fb0fb-04f2-5ccd-b75f-37d7d0747abf" id="67">
+      <event guid="638ae380-c707-510f-8754-97c32545dfb2" id="67">
         <date>2026-02-25T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>00:15</duration>
@@ -2272,7 +2272,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="cb65ed8a-851b-55d1-8bd1-96306c3e2f84" id="68">
+      <event guid="c46c7365-f346-525d-b667-61b693bd556c" id="68">
         <date>2026-02-25T09:15:00+01:00</date>
         <start>09:15</start>
         <duration>00:25</duration>
@@ -2292,7 +2292,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d215eb03-ab03-5818-addd-665e117d74e4" id="69">
+      <event guid="1264a7da-fcf1-5797-aae6-07bb5d0d97c5" id="69">
         <date>2026-02-25T09:40:00+01:00</date>
         <start>09:40</start>
         <duration>00:25</duration>
@@ -2313,7 +2313,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="199d2fd0-1875-54f9-8dcf-e4ce94917725" id="29">
+      <event guid="2e176ec3-72d3-5e24-bb25-bc13ea057ea4" id="29">
         <date>2026-02-25T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -2331,7 +2331,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="0cf999c9-4804-5501-8e86-f6f53fa66ae9" id="70">
+      <event guid="4c73c97e-6a7a-569a-b0ed-b987139ec9cd" id="70">
         <date>2026-02-25T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:25</duration>
@@ -2351,7 +2351,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b99ac8d2-71d9-56c1-a331-4f2db4a2cb83" id="71">
+      <event guid="77750fa3-041d-5041-92a2-1b3006ca7d58" id="71">
         <date>2026-02-25T10:55:00+01:00</date>
         <start>10:55</start>
         <duration>00:25</duration>
@@ -2371,7 +2371,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="c74d9676-90d0-5186-bb87-356d6f14805d" id="72">
+      <event guid="038adc71-c356-52fc-a9fc-0609e97f3d58" id="72">
         <date>2026-02-25T11:15:00+01:00</date>
         <start>11:15</start>
         <duration>00:25</duration>
@@ -2391,7 +2391,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="1518c149-3a00-56f5-814a-8b7aef59bd1c" id="73">
+      <event guid="89187190-bf08-5700-ac01-776da0af7ba2" id="73">
         <date>2026-02-25T11:40:00+01:00</date>
         <start>11:40</start>
         <duration>00:25</duration>
@@ -2412,7 +2412,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d9d1c1cc-4073-5548-bb37-2b043dd2e987" id="42">
+      <event guid="af26e0fd-ac8f-5d83-a849-f755eb61be98" id="42">
         <date>2026-02-25T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -2430,7 +2430,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="819d2a66-e789-5688-9ac4-9422ccf768fc" id="74">
+      <event guid="06beae7b-817e-5b0c-bcd0-4661400b38db" id="74">
         <date>2026-02-25T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:25</duration>
@@ -2450,7 +2450,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="4fe43ca7-a9f3-5de8-99c0-53197d3d8342" id="75">
+      <event guid="ab391888-bdff-5103-9689-c9aad05bdf3c" id="75">
         <date>2026-02-25T13:55:00+01:00</date>
         <start>13:55</start>
         <duration>00:25</duration>
@@ -2470,7 +2470,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="013254fa-56b7-5d65-8212-1e1c572a8023" id="76">
+      <event guid="0d2192a5-2f0e-590a-b573-990c1d22bfd5" id="76">
         <date>2026-02-25T14:15:00+01:00</date>
         <start>14:15</start>
         <duration>00:25</duration>
@@ -2490,7 +2490,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="404425c9-e156-56ab-a04b-f3f65731318d" id="77">
+      <event guid="df57814e-074f-5dec-ad9b-0171cbc9d10c" id="77">
         <date>2026-02-25T14:40:00+01:00</date>
         <start>14:40</start>
         <duration>00:25</duration>
@@ -2510,7 +2510,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="199d2fd0-1875-54f9-8dcf-e4ce94917725" id="55">
+      <event guid="47119050-ec41-5a85-b2c0-75859c8822af" id="55">
         <date>2026-02-25T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -2528,7 +2528,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="0dd30f62-8d9a-5228-a291-b99d2d8317c3" id="78">
+      <event guid="5e9f4625-8db9-57eb-b18c-2192b657f702" id="78">
         <date>2026-02-25T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>01:15</duration>
@@ -2546,7 +2546,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="94f8ad85-628d-51c6-9523-a04c6640201a" id="79">
+      <event guid="aeee9fb2-dd87-5f61-b7e3-16c5627723bc" id="79">
         <date>2026-02-25T16:45:00+01:00</date>
         <start>16:45</start>
         <duration>00:05</duration>
@@ -2566,7 +2566,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="976369a9-1fb7-5b7d-be62-3d25e53e1169" id="64">
+      <event guid="6f330e38-c0f7-5b85-b073-132b62ba0f75" id="64">
         <date>2026-02-25T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>01:20</duration>
@@ -2584,7 +2584,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="8259dc13-5402-56f9-9de6-eb1798c8291d" id="66">
+      <event guid="7af3aecd-23bd-5cee-be64-1b39c832559e" id="66">
         <date>2026-02-25T20:40:00+01:00</date>
         <start>20:40</start>
         <duration>01:20</duration>
@@ -2604,7 +2604,7 @@
       </event>
     </room>
     <room name="University of Bern" slug="university-of-bern">
-      <event guid="6df75332-df05-55f0-a144-f035a9c523f9" id="29">
+      <event guid="f6eff6ca-1186-5103-9b3a-2a2e7ce794be" id="29">
         <date>2026-02-25T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -2622,7 +2622,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="be92b5d0-0540-5dc9-ab94-de52d3f7c6cb" id="73">
+      <event guid="5b861fd3-7eda-55c8-a89a-edb2aec387e0" id="73">
         <date>2026-02-25T11:40:00+01:00</date>
         <start>11:40</start>
         <duration>00:25</duration>
@@ -2643,7 +2643,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="208c9ae5-6f2c-5c18-87f9-961b80f6aa04" id="42">
+      <event guid="826ede4d-f371-5bbe-b9fd-544d7518a1d2" id="42">
         <date>2026-02-25T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -2661,7 +2661,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="6df75332-df05-55f0-a144-f035a9c523f9" id="55">
+      <event guid="ee7141cb-ff7d-52fc-9e66-7b6ed1d2f5a6" id="55">
         <date>2026-02-25T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -2679,7 +2679,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="db2e17ab-13b9-5f08-b707-d288a3c4c318" id="64">
+      <event guid="62a64dc0-4212-558d-99fd-c4515cb5a3db" id="64">
         <date>2026-02-25T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>01:20</duration>
@@ -2697,7 +2697,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="865d6933-46a6-593f-89c2-971a2749f542" id="65">
+      <event guid="07403977-7dd9-5348-b07e-3325acfaa5ce" id="65">
         <date>2026-02-25T19:20:00+01:00</date>
         <start>19:20</start>
         <duration>01:20</duration>
@@ -2719,7 +2719,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="968e1c38-5c27-5ae0-b4f0-fc47bbd5f4c4" id="66">
+      <event guid="2578d749-a34e-5e6d-b42e-e442a72cc498" id="66">
         <date>2026-02-25T20:40:00+01:00</date>
         <start>20:40</start>
         <duration>01:20</duration>
@@ -2741,7 +2741,7 @@
   </day>
   <day index="4" date="2026-02-26" start="2026-02-26T09:00:00+01:00" end="2026-02-27T08:59:00+01:00">
     <room name="Champions Lounge" slug="champions-lounge">
-      <event guid="9350f7ae-22b5-5afd-a567-abde9ed9e27e" id="83">
+      <event guid="47ea67a6-502b-5df9-bc87-daf221a9f711" id="83">
         <date>2026-02-26T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>00:05</duration>
@@ -2761,7 +2761,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="54b69e68-5e31-5e88-9395-b6989b674234" id="84">
+      <event guid="21a1aed6-3854-567f-8a19-1b673fae32ac" id="84">
         <date>2026-02-26T09:05:00+01:00</date>
         <start>09:05</start>
         <duration>00:55</duration>
@@ -2782,7 +2782,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b4b12ddf-7033-5843-8397-f25f5f8e6b70" id="85">
+      <event guid="4e2d524b-d4aa-5a72-8e74-9d4d376be94f" id="85">
         <date>2026-02-26T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -2800,7 +2800,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="74ba6db3-105b-59c3-97f7-de9aacb58d6a" id="109">
+      <event guid="5c482b65-9594-5c4c-9a5a-12455b72882d" id="109">
         <date>2026-02-26T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:30</duration>
@@ -2818,7 +2818,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="9df627b3-af97-5df3-9b16-6ae8af9b5794" id="110">
+      <event guid="ff1e3cc9-f721-5e0a-b66c-0bed7394a156" id="110">
         <date>2026-02-26T11:00:00+01:00</date>
         <start>11:00</start>
         <duration>00:30</duration>
@@ -2836,7 +2836,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="6e84b909-9f4a-5c50-b441-30b2acc3c392" id="111">
+      <event guid="14b16eb1-a28f-55a0-903b-12ca9d835dad" id="111">
         <date>2026-02-26T11:30:00+01:00</date>
         <start>11:30</start>
         <duration>00:30</duration>
@@ -2854,7 +2854,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="b19efe80-49e8-5a6d-8e95-65dd60ac233e" id="94">
+      <event guid="e50f2699-7758-5f4d-93b8-048a5e4cad0d" id="94">
         <date>2026-02-26T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -2872,7 +2872,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="18000f9c-288a-5317-a2ee-7e22938ad015" id="129">
+      <event guid="f8c6eab7-a3bd-5570-9d02-ce42b6b8f743" id="129">
         <date>2026-02-26T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>00:30</duration>
@@ -2890,7 +2890,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="6e7eb2af-133a-51e5-80fb-01fc21645569" id="112">
+      <event guid="f69f59aa-7be8-5a1d-8390-96bf5ffdbb84" id="112">
         <date>2026-02-26T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:30</duration>
@@ -2908,7 +2908,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d4c5b577-bea3-50ca-96d0-f8e149f9d97d" id="113">
+      <event guid="2147b4da-12a4-5594-94c7-893922607594" id="113">
         <date>2026-02-26T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>00:30</duration>
@@ -2926,7 +2926,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="44c36967-0738-5ee8-a6ce-b53d0cb191b3" id="114">
+      <event guid="d25140b8-3002-5680-98cc-44de19e038c9" id="114">
         <date>2026-02-26T14:30:00+01:00</date>
         <start>14:30</start>
         <duration>00:30</duration>
@@ -2944,7 +2944,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="87ba9bde-2641-59e7-afee-d1dd8bd9f188" id="103">
+      <event guid="84972978-0495-5843-8901-abf5c5575f40" id="103">
         <date>2026-02-26T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -2962,7 +2962,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="c802d3ac-e903-5401-b4b5-94d2ff3336b5" id="130">
+      <event guid="9370911d-3332-5970-a0bf-2a49d9fbe8d6" id="130">
         <date>2026-02-26T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -2980,7 +2980,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="25ea87fc-bee3-5e65-be0f-4a2d876c4214" id="115">
+      <event guid="42518dec-7c31-5526-b549-21c5ad3489fb" id="115">
         <date>2026-02-26T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:30</duration>
@@ -2998,7 +2998,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="36bdcee6-c1bf-5f94-b9eb-e257c5bbb6e9" id="116">
+      <event guid="1c810794-7d84-5320-9f45-c5240b598050" id="116">
         <date>2026-02-26T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>00:30</duration>
@@ -3016,7 +3016,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="02b0c065-12f6-555f-8542-e8ae65dd64e0" id="117">
+      <event guid="b6767198-aadf-51d5-b762-e93d22527624" id="117">
         <date>2026-02-26T16:30:00+01:00</date>
         <start>16:30</start>
         <duration>00:30</duration>
@@ -3034,7 +3034,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="28f7f5c6-c350-5537-98ea-8dab53d23851" id="118">
+      <event guid="5114e45f-9e36-5e72-88ca-2539d0e5fbcd" id="118">
         <date>2026-02-26T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>00:30</duration>
@@ -3052,7 +3052,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="1a286600-48d6-5f14-a007-0216ecff8a42" id="108">
+      <event guid="f386ea62-1f12-5d47-a8e1-398ebbe602c0" id="108">
         <date>2026-02-26T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>03:00</duration>
@@ -3072,7 +3072,7 @@
       </event>
     </room>
     <room name="Gurten Pavillon" slug="gurten-pavillon">
-      <event guid="63d4f100-d8df-530d-bfb5-6a8407ae3790" id="85">
+      <event guid="9f6ba8e6-ce93-5831-9597-98b5aeb923a0" id="85">
         <date>2026-02-26T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -3090,7 +3090,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="67007e76-667b-57fb-a194-3b03e022f882" id="94">
+      <event guid="97187d6e-8709-5993-aa07-179ea4796bf4" id="94">
         <date>2026-02-26T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -3108,7 +3108,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="2c2fb646-95ec-58e9-b9fd-96a41f7a825a" id="129">
+      <event guid="c871687c-37fa-54a8-b2bb-c378d44c7903" id="129">
         <date>2026-02-26T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>00:30</duration>
@@ -3126,7 +3126,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="63d4f100-d8df-530d-bfb5-6a8407ae3790" id="103">
+      <event guid="e6ee3f99-5700-5f79-966c-2a60e1218c01" id="103">
         <date>2026-02-26T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -3144,7 +3144,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="0702f82d-e0b3-5df0-8302-6b1409a08bcd" id="130">
+      <event guid="1b02138d-aa6a-58ac-b13f-18e7ee26a6c9" id="130">
         <date>2026-02-26T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -3162,7 +3162,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="3decadd8-605f-5e75-8cb2-6cc9163ce29e" id="108">
+      <event guid="3e57e89c-7202-5ee3-9f65-53c3f0303dc1" id="108">
         <date>2026-02-26T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>03:00</duration>
@@ -3182,7 +3182,7 @@
       </event>
     </room>
     <room name="Sky Lounge 1" slug="sky-lounge-1">
-      <event guid="bdadecf0-1bd4-5ff0-b81e-ee41237d8ec1" id="85">
+      <event guid="c77f5c0f-3367-53f9-9298-29677853b59a" id="85">
         <date>2026-02-26T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -3200,7 +3200,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="c885e5f1-1bc0-58be-9be8-1ef8832c9284" id="90">
+      <event guid="a9d2c46e-7c6d-50ea-b8d4-24c684dcbc7f" id="90">
         <date>2026-02-26T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
@@ -3222,7 +3222,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="4002da6e-a598-5f50-b539-e9c5bd9dcf06" id="91">
+      <event guid="72e5768a-c63e-5b81-beb8-b748db807ffb" id="91">
         <date>2026-02-26T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
@@ -3244,7 +3244,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d575e6d6-7b01-56eb-9074-95e119dc4a45" id="92">
+      <event guid="4fb65580-ddd6-5be0-ae04-b6eb5627a189" id="92">
         <date>2026-02-26T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
@@ -3271,7 +3271,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="29cfdb59-c589-52e7-b21a-ee7e1958bb0a" id="93">
+      <event guid="353614df-ddf3-5aa5-a649-956c589f2d8a" id="93">
         <date>2026-02-26T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
@@ -3294,7 +3294,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5da8df4e-5163-500e-b33a-78172eefac5f" id="94">
+      <event guid="e2f24553-a4b7-5768-a754-22022c1bc917" id="94">
         <date>2026-02-26T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -3312,7 +3312,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="774b0564-44d3-574b-92bb-87ca15aaa152" id="129">
+      <event guid="da641275-174d-5691-8cde-eaf353c694fa" id="129">
         <date>2026-02-26T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>00:30</duration>
@@ -3330,7 +3330,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="c3f36e33-9849-55f9-b995-3107df28c000" id="138">
+      <event guid="79fdac47-3710-59e3-9d82-28ff0b71e00e" id="138">
         <date>2026-02-26T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>01:30</duration>
@@ -3350,7 +3350,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="bdadecf0-1bd4-5ff0-b81e-ee41237d8ec1" id="103">
+      <event guid="cc03efd4-8333-5395-a690-46ea9087e7cb" id="103">
         <date>2026-02-26T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -3368,7 +3368,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5a90d8e0-5c09-5ff5-b7ef-35d042f562ee" id="130">
+      <event guid="906ad067-8df6-5800-bd49-b5134edfb4b9" id="130">
         <date>2026-02-26T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -3386,7 +3386,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="8b0e7914-4b0f-5e37-9650-12d092cdf07f" id="139">
+      <event guid="27109750-50e3-5410-bd20-b374b677d611" id="139">
         <date>2026-02-26T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>01:30</duration>
@@ -3406,7 +3406,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="4ad63cf0-21f5-5351-828c-571d63ed16f5" id="108">
+      <event guid="caa18df2-e4aa-590a-9253-0554197785b9" id="108">
         <date>2026-02-26T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>03:00</duration>
@@ -3426,7 +3426,7 @@
       </event>
     </room>
     <room name="Sky Lounge 2" slug="sky-lounge-2">
-      <event guid="2096d8c4-5ebb-5462-af43-e42652a5d6df" id="85">
+      <event guid="b37acf12-1cb2-5709-a165-c428b94d72f8" id="85">
         <date>2026-02-26T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -3444,7 +3444,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="c66b924f-84da-527b-8ff9-fc29e67c1657" id="86">
+      <event guid="490f840e-61e5-5d51-a6e2-e5ff19dbca75" id="86">
         <date>2026-02-26T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
@@ -3466,7 +3466,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="ddc80c1d-8209-50c2-86d1-27138ec5fcb2" id="87">
+      <event guid="3e0abc57-f470-5c02-9b54-09566c31c751" id="87">
         <date>2026-02-26T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
@@ -3487,7 +3487,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="0056a872-9bf1-50e2-a552-8430dd140625" id="88">
+      <event guid="b509ad15-dcc0-5e67-b1fe-c7ead6418a72" id="88">
         <date>2026-02-26T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
@@ -3510,7 +3510,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="f81c2e07-889d-5ab7-ab6c-0e8583c8eb41" id="89">
+      <event guid="ffcebd06-4724-5ac8-a698-074dad659104" id="89">
         <date>2026-02-26T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
@@ -3532,7 +3532,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="023e53ad-b900-53d1-a7e0-83e59c5684d0" id="94">
+      <event guid="b2d7eb34-e276-5e66-ab59-b58d264b2c57" id="94">
         <date>2026-02-26T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -3550,7 +3550,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="80d17e86-2e00-502b-9876-4dd50516901e" id="129">
+      <event guid="c987d9c9-aaa2-5deb-9a34-87953e3765bb" id="129">
         <date>2026-02-26T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>00:30</duration>
@@ -3568,7 +3568,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="4de9883f-d38e-5252-a32b-9c4569bedb71" id="99">
+      <event guid="a1265932-d6b5-54d6-972b-4e03bb447212" id="99">
         <date>2026-02-26T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:22</duration>
@@ -3590,7 +3590,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="c6dabdd3-68ea-5008-9cd6-6debb7221923" id="100">
+      <event guid="cf417728-fda7-5897-acf2-2f24a3895d47" id="100">
         <date>2026-02-26T13:52:00+01:00</date>
         <start>13:52</start>
         <duration>00:22</duration>
@@ -3613,7 +3613,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5769fb6a-b921-5dbc-bf3e-0763a2277bc0" id="101">
+      <event guid="f7fe4a11-aa9e-58a1-a6d5-ce18ad21fc51" id="101">
         <date>2026-02-26T14:14:00+01:00</date>
         <start>14:14</start>
         <duration>00:22</duration>
@@ -3637,7 +3637,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="a07802e6-0950-5dd9-9e95-ace5a0b52c0d" id="102">
+      <event guid="4313cb7f-34a3-5776-825d-2d01a03f817e" id="102">
         <date>2026-02-26T14:36:00+01:00</date>
         <start>14:36</start>
         <duration>00:22</duration>
@@ -3660,7 +3660,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="2096d8c4-5ebb-5462-af43-e42652a5d6df" id="103">
+      <event guid="85f29610-9300-59e6-95e2-fe7aa5cf2132" id="103">
         <date>2026-02-26T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -3678,7 +3678,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5d267c22-d79a-5720-84c3-845bb8e4aa48" id="130">
+      <event guid="73d887af-6d59-5fc5-beec-e3e2a255be83" id="130">
         <date>2026-02-26T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -3696,7 +3696,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="8ca358f8-904a-58d7-9fed-5b944093c5aa" id="104">
+      <event guid="0efcafe9-89e9-5aee-b779-542a8e20eb85" id="104">
         <date>2026-02-26T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:22</duration>
@@ -3720,7 +3720,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="92f779fa-8610-5dae-91f9-f388092823d9" id="105">
+      <event guid="185ece19-8fbf-58fb-831c-5580320b3cc5" id="105">
         <date>2026-02-26T15:52:00+01:00</date>
         <start>15:52</start>
         <duration>00:22</duration>
@@ -3744,7 +3744,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="6e52783a-48b2-5d76-bc74-3ce9023d1ecf" id="106">
+      <event guid="f97fa1a5-36b0-5ad8-b469-925165d27b17" id="106">
         <date>2026-02-26T16:14:00+01:00</date>
         <start>16:14</start>
         <duration>00:22</duration>
@@ -3766,7 +3766,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d9a5eef7-df04-5320-bce2-53255a4b631a" id="107">
+      <event guid="625dc990-dfba-56c4-8f48-1104f2e04dc7" id="107">
         <date>2026-02-26T16:36:00+01:00</date>
         <start>16:36</start>
         <duration>00:22</duration>
@@ -3788,7 +3788,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="620e3545-e5bc-5238-9368-8f3316bdf7ee" id="108">
+      <event guid="65b0b558-3cf5-5115-9d6b-96da19413484" id="108">
         <date>2026-02-26T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>03:00</duration>
@@ -3808,7 +3808,7 @@
       </event>
     </room>
     <room name="Sky Lounge 3" slug="sky-lounge-3">
-      <event guid="199d2fd0-1875-54f9-8dcf-e4ce94917725" id="85">
+      <event guid="537c7015-eb5c-5963-9420-11e4a0ddb357" id="85">
         <date>2026-02-26T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -3826,7 +3826,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="6240840f-25be-5a78-8ea9-5af2f702447e" id="119">
+      <event guid="7337d0a2-ed29-5b9c-8ea6-7d6b4f7b273a" id="119">
         <date>2026-02-26T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:09</duration>
@@ -3846,7 +3846,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="ad16c4b3-bf7e-56c8-b4e4-8d42cb845558" id="120">
+      <event guid="e764a544-5ee7-51ee-b213-0b75f198bdb8" id="120">
         <date>2026-02-26T10:39:00+01:00</date>
         <start>10:39</start>
         <duration>00:09</duration>
@@ -3866,7 +3866,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="57354590-ca58-5756-a8da-5df6f888287a" id="121">
+      <event guid="ab5abd9d-627d-5316-a322-410ad944d45a" id="121">
         <date>2026-02-26T10:48:00+01:00</date>
         <start>10:48</start>
         <duration>00:09</duration>
@@ -3886,7 +3886,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="0bddef46-59ec-541d-98e2-6f49054c1a4f" id="122">
+      <event guid="51070058-060c-5408-b4e0-b8c3cfb5c08e" id="122">
         <date>2026-02-26T10:57:00+01:00</date>
         <start>10:57</start>
         <duration>00:09</duration>
@@ -3906,7 +3906,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="6d7b01a5-6133-5fce-8473-1512a48ac1c7" id="123">
+      <event guid="3b8ff4c2-916b-549f-89c0-79c74ab3e99a" id="123">
         <date>2026-02-26T11:06:00+01:00</date>
         <start>11:06</start>
         <duration>00:09</duration>
@@ -3926,7 +3926,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="e98a3efe-021f-5f79-b42c-011f0f8dd656" id="124">
+      <event guid="56687afa-2759-5d2c-80dc-0868a3b72403" id="124">
         <date>2026-02-26T11:15:00+01:00</date>
         <start>11:15</start>
         <duration>00:09</duration>
@@ -3946,7 +3946,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="c1355399-2acd-53e7-ab08-82e4fafde816" id="125">
+      <event guid="b4218dc5-d38d-5f62-a6cf-471d1c5169a0" id="125">
         <date>2026-02-26T11:24:00+01:00</date>
         <start>11:24</start>
         <duration>00:09</duration>
@@ -3966,7 +3966,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="af95950f-d312-5c2f-9593-45411af8246e" id="126">
+      <event guid="d6adb4da-fda5-5415-8bb8-509d3e24d32e" id="126">
         <date>2026-02-26T11:33:00+01:00</date>
         <start>11:33</start>
         <duration>00:09</duration>
@@ -3986,7 +3986,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5b797534-b674-5006-ba71-8ca553c9df06" id="127">
+      <event guid="a2133a82-7b7d-5220-b7d8-efdfdf98f162" id="127">
         <date>2026-02-26T11:42:00+01:00</date>
         <start>11:42</start>
         <duration>00:09</duration>
@@ -4006,7 +4006,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="59d3b709-44d3-52d5-9b23-ad71d7e13a4d" id="128">
+      <event guid="4683923d-47a3-5654-a955-d35ca484cd63" id="128">
         <date>2026-02-26T11:51:00+01:00</date>
         <start>11:51</start>
         <duration>00:09</duration>
@@ -4026,7 +4026,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d9d1c1cc-4073-5548-bb37-2b043dd2e987" id="94">
+      <event guid="77615f60-74bf-5084-a57e-7b962040ad25" id="94">
         <date>2026-02-26T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -4044,7 +4044,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="00756915-3795-5ee9-a3a2-48b4805f111e" id="129">
+      <event guid="6b41529e-e415-596c-a0a9-1e59ae614f17" id="129">
         <date>2026-02-26T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>00:30</duration>
@@ -4062,7 +4062,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="0659b6da-4583-556c-9735-45b392a7e7c5" id="95">
+      <event guid="014e59a5-293f-569e-af1c-5ef7381dfb45" id="95">
         <date>2026-02-26T13:30:00+01:00</date>
         <start>13:30</start>
         <duration>00:22</duration>
@@ -4086,7 +4086,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="3bb8d53b-a6f3-5ad5-9701-60a17268410c" id="96">
+      <event guid="00925703-cb24-509f-ae20-51cfab8bc9f6" id="96">
         <date>2026-02-26T13:52:00+01:00</date>
         <start>13:52</start>
         <duration>00:22</duration>
@@ -4108,7 +4108,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="581de92e-ea24-5484-b06b-36bbfd39dedd" id="97">
+      <event guid="573102c8-5433-5b5b-9f89-d6f2f806776d" id="97">
         <date>2026-02-26T14:14:00+01:00</date>
         <start>14:14</start>
         <duration>00:22</duration>
@@ -4130,7 +4130,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5de1aeab-36e3-5d1f-838b-7544ed7a0927" id="98">
+      <event guid="15d860ec-f0cc-5b59-a3b5-35137b168cc8" id="98">
         <date>2026-02-26T14:36:00+01:00</date>
         <start>14:36</start>
         <duration>00:22</duration>
@@ -4153,7 +4153,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="199d2fd0-1875-54f9-8dcf-e4ce94917725" id="103">
+      <event guid="ef47f9e4-2bc7-5b7e-9ef9-f3131b560d6a" id="103">
         <date>2026-02-26T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -4171,7 +4171,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d03c5ec1-95a8-50a4-8703-f5cc90792cdb" id="130">
+      <event guid="5a3cb47e-b069-55e7-b367-fdaf08eed2a1" id="130">
         <date>2026-02-26T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>00:30</duration>
@@ -4189,7 +4189,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="6d752b9c-5b34-59e4-af00-14db91cb3087" id="131">
+      <event guid="bb7954d0-ec47-5881-84bf-3a91a6141392" id="131">
         <date>2026-02-26T15:30:00+01:00</date>
         <start>15:30</start>
         <duration>00:20</duration>
@@ -4209,7 +4209,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="34eeea4a-32a3-587a-aacd-e24fc25e1318" id="132">
+      <event guid="e5341052-6c13-5a70-91b7-ced31023f18b" id="132">
         <date>2026-02-26T15:50:00+01:00</date>
         <start>15:50</start>
         <duration>00:20</duration>
@@ -4229,7 +4229,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="baf218d6-038f-57d8-9d26-c9bf32e57e22" id="133">
+      <event guid="05348492-dea6-5c4a-a7ff-c039742f479d" id="133">
         <date>2026-02-26T16:10:00+01:00</date>
         <start>16:10</start>
         <duration>00:20</duration>
@@ -4249,7 +4249,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="83824566-00ae-5569-98d8-09094b77cd8f" id="134">
+      <event guid="9a209c61-3ec4-55ee-af5e-14636f21aef0" id="134">
         <date>2026-02-26T16:30:00+01:00</date>
         <start>16:30</start>
         <duration>00:20</duration>
@@ -4269,7 +4269,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="89607367-95dc-5581-b90b-6b4836d6aad2" id="135">
+      <event guid="f44af36d-d6ca-5248-8449-e3160e713565" id="135">
         <date>2026-02-26T16:50:00+01:00</date>
         <start>16:50</start>
         <duration>00:20</duration>
@@ -4289,7 +4289,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="bddc092b-8dbb-5b10-be5a-ae9da8154363" id="136">
+      <event guid="1bec147b-7cac-5e7f-a039-2e681f97ed96" id="136">
         <date>2026-02-26T17:10:00+01:00</date>
         <start>17:10</start>
         <duration>00:20</duration>
@@ -4309,7 +4309,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5150f14a-6c7a-525b-aca3-b1617eada6ee" id="137">
+      <event guid="a635127f-3389-5d1b-9c87-b46ea8000cf3" id="137">
         <date>2026-02-26T17:30:00+01:00</date>
         <start>17:30</start>
         <duration>00:30</duration>
@@ -4329,7 +4329,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5b5c5a30-0b91-5b08-af1c-1cc37659bbda" id="108">
+      <event guid="b37fa57e-de6f-5de6-aaa1-f1617cc8eb18" id="108">
         <date>2026-02-26T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>03:00</duration>
@@ -4351,7 +4351,7 @@
   </day>
   <day index="5" date="2026-02-27" start="2026-02-27T09:00:00+01:00" end="2026-02-28T08:59:00+01:00">
     <room name="Champions Lounge" slug="champions-lounge">
-      <event guid="cfe6511c-9d07-53b3-9d60-7b4655ebd80f" id="140">
+      <event guid="d448b1b3-414f-5cbd-a0f9-22e711a5a9dd" id="140">
         <date>2026-02-27T09:00:00+01:00</date>
         <start>09:00</start>
         <duration>01:00</duration>
@@ -4372,7 +4372,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="477db204-3810-54d4-8256-3ee0d00d0839" id="141">
+      <event guid="454d171a-c222-5f2c-9eae-9df128bc67ad" id="141">
         <date>2026-02-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -4390,7 +4390,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="60915599-e569-5e64-93bd-8fe89b487f44" id="146">
+      <event guid="238b20ee-34bd-5f2c-a2e6-7e28cf6d0f92" id="146">
         <date>2026-02-27T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
@@ -4412,7 +4412,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="fccdf62d-6292-5795-9d9b-5a18d8ade75b" id="147">
+      <event guid="29963ae7-a08d-54a0-8ba7-5f50ceeeff18" id="147">
         <date>2026-02-27T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
@@ -4434,7 +4434,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="151fb3ed-19ac-5dc0-bfe0-926d42d7f152" id="148">
+      <event guid="26c78d63-c008-5ffd-a789-673a28eaed30" id="148">
         <date>2026-02-27T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
@@ -4460,7 +4460,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="a9d54d35-7477-5561-8616-e81b9667ed37" id="149">
+      <event guid="17929aff-c178-5d82-a385-ec6151996b86" id="149">
         <date>2026-02-27T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
@@ -4482,7 +4482,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="20607f38-07f9-557d-b9b1-9b6addc0e529" id="154">
+      <event guid="e3a9b9de-3399-5008-be6a-fe9b6759181c" id="154">
         <date>2026-02-27T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>00:15</duration>
@@ -4502,7 +4502,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="c34a9386-0637-5b36-8a16-bd14529613b3" id="157">
+      <event guid="b92edb68-44b3-520b-98c7-78413e75e70a" id="157">
         <date>2026-02-27T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -4520,7 +4520,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="864c15e4-87da-5f93-b848-3ad0fb2c9519" id="155">
+      <event guid="a3d19442-6506-5384-b93e-bef6aa032b5f" id="155">
         <date>2026-02-27T12:15:00+01:00</date>
         <start>12:15</start>
         <duration>01:15</duration>
@@ -4540,7 +4540,7 @@
       </event>
     </room>
     <room name="Sky Lounge 1" slug="sky-lounge-1">
-      <event guid="bdadecf0-1bd4-5ff0-b81e-ee41237d8ec1" id="141">
+      <event guid="ff25bdc2-fa84-5be7-afdd-3c8071e4867b" id="141">
         <date>2026-02-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -4558,7 +4558,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="48dc93c9-2943-5fa1-8d7c-44301be574e0" id="156">
+      <event guid="b32db315-3da7-5a1e-9a69-ca1f44612d9d" id="156">
         <date>2026-02-27T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>01:30</duration>
@@ -4578,7 +4578,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5da8df4e-5163-500e-b33a-78172eefac5f" id="157">
+      <event guid="fd5a0b5d-65ed-50d9-9584-35c64221752e" id="157">
         <date>2026-02-27T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -4596,7 +4596,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5da8df4e-5163-500e-b33a-78172eefac5f" id="155">
+      <event guid="99b15517-8ad6-5582-a431-bf726cc1889a" id="155">
         <date>2026-02-27T12:15:00+01:00</date>
         <start>12:15</start>
         <duration>01:15</duration>
@@ -4616,7 +4616,7 @@
       </event>
     </room>
     <room name="Sky Lounge 2" slug="sky-lounge-2">
-      <event guid="2096d8c4-5ebb-5462-af43-e42652a5d6df" id="141">
+      <event guid="d0504093-2212-5394-8083-fef419d8bc3f" id="141">
         <date>2026-02-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -4634,7 +4634,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="6fac2348-7b5a-50b1-9155-e04264aed723" id="142">
+      <event guid="c8120a09-7a7b-5ce0-b48d-0e0991abee0c" id="142">
         <date>2026-02-27T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
@@ -4654,7 +4654,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="3a3fad72-cfb9-5f1d-a6e2-76f443a03742" id="143">
+      <event guid="dc0e7848-fb67-56d7-badb-9c255789c9d7" id="143">
         <date>2026-02-27T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
@@ -4680,7 +4680,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="446a37d0-b820-595c-bdc3-dbf6b13b6ef5" id="144">
+      <event guid="4f442e6f-276d-5220-8821-380e54c2a5ea" id="144">
         <date>2026-02-27T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
@@ -4700,7 +4700,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="f0f0c31e-3e0d-5dd2-a192-1ca08d4a6a9f" id="145">
+      <event guid="29d45554-f39f-597a-8b43-d0c5b1e12d13" id="145">
         <date>2026-02-27T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
@@ -4721,7 +4721,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="023e53ad-b900-53d1-a7e0-83e59c5684d0" id="157">
+      <event guid="2dd9e91c-ccf8-5a24-a60e-8960038434b5" id="157">
         <date>2026-02-27T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -4739,7 +4739,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="023e53ad-b900-53d1-a7e0-83e59c5684d0" id="155">
+      <event guid="22e1f448-4be4-57c9-9c37-96082fb96013" id="155">
         <date>2026-02-27T12:15:00+01:00</date>
         <start>12:15</start>
         <duration>01:15</duration>
@@ -4759,7 +4759,7 @@
       </event>
     </room>
     <room name="Sky Lounge 3" slug="sky-lounge-3">
-      <event guid="199d2fd0-1875-54f9-8dcf-e4ce94917725" id="141">
+      <event guid="76fcedbb-58cd-5a22-9105-f32e9b1b9266" id="141">
         <date>2026-02-27T10:00:00+01:00</date>
         <start>10:00</start>
         <duration>00:30</duration>
@@ -4777,7 +4777,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="fceb9596-142a-5caf-85d1-d5bd1f07e0ba" id="150">
+      <event guid="8b3d0cc9-4c76-57ae-a8fb-5433efdf6a52" id="150">
         <date>2026-02-27T10:30:00+01:00</date>
         <start>10:30</start>
         <duration>00:22</duration>
@@ -4798,7 +4798,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d53d12b7-e7cb-5672-8aa1-a5af3e0cc2dd" id="151">
+      <event guid="3e53345b-1c52-5147-8dab-be95d9f62cf4" id="151">
         <date>2026-02-27T10:52:00+01:00</date>
         <start>10:52</start>
         <duration>00:22</duration>
@@ -4819,7 +4819,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="4ad8eca5-6767-5d38-aac7-ee6890cf7b6c" id="152">
+      <event guid="7bb9f4d1-55b1-54fb-a587-e0b054e426b9" id="152">
         <date>2026-02-27T11:14:00+01:00</date>
         <start>11:14</start>
         <duration>00:22</duration>
@@ -4840,7 +4840,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="5731cf42-aacc-5da4-b62d-9126824440b8" id="153">
+      <event guid="9abbf2a2-1737-5244-837a-3d562ec9d77a" id="153">
         <date>2026-02-27T11:36:00+01:00</date>
         <start>11:36</start>
         <duration>00:22</duration>
@@ -4862,7 +4862,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d9d1c1cc-4073-5548-bb37-2b043dd2e987" id="157">
+      <event guid="5b7b1bb8-00f7-58b4-a37e-47515083169a" id="157">
         <date>2026-02-27T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>01:30</duration>
@@ -4880,7 +4880,7 @@
         <attachments/>
         <links/>
       </event>
-      <event guid="d9d1c1cc-4073-5548-bb37-2b043dd2e987" id="155">
+      <event guid="8d1bece8-de7b-5490-8590-91615b2e931b" id="155">
         <date>2026-02-27T12:15:00+01:00</date>
         <start>12:15</start>
         <duration>01:15</duration>

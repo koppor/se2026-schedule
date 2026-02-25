@@ -47,6 +47,12 @@ def make_guid(slug):
     return str(uuid.uuid5(SCHEDULE_NS, slug))
 
 
+def make_stable_guid(day_date, start_time, title, room):
+    """GUID derived solely from stable event identity — survives re-runs."""
+    key = f"{day_date}|{start_time}|{title}|{room}"
+    return str(uuid.uuid5(SCHEDULE_NS, key))
+
+
 def parse_time_minutes(t):
     h, m = t.strip().split(":")
     return int(h) * 60 + int(m)
@@ -314,7 +320,7 @@ def extract_events(inner_soup):
 
                 duration = compute_duration(start_time, end_time)
                 slug = make_event_slug("se2026", event_id, title)
-                guid = make_guid(slug)
+                guid = make_stable_guid(day_date, start_time, title, room)
                 event_type = get_event_type(title)
                 language = get_language(title)
 
@@ -360,7 +366,7 @@ def extract_events(inner_soup):
                         sub_dur_min = si["duration_minutes"]
                         sub_duration = minutes_to_duration(sub_dur_min)
                         sub_slug = make_event_slug("se2026", event_id, si["title"])
-                        sub_guid = make_guid(sub_slug)
+                        sub_guid = make_stable_guid(day_date, sub_start, si["title"], room)
                         sub_dedup = (day_date, sub_start, si["title"], room)
                         if sub_dedup not in seen:
                             seen.add(sub_dedup)
@@ -408,11 +414,10 @@ def inject_breaks_into_all_rooms(events):
             for room in rooms:
                 if room == brk["room"]:
                     continue
-                slug = make_event_slug("se2026", 0, f"{brk['title']}-{room}")
                 copy = dict(brk)
                 copy["room"] = room
-                copy["slug"] = slug
-                copy["guid"] = make_guid(slug)
+                copy["slug"] = make_event_slug("se2026", 0, f"{brk['title']}-{room}")
+                copy["guid"] = make_stable_guid(brk["day_date"], brk["start"], brk["title"], room)
                 extra.append(copy)
 
     events.extend(extra)
